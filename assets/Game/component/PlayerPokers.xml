@@ -99,24 +99,24 @@
     </component>
     <loader id="n26_fetr" name="img_type" xy="87,132" size="132,43" group="n22_toy1" url="ui://jow5n9bqrezh25" align="center" vAlign="middle"/>
     <group id="n22_toy1" name="porka" xy="87,30" size="237,150" advanced="true" collapsed="true"/>
-    <text id="n27_fetr" name="txt_scoretop" xy="239,21" size="10,38" font="ui://jow5n9bqx90y46" fontSize="12" vAlign="middle" text="">
+    <text id="n27_fetr" name="txt_scoretop" xy="239,21" size="10,26" font="ui://jow5n9bqx90y46" fontSize="12" vAlign="middle" text="">
       <gearXY controller="c2" pages="0,1" values="239,21|-23,21"/>
     </text>
-    <text id="n28_fetr" name="txt_score_mid" xy="239,72" size="10,38" font="ui://jow5n9bqx90y46" fontSize="12" vAlign="middle" text="">
+    <text id="n28_fetr" name="txt_score_mid" xy="239,72" size="10,26" font="ui://jow5n9bqx90y46" fontSize="12" vAlign="middle" text="">
       <gearXY controller="c2" pages="0,1" values="239,72|-23,72"/>
     </text>
-    <text id="n29_fetr" name="txt_score_down" xy="239,124" size="10,38" font="ui://jow5n9bqx90y46" fontSize="12" vAlign="middle" text="">
+    <text id="n29_fetr" name="txt_score_down" xy="239,124" size="10,26" font="ui://jow5n9bqx90y46" fontSize="12" vAlign="middle" text="">
       <gearXY controller="c2" pages="0,1" values="239,124|-23,128"/>
     </text>
     <image id="n30_vhx3" name="imt_teshu" src="ct6q4b" fileName="imgs/game_0001_摆牌完成1-拷贝.png" xy="56,58" visible="false"/>
-    <image id="n31_vhx3" name="img_fanbei" src="x90y3r" fileName="imgs/game_0017_不翻倍-.png" xy="228,167" visible="false">
-      <gearXY controller="c2" pages="0,1" values="228,167|-32,168"/>
-    </image>
+    <text id="n32_gtlg" name="txt_score_result" xy="239,172" size="10,21" font="ui://jow5n9bqx90y47" fontSize="12" vAlign="middle" text="">
+      <gearXY controller="c2" pages="0,1" values="239,172|-23,175"/>
+    </text>
   </displayList>
   <transition name="t0">
-    <item time="0" type="Visible" target="n13_ist4" value="false"/>
-    <item time="0" type="Visible" target="n14_ist4" value="false"/>
     <item time="0" type="Visible" target="n15_ist4" value="false"/>
+    <item time="0" type="Visible" target="n14_ist4" value="false"/>
+    <item time="0" type="Visible" target="n13_ist4" value="false"/>
     <item time="4" type="Visible" target="n13_ist4" value="true"/>
     <item time="8" type="Visible" target="n14_ist4" value="true"/>
     <item time="12" type="Visible" target="n15_ist4" value="true"/>
@@ -135,9 +135,9 @@
     <item time="0" type="Scale" target="n21_toy1" tween="true" startValue="1,1" endValue="0.7,0.7" duration="12" ease="Bounce.Out"/>
     <item time="24" type="Alpha" target="n26_fetr" value="1"/>
     <item time="24" type="Scale" target="n21_toy1" value="0.7,0.7"/>
+    <item time="24" type="Scale" target="n18_toy1" value="0.7,0.7"/>
+    <item time="24" type="Scale" target="n17_toy1" value="0.8,0.7"/>
     <item time="24" type="Scale" target="n20_toy1" value="0.7,0.7"/>
     <item time="24" type="Scale" target="n19_toy1" value="0.7,0.7"/>
-    <item time="24" type="Scale" target="n17_toy1" value="0.8,0.7"/>
-    <item time="24" type="Scale" target="n18_toy1" value="0.7,0.7"/>
   </transition>
 </component>

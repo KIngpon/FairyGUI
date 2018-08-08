@@ -129,9 +129,6 @@
     <image id="x90y3n" name="game_0013_1--拷贝.png" path="/imgs/"/>
     <image id="x90y3o" name="game_0014_---拷贝.png" path="/imgs/"/>
     <image id="x90y3p" name="game_0015_+--拷贝.png" path="/imgs/"/>
-    <image id="x90y3q" name="game_0016_总得分：-.png" path="/imgs/"/>
-    <image id="x90y3r" name="game_0017_不翻倍-.png" path="/imgs/"/>
-    <image id="x90y3s" name="game_0018_翻倍-.png" path="/imgs/"/>
     <image id="x90y3t" name="game_0019_X-.png" path="/imgs/"/>
     <image id="x90y3u" name="game_0020_0-.png" path="/imgs/"/>
     <image id="x90y3v" name="game_0021_9-.png" path="/imgs/"/>
@@ -179,6 +176,20 @@
     <image id="h9yl51" name="庄家.png" path="/imgs/" exported="true"/>
     <image id="dowq52" name="game_0000_输.png" path="/imgs/"/>
     <image id="dowq53" name="game_0001_赢-.png" path="/imgs/"/>
+    <image id="gtlg54" name="game_0001_分.png" path="/imgs/"/>
+    <image id="gtlg55" name="game_0002_得.png" path="/imgs/"/>
+    <image id="gtlg56" name="game_0003_总.png" path="/imgs/"/>
+    <image id="gtlg57" name="game_0004_倍.png" path="/imgs/"/>
+    <image id="gtlg58" name="game_0005_翻.png" path="/imgs/"/>
+    <image id="gtlg59" name="game_0006_不.png" path="/imgs/"/>
+    <image id="gtlg5a" name="game_0007_倍.png" path="/imgs/"/>
+    <image id="gtlg5b" name="game_0008_分.png" path="/imgs/"/>
+    <image id="gtlg5c" name="game_0009_得.png" path="/imgs/"/>
+    <image id="gtlg5d" name="game_0010_总.png" path="/imgs/"/>
+    <image id="gtlg5e" name="game_0011_翻.png" path="/imgs/"/>
+    <image id="gtlg5f" name="game_0000_：.png" path="/imgs/"/>
+    <image id="gtlg5h" name="game_0006_不1.png" path="/imgs/"/>
+    <image id="gtlg5i" name="game_0012_图层-2.png" path="/imgs/"/>
   </resources>
   <publish name="Game" genCode="true"/>
 </packageDescription>

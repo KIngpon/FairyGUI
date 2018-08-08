@@ -65,13 +65,17 @@
     <image id="n26_ct6q" name="img_start" src="ct6q4a" fileName="imgs/game_0000_对局开始.png" xy="442,320" pivot="0.5,0.5">
       <relation target="" sidePair="center-center,middle-middle"/>
     </image>
-    <text id="n27_toy1" name="txt_fid" xy="9,5" size="166,37" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text=""/>
     <component id="n28_g2wj" name="btn_start" src="buf650" fileName="component/ButtonPlay.xml" xy="503,597">
       <relation target="n0_mwp4" sidePair="center-center,bottom-bottom"/>
     </component>
+    <graph id="n33_gtlg" name="n33" xy="6,6" size="220,89" group="n37_gtlg" type="rect" lineColor="#ff666666" fillColor="#99002e1e" corner="5"/>
+    <text id="n34_gtlg" name="txt_room" xy="21,13" size="10,24" group="n37_gtlg" fontSize="20" color="#ffffff" text=""/>
+    <text id="n35_gtlg" name="txt_jushu" xy="21,39" size="10,24" group="n37_gtlg" fontSize="20" color="#ffffff" text=""/>
+    <text id="n36_gtlg" name="txt_roomtype" xy="21,65" size="10,24" group="n37_gtlg" fontSize="20" color="#ffffff" text=""/>
+    <group id="n37_gtlg" name="n37" xy="6,6" size="220,89" advanced="true" collapsed="true"/>
     <graph id="n29_h9yl" name="n29" xy="3,3" size="176,67" group="n31_h9yl" type="rect" lineColor="#00000000" corner="20"/>
     <text id="n30_h9yl" name="n30" xy="8,7" size="166,59" group="n31_h9yl" fontSize="24" color="#333333" align="center" vAlign="middle" autoSize="none" text="点击此处分享给好友"/>
-    <group id="n31_h9yl" name="sharetips" xy="3,3" size="176,67" advanced="true"/>
+    <group id="n31_h9yl" name="sharetips" xy="3,3" size="176,67" hideByEditor="true" advanced="true"/>
     <component id="n32_dowq" name="btn_continue" src="sl2kr" fileName="component/ButtonContinue.xml" pkg="25mni52o" xy="505,339">
       <relation target="" sidePair="center-center,middle-middle"/>
     </component>
