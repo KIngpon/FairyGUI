@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="227,72" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n1" name="n1" src="h5w5j" fileName="imgs/未选中按钮@3x.png" xy="0,0">
+      <gearDisplay controller="button" pages="0,2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2" name="n2" src="h5w5k" fileName="imgs/选中按钮@3x.png" xy="0,0">
+      <gearDisplay controller="button" pages="1,3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n3" name="icon" xy="0,0" size="227,72" url="ui://83u5vz94h5w5a" align="center" vAlign="middle">
+      <gearDisplay controller="button" pages="0,2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <loader id="n4_99mf" name="n4" xy="0,0" size="227,72" url="ui://83u5vz9499mf12" align="center" vAlign="middle">
+      <gearDisplay controller="button" pages="1,3"/>
+    </loader>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

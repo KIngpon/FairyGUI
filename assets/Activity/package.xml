@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="eqi03f83" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="nxr20" name="Activity.xml" path="/component/" exported="true"/>
+    <image id="nxr21" name="圆角矩形 3@3x.png" path="/imgs/"/>
+    <image id="nxr22" name="圆角矩形 7@3x.png" path="/imgs/"/>
+    <component id="nxr23" name="ActivityTab.xml" path="/component/"/>
+    <image id="nxr24" name="圆角矩形 3 拷贝 5@3x.png" path="/imgs/"/>
+    <image id="nxr25" name="圆角矩形 3 拷贝 9@3x.png" path="/imgs/"/>
+    <image id="nxr26" name="本游戏仅供娱乐，严禁赌博 @3x.png" path="/imgs/"/>
+    <image id="nxr27" name="图层 8@3x.png" path="/imgs/"/>
+  </resources>
+  <publish name="Activity" genCode="true"/>
+</packageDescription>

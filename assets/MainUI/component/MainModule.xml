@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1206,750" adaptationTest="FitSize">
+  <displayList>
+    <image id="n47_p0d6" name="n47" src="du500" fileName="图层 1@3x.png" pkg="girhhq2k" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n67_p0d6" name="n67" src="p0d62i" fileName="imgs/顶部底框@3x.png" xy="0,2"/>
+    <image id="n75_sej4" name="n75" src="gymx2s" fileName="imgs/人物@3x.png" xy="108,126">
+      <relation target="" sidePair="bottom-bottom"/>
+    </image>
+    <component id="n48_p0d6" name="btn_notice" src="p0d623" fileName="component/ButtonGongGao.xml" xy="873,11" group="n53_p0d6"/>
+    <component id="n49_p0d6" name="btn_kefu" src="p0d626" fileName="component/ButtonKeFu.xml" xy="788,8" group="n53_p0d6"/>
+    <component id="n50_p0d6" name="btn_mail" src="j5fa2u" fileName="component/ButtonMail.xml" xy="959,15" group="n53_p0d6"/>
+    <component id="n51_p0d6" name="btn_shuoming" src="p0d628" fileName="component/ButtonShuoMing.xml" xy="1047,12" group="n53_p0d6"/>
+    <component id="n52_p0d6" name="btn_setting" src="p0d627" fileName="component/ButtonSetting.xml" xy="1135,13" group="n53_p0d6"/>
+    <group id="n53_p0d6" name="n53" xy="788,8" size="410,89" advanced="true" collapsed="true">
+      <relation target="" sidePair="right-right,top-top"/>
+    </group>
+    <image id="n54_p0d6" name="n54" src="p0d629" fileName="imgs/十三水@3x.png" xy="516,19">
+      <relation target="" sidePair="center-center"/>
+    </image>
+    <image id="n57_p0d6" name="n57" src="p0d62c" fileName="imgs/房卡数量底框@3x.png" xy="298,19" group="n58_p0d6"/>
+    <image id="n56_p0d6" name="n56" src="p0d62b" fileName="imgs/房卡@3x.png" xy="276,17" group="n58_p0d6"/>
+    <component id="n55_p0d6" name="btn_add" src="p0d62d" fileName="component/ButtonAddCard.xml" xy="418,17" group="n58_p0d6"/>
+    <text id="n59_p0d6" name="txt_card" xy="328,28" size="87,28" group="n58_p0d6" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="123456"/>
+    <group id="n58_p0d6" name="n58" xy="276,17" size="188,54" collapsed="true"/>
+    <image id="n60_p0d6" name="n60" src="p0d62f" fileName="imgs/用户名称框@3x.png" xy="54,7"/>
+    <component id="n82_vhx3" name="n82" src="vhx330" fileName="component/HeadImage.xml" xy="16,10" size="80,80"/>
+    <text id="n62_p0d6" name="txt_name" xy="89,12" size="146,28" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="121231"/>
+    <text id="n63_p0d6" name="txt_id" xy="89,43" size="146,28" fontSize="18" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="121231"/>
+    <component id="n77_rv2q" name="n77" src="rv2q2y" fileName="component/ButtonArena.xml" xy="1028,326">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </component>
+    <component id="n64_p0d6" name="btn_activity" src="p0d625" fileName="component/ButtonActivity.xml" xy="31,96"/>
+    <component id="n65_p0d6" name="btn_join" src="p0d62g" fileName="component/ButtonAddIn.xml" xy="860,466" touchable="false">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </component>
+    <component id="n66_p0d6" name="btn_quan" src="p0d62h" fileName="component/ButtonQuan.xml" xy="858,152" touchable="false">
+      <relation target="n65_p0d6" sidePair="right-right,bottom-top"/>
+    </component>
+    <image id="n69_gymx" name="n69" src="k5m42n" fileName="imgs/下部底框@3x.png" xy="0,701" group="n74_sej4"/>
+    <component id="n68_k5m4" name="btn_rank" src="gymx2p" fileName="component/ButtonRank.xml" xy="427,658" group="n74_sej4"/>
+    <image id="n70_gymx" name="n70" src="k5m42j" fileName="imgs/排行@3x.png" xy="505,712" group="n74_sej4"/>
+    <image id="n71_gymx" name="n71" src="k5m42l" fileName="imgs/战绩@3x.png" xy="350,712" group="n74_sej4"/>
+    <component id="n72_gymx" name="btn_zhanji" src="gymx2q" fileName="component/ButtonZhanJi.xml" xy="261,657" group="n74_sej4"/>
+    <component id="n73_gymx" name="btn_buyCard" src="gymx2r" fileName="component/ButtonBuyCard.xml" xy="0,609" group="n74_sej4"/>
+    <group id="n74_sej4" name="n74" xy="0,609" size="625,141" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <component id="n76_rv2q" name="btn_createRoom" src="rv2q2x" fileName="component/ButtonCreateRoom.xml" xy="645,323" touchable="false">
+      <relation target="n65_p0d6" sidePair="right-right,bottom-bottom"/>
+    </component>
+    <graph id="n78_g6c3" name="sp_create" xy="838,306" size="200,200" rotation="45" type="rect" lineColor="#00000000" fillColor="#00ffffff">
+      <relation target="n76_rv2q" sidePair="center-center,middle-middle"/>
+    </graph>
+    <graph id="n79_g6c3" name="sp_add" xy="1017,465" size="200,200" rotation="45" type="rect" lineColor="#03000000" fillColor="#00ffffff">
+      <relation target="n76_rv2q" sidePair="center-center,middle-middle"/>
+    </graph>
+    <graph id="n80_g6c3" name="sp_quan" xy="1015,153" size="200,200" rotation="45" type="rect" lineColor="#00000000" fillColor="#00ffffff">
+      <relation target="n76_rv2q" sidePair="center-center,middle-middle"/>
+    </graph>
+    <graph id="n81_g6c3" name="sp_jj" xy="1200,317" size="200,200" rotation="45" type="rect" lineColor="#03000000" fillColor="#00ffffff">
+      <relation target="n76_rv2q" sidePair="center-center,middle-middle"/>
+    </graph>
+  </displayList>
+</component>

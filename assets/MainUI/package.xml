@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="s4bbeogy" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="vzrt1j" name="MainModule.xml" path="/component/" exported="true"/>
+    <image id="p0d61w" name="加入房间@3x.png" path="/imgs/"/>
+    <image id="p0d61x" name="牌友圈@3x.png" path="/imgs/"/>
+    <image id="p0d61y" name="公告@3x.png" path="/imgs/topbtns/"/>
+    <image id="p0d61z" name="活动@3x.png" path="/imgs/topbtns/"/>
+    <image id="p0d620" name="客服@3x.png" path="/imgs/topbtns/"/>
+    <image id="p0d621" name="设置@3x.png" path="/imgs/topbtns/"/>
+    <image id="p0d622" name="说明@3x.png" path="/imgs/topbtns/"/>
+    <component id="p0d623" name="ButtonGongGao.xml" path="/component/"/>
+    <component id="p0d625" name="ButtonActivity.xml" path="/component/"/>
+    <component id="p0d626" name="ButtonKeFu.xml" path="/component/"/>
+    <component id="p0d627" name="ButtonSetting.xml" path="/component/"/>
+    <component id="p0d628" name="ButtonShuoMing.xml" path="/component/"/>
+    <image id="p0d629" name="十三水@3x.png" path="/imgs/"/>
+    <image id="p0d62a" name="房间@3x.png" path="/imgs/"/>
+    <image id="p0d62b" name="房卡@3x.png" path="/imgs/"/>
+    <image id="p0d62c" name="房卡数量底框@3x.png" path="/imgs/"/>
+    <component id="p0d62d" name="ButtonAddCard.xml" path="/component/"/>
+    <image id="p0d62e" name="图层 34@3x.png" path="/imgs/"/>
+    <image id="p0d62f" name="用户名称框@3x.png" path="/imgs/"/>
+    <component id="p0d62g" name="ButtonAddIn.xml" path="/component/"/>
+    <component id="p0d62h" name="ButtonQuan.xml" path="/component/"/>
+    <image id="p0d62i" name="顶部底框@3x.png" path="/imgs/"/>
+    <image id="k5m42j" name="排行@3x.png" path="/imgs/"/>
+    <image id="k5m42k" name="排行ICON@3x.png" path="/imgs/"/>
+    <image id="k5m42l" name="战绩@3x.png" path="/imgs/"/>
+    <image id="k5m42m" name="战绩ICON@3x.png" path="/imgs/"/>
+    <image id="k5m42n" name="下部底框@3x.png" path="/imgs/"/>
+    <image id="gymx2o" name="活动图标@3x.png" path="/imgs/"/>
+    <component id="gymx2p" name="ButtonRank.xml" path="/component/"/>
+    <component id="gymx2q" name="ButtonZhanJi.xml" path="/component/"/>
+    <component id="gymx2r" name="ButtonBuyCard.xml" path="/component/"/>
+    <image id="gymx2s" name="人物@3x.png" path="/imgs/"/>
+    <image id="j5fa2t" name="邮件.png" path="/imgs/"/>
+    <component id="j5fa2u" name="ButtonMail.xml" path="/component/"/>
+    <image id="rv2q2v" name="竞 技 场 拷贝 2@3x.png" path="/imgs/"/>
+    <image id="rv2q2w" name="创建按钮.png" path="/imgs/"/>
+    <component id="rv2q2x" name="ButtonCreateRoom.xml" path="/component/" exported="true"/>
+    <component id="rv2q2y" name="ButtonArena.xml" path="/component/"/>
+    <image id="du502z" name="对局开始.png" path="/imgs/" exported="true"/>
+    <component id="vhx330" name="HeadImage.xml" path="/component/" exported="true"/>
+    <component id="vhx331" name="HeadImage1.xml" path="/component/" exported="true"/>
+  </resources>
+  <publish name="MainUI" genCode="true"/>
+</packageDescription>

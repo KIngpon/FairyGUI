@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="924,581">
+  <displayList>
+    <image id="n8_vzrt" name="n8" src="nl0pa" fileName="imgs/透明底框@3x.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n7_vzrt" name="n7" src="nl0pb" fileName="imgs/圆角矩形 5@3x.png" xy="16,60" size="892,498">
+      <relation target="n8_vzrt" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n0_vzrt" name="n0" src="nl0pc" fileName="imgs/标头@3x.png" xy="216,-32">
+      <relation target="n8_vzrt" sidePair="center-center,top-top"/>
+    </image>
+    <component id="n11_nl0p" name="btn_close" src="nl0pf" fileName="component/PopModuleCloseBtn.xml" xy="869,-28">
+      <relation target="n8_vzrt" sidePair="right-right,top-top"/>
+    </component>
+    <loader id="n12_j5fa" name="title" xy="319,-26" size="286,66" url="ui://i36kne80j5fam" align="center" vAlign="middle" frame="2">
+      <relation target="" sidePair="center-center"/>
+    </loader>
+  </displayList>
+</component>

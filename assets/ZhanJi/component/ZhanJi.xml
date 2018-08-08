@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1000,518">
+  <displayList>
+    <component id="n0_p0d6" name="panelBg" src="nl0p9" fileName="component/PopModuleBg.xml" pkg="i36kne80" xy="0,0" size="1000,581"/>
+    <list id="n2_p0d6" name="list" xy="21,68" size="958,404" overflow="scroll" defaultItem="ui://lxifvkdup0d62">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n4_p0d6" name="n4" src="p0d69" fileName="imgs/图层 38@3x.png" xy="22,470"/>
+    <component id="n5_rezh" name="n5" src="rezhb" fileName="component/ButtonReplay.xml" xy="402,484"/>
+    <text id="n6_rezh" name="n6" xy="626,503" size="293,22" fontSize="18" color="#695446" text="注：查看他人回放，需要输入回放码"/>
+  </displayList>
+</component>

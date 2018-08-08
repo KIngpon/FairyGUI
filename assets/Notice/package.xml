@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ecxcc9h9" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="nxr20" name="圆角矩形 3 拷贝 9@3x.png" path="/imgs/"/>
+    <image id="nxr23" name="圆角矩形 3 拷贝 5@3x.png" path="/imgs/"/>
+    <component id="nxr24" name="Notice.xml" path="/component/" exported="true"/>
+    <component id="nxr26" name="NoticeTab.xml" path="/component/"/>
+    <image id="nxr27" name="本游戏仅供娱乐，严禁赌博 @3x.png" path="/imgs/"/>
+  </resources>
+  <publish name="Notice" genCode="true"/>
+</packageDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="girhhq2k" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="du500" name="图层 1@3x.png" path="/" exported="true"/>
+  </resources>
+  <publish name="MainBg"/>
+</packageDescription>

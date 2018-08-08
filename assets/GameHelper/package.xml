@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="gxctr1mi" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="du500" name="GameHelper.xml" path="/component/" exported="true"/>
+  </resources>
+  <publish name="GameHelper" genCode="true"/>
+</packageDescription>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="25mni52o" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="sl2k0" name="SingleResult.xml" path="/component/" exported="true"/>
+    <image id="sl2k1" name="扫描针@3x.png" path="/imgs/"/>
+    <image id="sl2k2" name="结算背景块.png" path="/imgs/" scale="9grid" scale9grid="11,10,22,20"/>
+    <image id="sl2k3" name="结算底块1.png" path="/imgs/" scale="9grid" scale9grid="66,23,59,46"/>
+    <image id="sl2k4" name="结算头.png" path="/imgs/"/>
+    <image id="sl2k5" name="title_0000_总分.png" path="/imgs/"/>
+    <image id="sl2k6" name="title_0001_摆牌信息.png" path="/imgs/"/>
+    <image id="sl2k7" name="title_0002_玩家信息.png" path="/imgs/"/>
+    <component id="sl2k8" name="SingleResultItem.xml" path="/component/" exported="true"/>
+    <image id="sl2k9" name="num_0000_9.png" path="/imgs/"/>
+    <image id="sl2ka" name="num_0001_8.png" path="/imgs/"/>
+    <image id="sl2kb" name="num_0002_7.png" path="/imgs/"/>
+    <image id="sl2kc" name="num_0003_6.png" path="/imgs/"/>
+    <image id="sl2kd" name="num_0004_5.png" path="/imgs/"/>
+    <image id="sl2ke" name="num_0005_4.png" path="/imgs/"/>
+    <image id="sl2kf" name="num_0006_3.png" path="/imgs/"/>
+    <image id="sl2kg" name="num_0007_2.png" path="/imgs/"/>
+    <image id="sl2kh" name="num_0008_1.png" path="/imgs/"/>
+    <image id="sl2ki" name="num_0009_0.png" path="/imgs/"/>
+    <image id="sl2kj" name="num_0010_＋.png" path="/imgs/"/>
+    <image id="sl2kk" name="num_0011_－.png" path="/imgs/"/>
+    <font id="sl2kl" name="FontResultScore.fnt" path="/component/" exported="true"/>
+    <image id="sl2km" name="单局结算头像框.png" path="/imgs/"/>
+    <image id="sl2kn" name="查看牌局@3x.png" path="/imgs/"/>
+    <image id="sl2ko" name="返回大厅@3x.png" path="/imgs/"/>
+    <image id="sl2kp" name="继续游戏@3x.png" path="/imgs/"/>
+    <component id="sl2kq" name="ButtonCheck.xml" path="/component/"/>
+    <component id="sl2kr" name="ButtonContinue.xml" path="/component/" exported="true"/>
+    <component id="sl2ks" name="ButtonBack.xml" path="/component/"/>
+    <component id="sl2ku" name="AllResult.xml" path="/component/" exported="true"/>
+    <image id="sl2kv" name="牌局结算@3x.png" path="/imgs/"/>
+    <component id="sl2kw" name="AllResultItem.xml" path="/component/" exported="true"/>
+    <image id="sl2kx" name="大赢家.png" path="/imgs/"/>
+    <image id="sl2ky" name="皇冠.png" path="/imgs/"/>
+    <image id="sl2kz" name="结算框@3x.png" path="/imgs/"/>
+    <image id="sl2k10" name="结算头像@3x.png" path="/imgs/"/>
+    <image id="sl2k11" name="图层 1@3x.png" path="/imgs/"/>
+    <image id="sl2k12" name="总成绩@3x.png" path="/imgs/"/>
+    <image id="sl2k13" name="矩形 1@3x.png" path="/imgs/"/>
+  </resources>
+  <publish name="Result" genCode="true"/>
+</packageDescription>

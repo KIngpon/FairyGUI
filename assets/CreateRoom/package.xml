@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="83u5vz94" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="sej41" name="创建房间1@3x.png" path="/imgs/"/>
+    <image id="sej43" name="创建房间底框@3x.png" path="/imgs/"/>
+    <image id="sej46" name="创建选中三角形@3x.png" path="/imgs/"/>
+    <component id="sej48" name="CreateRoom.xml" path="/component/" exported="true"/>
+    <image id="h5w59" name="创建房间1@3x(1).png" path="/imgs/"/>
+    <image id="h5w5a" name="纯一色十三水@3x.png" path="/imgs/"/>
+    <image id="h5w5b" name="大小王十三水@3x.png" path="/imgs/"/>
+    <image id="h5w5d" name="勾@3x.png" path="/imgs/"/>
+    <image id="h5w5e" name="购买房卡@3x.png" path="/imgs/"/>
+    <image id="h5w5f" name="购买房卡1@3x.png" path="/imgs/"/>
+    <image id="h5w5g" name="加一色十三水@3x.png" path="/imgs/"/>
+    <image id="h5w5h" name="椭圆 1@3x.png" path="/imgs/"/>
+    <image id="h5w5i" name="椭圆@3x.png" path="/imgs/"/>
+    <image id="h5w5j" name="未选中按钮@3x.png" path="/imgs/"/>
+    <image id="h5w5k" name="选中按钮@3x.png" path="/imgs/"/>
+    <image id="h5w5l" name="圆角矩形 5@3x.png" path="/imgs/"/>
+    <component id="h5w5m" name="ButtonType1.xml" path="/component/"/>
+    <image id="h5w5n" name="十三水@3x.png" path="/imgs/"/>
+    <component id="h5w5o" name="ButtonType2.xml" path="/component/"/>
+    <component id="h5w5p" name="ButtonType3.xml" path="/component/"/>
+    <component id="h5w5q" name="ButtonType4.xml" path="/component/"/>
+    <image id="h5w5r" name="六人十三水@3x.png" path="/imgs/"/>
+    <component id="h5w5s" name="ButtonType5.xml" path="/component/"/>
+    <component id="h5w5t" name="ButtonRadio.xml" path="/component/"/>
+    <component id="h5w5u" name="ButtonCheckBox.xml" path="/component/"/>
+    <component id="h5w5v" name="ButtonCreate.xml" path="/component/"/>
+    <component id="h5w5w" name="ButtonBuy.xml" path="/component/"/>
+    <component id="ct6qx" name="ButtonCheckBoxMuti.xml" path="/component/"/>
+    <component id="qwjly" name="ButtonRadioMuti.xml" path="/component/"/>
+    <component id="99mfz" name="ButtonType6.xml" path="/component/"/>
+    <image id="99mf10" name="game_0000_摆头注.png" path="/imgs/"/>
+    <image id="99mf11" name="game_0001_摆头注.png" path="/imgs/"/>
+    <image id="99mf12" name="game_0002_纯一色十三水.png" path="/imgs/"/>
+    <image id="99mf13" name="game_0003_六人十三水.png" path="/imgs/"/>
+    <image id="99mf14" name="game_0004_大小王十三水.png" path="/imgs/"/>
+    <image id="99mf15" name="game_0005_加一色十三水.png" path="/imgs/"/>
+    <image id="99mf16" name="game_0006_十三水-拷贝.png" path="/imgs/"/>
+  </resources>
+  <publish name="CreateRoom" genCode="true"/>
+</packageDescription>

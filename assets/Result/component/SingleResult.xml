@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1206,750" adaptationTest="FitSize">
+  <displayList>
+    <image id="n0_sl2k" name="n0" src="sl2k0" fileName="结算背景.jpg" pkg="2k7rhsvh" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_sl2k" name="n1" src="sl2k4" fileName="imgs/结算头.png" xy="386,17">
+      <relation target="" sidePair="center-center,top-top"/>
+    </image>
+    <image id="n2_sl2k" name="n2" src="sl2k1" fileName="imgs/扫描针@3x.png" xy="479,49">
+      <relation target="" sidePair="center-center,top-top"/>
+    </image>
+    <list id="n8_sl2k" name="list" xy="53,172" size="1100,470" overflow="scroll" lineGap="3" defaultItem="ui://25mni52osl2k8">
+      <relation target="n11_sl2k" sidePair="center-center,top-top"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n9_sl2k" name="btn_check" src="sl2kq" fileName="component/ButtonCheck.xml" xy="359,654">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n10_sl2k" name="btn_continue" src="sl2kr" fileName="component/ButtonContinue.xml" xy="684,654">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <image id="n3_sl2k" name="n3" src="sl2k2" fileName="imgs/结算背景块.png" xy="91,130" size="1024,40" group="n11_sl2k"/>
+    <image id="n4_sl2k" name="n4" src="sl2k7" fileName="imgs/title_0002_玩家信息.png" xy="128,138" group="n11_sl2k"/>
+    <image id="n5_sl2k" name="n5" src="sl2k6" fileName="imgs/title_0001_摆牌信息.png" xy="528,139" group="n11_sl2k"/>
+    <image id="n6_sl2k" name="n6" src="sl2k5" fileName="imgs/title_0000_总分.png" xy="962,139" group="n11_sl2k"/>
+    <group id="n11_sl2k" name="n11" xy="91,130" size="1024,40" advanced="true">
+      <relation target="" sidePair="center-center"/>
+    </group>
+    <text id="n12_sl2k" name="txt_time" xy="939,53" size="182,26" fontSize="22" color="#eee2d5" text="2018-06-16  12:12">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <text id="n13_sl2k" name="txt_roominfo" xy="821,85" size="301,26" fontSize="22" color="#eee2d5" align="right" autoSize="none" text="房费AA  6人  12局  坐庄">
+      <relation target="" sidePair="center-center"/>
+    </text>
+  </displayList>
+</component>

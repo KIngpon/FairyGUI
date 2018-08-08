@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="846,82">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n0_du50" name="n0" src="du50c" fileName="imgs/rankitembg.png" xy="0,0" size="846,82"/>
+    <text id="n2_du50" name="txt_score" xy="604,30" size="172,24" fontSize="20" color="#ff0000" align="center" vAlign="middle" autoSize="none" text="100/200"/>
+    <text id="n3_du50" name="txt_name" xy="316,29" size="202,28" fontSize="24" color="#7a5105" vAlign="middle" autoSize="none" text="天王盖地虎"/>
+    <image id="n4_du50" name="n4" src="du50e" fileName="imgs/rank_0000_圆角矩形-4.png" xy="232,8"/>
+    <text id="n5_du50" name="txt_rank" xy="70,24" size="21,34" fontSize="30" color="#bb723f" align="center" vAlign="middle" text="4">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+    <loader id="n6_mqta" name="head" xy="236,11" size="58,58" fill="scaleNoBorder"/>
+    <loader id="n7_mqta" name="img_rank" xy="60,11" size="49,59"/>
+    <component id="n8_w8xt" name="n8" src="vhx331" fileName="component/HeadImage1.xml" pkg="s4bbeogy" xy="236,11" size="58,58"/>
+  </displayList>
+</component>

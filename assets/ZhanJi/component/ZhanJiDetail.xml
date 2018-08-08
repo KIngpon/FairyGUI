@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1000,610">
+  <displayList>
+    <component id="n0_rezh" name="panelBg" src="nl0p9" fileName="component/PopModuleBg.xml" pkg="i36kne80" xy="0,0" size="1000,610"/>
+    <image id="n1_rezh" name="n1" src="p0d60" fileName="imgs/椭圆 2 拷贝 3@3x.png" xy="22,69" pivot="0.5,0.5" group="n20_rezh" scale="-1,1"/>
+    <image id="n2_rezh" name="n2" src="p0d65" fileName="imgs/赢@3x.png" xy="162,73" group="n20_rezh"/>
+    <text id="n3_rezh" name="n3" xy="220,73" size="131,28" group="n20_rezh" fontSize="20" color="#ffffff" vAlign="middle" text="房号：998998"/>
+    <text id="n4_rezh" name="n4" xy="414,73" size="96,28" group="n20_rezh" fontSize="20" color="#ffffff" vAlign="middle" text="局数：5局"/>
+    <text id="n5_rezh" name="n5" xy="611,74" size="202,28" group="n20_rezh" fontSize="20" color="#ffffff" vAlign="middle" text="2018/11/11    23:30:30"/>
+    <text id="n6_rezh" name="n6" xy="169,111" size="125,29" group="n20_rezh" fontSize="22" color="#554135" align="center" vAlign="middle" autoSize="none" text="NAME"/>
+    <text id="n7_rezh" name="n7" xy="172,141" size="120,28" group="n20_rezh" fontSize="20" color="#999999" align="center" vAlign="middle" autoSize="none" text="+200"/>
+    <text id="n8_rezh" name="n8" xy="302,111" size="125,29" group="n20_rezh" fontSize="22" color="#554135" align="center" vAlign="middle" autoSize="none" text="NAME"/>
+    <text id="n9_rezh" name="n9" xy="305,141" size="120,28" group="n20_rezh" fontSize="20" color="#999999" align="center" vAlign="middle" autoSize="none" text="+200"/>
+    <text id="n10_rezh" name="n10" xy="436,111" size="125,29" group="n20_rezh" fontSize="22" color="#554135" align="center" vAlign="middle" autoSize="none" text="NAME"/>
+    <text id="n11_rezh" name="n11" xy="439,141" size="120,28" group="n20_rezh" fontSize="20" color="#999999" align="center" vAlign="middle" autoSize="none" text="+200"/>
+    <text id="n12_rezh" name="n12" xy="571,111" size="125,29" group="n20_rezh" fontSize="22" color="#554135" align="center" vAlign="middle" autoSize="none" text="NAME"/>
+    <text id="n13_rezh" name="n13" xy="574,141" size="120,28" group="n20_rezh" fontSize="20" color="#999999" align="center" vAlign="middle" autoSize="none" text="+200"/>
+    <text id="n14_rezh" name="n14" xy="705,111" size="125,29" group="n20_rezh" fontSize="22" color="#554135" align="center" vAlign="middle" autoSize="none" text="NAME"/>
+    <text id="n15_rezh" name="n15" xy="708,141" size="120,28" group="n20_rezh" fontSize="20" color="#999999" align="center" vAlign="middle" autoSize="none" text="+200"/>
+    <text id="n16_rezh" name="n16" xy="839,111" size="125,29" group="n20_rezh" fontSize="22" color="#554135" align="center" vAlign="middle" autoSize="none" text="NAME"/>
+    <text id="n17_rezh" name="n17" xy="842,141" size="120,28" group="n20_rezh" fontSize="20" color="#999999" align="center" vAlign="middle" autoSize="none" text="+200"/>
+    <text id="n21_rezh" name="n21" xy="34,124" size="125,29" group="n20_rezh" fontSize="22" color="#554135" align="center" vAlign="middle" autoSize="none" text="序号"/>
+    <group id="n20_rezh" name="n20" xy="22,69" size="956,106" advanced="true"/>
+    <image id="n22_rezh" name="n22" src="rezhx" fileName="imgs/通用白框.png" pkg="i36kne80" xy="21,173" size="956,329"/>
+    <list id="n24_rezh" name="n24" xy="49,179" size="902,316" overflow="scroll" defaultItem="ui://lxifvkdurezhe">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n25_rezh" name="n25" src="rezhh" fileName="component/ButtonReturn.xml" xy="246,503"/>
+    <component id="n26_rezh" name="n26" src="rezhi" fileName="component/ButtonJieSuanSort.xml" xy="582,503"/>
+  </displayList>
+</component>

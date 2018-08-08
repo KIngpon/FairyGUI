@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="956,106">
+  <displayList>
+    <image id="n0_p0d6" name="n0" src="p0d60" fileName="imgs/椭圆 2 拷贝 3@3x.png" xy="0,0"/>
+    <text id="n2_p0d6" name="txt_rid" xy="198,5" size="131,24" fontSize="20" color="#ffffff" vAlign="middle" text="房号：998998"/>
+    <text id="n3_p0d6" name="txt_jushu" xy="392,5" size="96,24" fontSize="20" color="#ffffff" vAlign="middle" text="局数：5局"/>
+    <text id="n4_p0d6" name="txt_time" xy="589,6" size="208,24" fontSize="20" color="#ffffff" vAlign="middle" text="2018/11/11    23:30:30"/>
+    <list id="n20_mqta" name="list" xy="2,38" size="904,65" touchable="false" layout="row" overflow="scroll" colGap="-16" defaultItem="ui://lxifvkdumqtaj">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n18_p0d6" name="btn_check" src="p0d68" fileName="component/ButtonHuiFang.xml" xy="825,48"/>
+    <loader id="n21_buf6" name="img_result" xy="122,-6" size="50,50" url="ui://lxifvkdup0d65" align="center" vAlign="middle"/>
+  </displayList>
+</component>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="lxifvkdu" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="p0d60" name="椭圆 2 拷贝 3@3x.png" path="/imgs/"/>
+    <component id="p0d61" name="ZhanJi.xml" path="/component/" exported="true"/>
+    <component id="p0d62" name="ZhanJiItem.xml" path="/component/" exported="true"/>
+    <image id="p0d63" name="平@3x.png" path="/imgs/" exported="true"/>
+    <image id="p0d64" name="输 拷贝@3x.png" path="/imgs/" exported="true"/>
+    <image id="p0d65" name="赢@3x.png" path="/imgs/" exported="true"/>
+    <image id="p0d66" name="查看回放@3x.png" path="/imgs/"/>
+    <component id="p0d68" name="ButtonHuiFang.xml" path="/component/"/>
+    <image id="p0d69" name="图层 38@3x.png" path="/imgs/"/>
+    <image id="p0d6a" name="大赢家@3x.png" path="/imgs/"/>
+    <component id="rezhb" name="ButtonReplay.xml" path="/component/"/>
+    <image id="rezhc" name="查看他人回放@3x.png" path="/imgs/"/>
+    <component id="rezhd" name="ZhanJiDetail.xml" path="/component/" exported="true"/>
+    <component id="rezhe" name="ZhanJiDetailItem.xml" path="/component/" exported="true"/>
+    <image id="rezhf" name="返  回@3x.png" path="/imgs/"/>
+    <image id="rezhg" name="结算顺序@3x.png" path="/imgs/"/>
+    <component id="rezhh" name="ButtonReturn.xml" path="/component/"/>
+    <component id="rezhi" name="ButtonJieSuanSort.xml" path="/component/"/>
+    <component id="mqtaj" name="ZhanJiItemUserItem.xml" path="/component/" exported="true"/>
+  </resources>
+  <publish name="ZhanJi" genCode="true"/>
+</packageDescription>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,581">
+  <displayList>
+    <component id="n0_nl0p" name="panelBg" src="nl0p9" fileName="component/PopModuleBg.xml" pkg="i36kne80" xy="0,0" size="600,581"/>
+    <image id="n1_nl0p" name="n1" src="nl0pi" fileName="imgs/圆角矩形 3 拷贝 2@3x.png" pkg="i36kne80" xy="38,83" size="526,365"/>
+    <image id="n3_nl0p" name="n3" src="nl0p2" fileName="imgs/圆角矩形 4@3x.png" xy="69,380"/>
+    <component id="n4_nl0p" name="btn_copy" src="nl0p3" fileName="component/ButtonCopy.xml" xy="423,381"/>
+    <component id="n5_nl0p" name="btn_ok" src="iuhk1g" fileName="component/ButtonClose.xml" pkg="i36kne80" xy="202,470"/>
+    <text id="n6_nl0p" name="n6" xy="153,102" size="293,36" fontSize="32" color="#886046" text="欢迎进入方片十三水"/>
+    <text id="n7_nl0p" name="n7" xy="59,149" size="482,192" fontSize="26" color="#886046" letterSpacing="1" autoSize="none" text="客服工作时间：&#xA;上午9:30~17:00；晚上18:00~22:00&#xA;在游戏中遇到任何问题，请联系客服，客服将为您贴心解答！&#xA;&#xA;复制下方的客服微信号添加好友&#xA;&#xA;"/>
+    <text id="n8_g2wj" name="n8" xy="59,339" size="395,30" fontSize="26" color="#ff0000" text="本游戏游戏仅供娱乐，严禁赌博。"/>
+    <text id="n9_g2wj" name="n9" xy="89,388" size="279,30" fontSize="26" color="#886046" autoSize="none" text="客服微信：232312012"/>
+  </displayList>
+</component>

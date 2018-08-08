@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="110,150">
+  <controller name="ctrlstate" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n0_mwp4" name="n0" src="mwp41b" fileName="imgs/pork/扑克反面@3x.png" xy="0,0">
+      <gearDisplay controller="ctrlstate" pages="0"/>
+    </image>
+    <image id="n1_mwp4" name="n1" src="mwp41c" fileName="imgs/pork/扑克正面@3x.png" xy="0,0" group="n9_rezh"/>
+    <text id="n2_mwp4" name="txt1" xy="5,3" size="31,31" group="n9_rezh" font="ui://jow5n9bqrezh2j" fontSize="12" vAlign="middle" autoSize="none" text="Q"/>
+    <text id="n4_mwp4" name="txt2" xy="79,146" pivot="0.5,0.5" size="31,31" group="n9_rezh" scale="1,-1" font="ui://jow5n9bqmwp41e" fontSize="12" color="#ff0000" autoSize="none" text="J">
+      <relation target="n1_mwp4" sidePair="right-right,bottom-bottom"/>
+    </text>
+    <text id="n7_rezh" name="txt_type1" xy="3,34" size="30,32" group="n9_rezh" font="ui://jow5n9bqrezh2i" fontSize="14" color="#452121" align="center" vAlign="middle" text="1"/>
+    <text id="n8_rezh" name="txt_type2" xy="78,113" pivot="0.5,0.5" size="30,32" group="n9_rezh" scale="1,-1" font="ui://jow5n9bqrezh2i" fontSize="14" color="#452121" align="center" text="1">
+      <relation target="n1_mwp4" sidePair="right-right,bottom-bottom"/>
+    </text>
+    <group id="n9_rezh" name="n9" xy="0,0" size="110,177" advanced="true">
+      <gearDisplay controller="ctrlstate" pages="1"/>
+    </group>
+    <image id="n10_xqdu" name="img_joke" src="xqdu4n" fileName="imgs/pork/joke.png" xy="0,0">
+      <gearDisplay controller="ctrlstate" pages="1"/>
+    </image>
+  </displayList>
+</component>

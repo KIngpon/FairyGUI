@@ -1,0 +1,15 @@
+{
+	"codeGeneration":{
+		"classNamePrefix":"UI_",
+		"codePath":"/Users/WT/walt/egret/work/13/ThirteenPoker/src/ui",
+		"codeType":"TS",
+		"getMemberByName":false,
+		"ignoreNoname":true,
+		"memberNamePrefix":"m_",
+		"packageName":"UI"
+	},
+	"compressDesc":true,
+	"fileExtension":"",
+	"packageCount":2,
+	"path":"/Users/WT/walt/egret/work/13/ThirteenPoker/resource/assets/ui"
+}

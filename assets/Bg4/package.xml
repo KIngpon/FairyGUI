@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="2k7rhsvh" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="sl2k0" name="结算背景.jpg" path="/" exported="true"/>
+  </resources>
+  <publish name="Bg4"/>
+</packageDescription>

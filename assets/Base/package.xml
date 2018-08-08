@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="i36kne80" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="nl0p9" name="PopModuleBg.xml" path="/component/" exported="true"/>
+    <image id="nl0pa" name="透明底框@3x.png" path="/imgs/"/>
+    <image id="nl0pb" name="圆角矩形 5@3x.png" path="/imgs/" exported="true" scale="9grid" scale9grid="18,40,27,425"/>
+    <image id="nl0pc" name="标头@3x.png" path="/imgs/" scale="9grid" scale9grid="145,14,200,37"/>
+    <image id="nl0pd" name="邮    箱@3x.png" path="/imgs/"/>
+    <image id="nl0pe" name="关闭按钮@3x.png" path="/imgs/"/>
+    <component id="nl0pf" name="PopModuleCloseBtn.xml" path="/component/" exported="true"/>
+    <component id="nl0pg" name="ButtonOK.xml" path="/component/" exported="true"/>
+    <image id="nl0ph" name="直接购买2@3x.png" path="/imgs/" exported="true"/>
+    <image id="nl0pi" name="圆角矩形 3 拷贝 2@3x.png" path="/imgs/" exported="true" scale="9grid" scale9grid="19,13,38,26"/>
+    <image id="j5faj" name="创建房间@3x.png" path="/imgs/title/" exported="true"/>
+    <image id="j5fak" name="活    动@3x.png" path="/imgs/title/" exported="true"/>
+    <image id="j5fal" name="加入房间1@3x.png" path="/imgs/title/" exported="true"/>
+    <image id="j5fam" name="客    服@3x.png" path="/imgs/title/" exported="true"/>
+    <image id="j5fan" name="玩法说明@3x.png" path="/imgs/title/" exported="true"/>
+    <image id="j5fao" name="邮    箱@3x.png" path="/imgs/title/" exported="true"/>
+    <image id="j5fap" name="战    绩@3x.png" path="/imgs/title/" exported="true"/>
+    <image id="j5faq" name="公    告@3x.png" path="/imgs/title/" exported="true"/>
+    <image id="mwp4r" name="取   消@3x.png" path="/imgs/"/>
+    <image id="mwp4s" name="确   定@3x.png" path="/imgs/" exported="true"/>
+    <component id="mwp4t" name="ButtonComform.xml" path="/component/" exported="true"/>
+    <image id="mwp4u" name="橙色按钮@3x.png" path="/imgs/"/>
+    <component id="mwp4v" name="ButtonCancel.xml" path="/component/" exported="true"/>
+    <image id="h5w5w" name="设    置@3x.png" path="/imgs/title/" exported="true"/>
+    <image id="rezhx" name="通用白框.png" path="/imgs/" exported="true" scale="9grid" scale9grid="17,17,34,34"/>
+    <image id="rezhy" name="分割线.jpg" path="/imgs/" exported="true"/>
+    <image id="rezhz" name="战绩详情@3x.png" path="/imgs/title/" exported="true"/>
+    <image id="rezh10" name="圆角矩形1.png" path="/imgs/" exported="true" scale="9grid" scale9grid="20,16,40,32"/>
+    <image id="rezh11" name="圆角矩形 7@3x.png" path="/imgs/" exported="true" scale="9grid" scale9grid="64,11,176,22"/>
+    <image id="rezh12" name="弹出提示框背景.png" path="/imgs/" exported="true" scale="9grid" scale9grid="142,99,285,216"/>
+    <component id="rezh13" name="AlertBg.xml" path="/component/" exported="true"/>
+    <image id="rezh14" name="提    示.png" path="/imgs/title/" exported="true"/>
+    <image id="rezh15" name="弹出背景1.png" path="/imgs/" scale="9grid" scale9grid="160,102,320,204"/>
+    <image id="rezh16" name="弹出背景1底框.png" path="/imgs/" exported="true" scale="9grid" scale9grid="16,14,32,28"/>
+    <component id="rezh17" name="AlertBg1.xml" path="/component/" exported="true"/>
+    <image id="rezh18" name="游戏帮助.png" path="/imgs/title/" exported="true"/>
+    <image id="du5019" name="排----行.png" path="/imgs/title/" exported="true"/>
+    <image id="ka6r1a" name="购卡.png" path="/imgs/title/" exported="true"/>
+    <component id="r2oa1b" name="SimpleAlert.xml" path="/component/" exported="true"/>
+    <component id="9i991c" name="FloatMsg.xml" path="/component/" exported="true"/>
+    <image id="vhx31d" name="head.jpg" path="/imgs/" exported="true"/>
+    <image id="g2wj1e" name="title_chat.png" path="/imgs/title/" exported="true"/>
+    <image id="iuhk1f" name="关闭.png" path="/imgs/"/>
+    <component id="iuhk1g" name="ButtonClose.xml" path="/component/" exported="true"/>
+  </resources>
+  <publish name="Base" genCode="true"/>
+</packageDescription>

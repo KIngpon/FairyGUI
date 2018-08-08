@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="icciepj5" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="kyt80" name="loadingba.png" path="/ui/" scale="9grid" scale9grid="59,9,118,18"/>
+    <image id="kyt81" name="loadingdi.png" path="/ui/"/>
+    <component id="kyt82" name="Bar.xml" path="/" exported="true"/>
+    <component id="kyt83" name="LoadingModule.xml" path="/" exported="true"/>
+    <component id="gl8o6" name="ButtonStart.xml" path="/"/>
+    <image id="99mf7" name="图层 1@3x.png" path="/ui/" exported="true"/>
+  </resources>
+  <publish name="Loading" genCode="true"/>
+</packageDescription>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1206,750">
+  <displayList>
+    <image id="n7_99mf" name="n7" src="99mf7" fileName="ui/图层 1@3x.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n0_kyt8" name="bar" src="kyt82" fileName="Bar.xml" xy="396,465">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <ProgressBar max="100"/>
+    </component>
+    <graph id="n2_gl8o" name="n2" xy="301,154" size="606,100" group="n3_gl8o" type="rect" fillColor="#4dffffff"/>
+    <text id="n1_gl8o" name="txt_name" xy="312,156" size="588,101" group="n3_gl8o" input="true" fontSize="30" align="center" vAlign="middle" autoSize="none" text=""/>
+    <group id="n3_gl8o" name="n3" xy="301,154" size="606,103" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n6_gl8o" name="btn_start" src="gl8o6" fileName="ButtonStart.xml" xy="483,647" size="236,75">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="开始游戏"/>
+    </component>
+  </displayList>
+</component>

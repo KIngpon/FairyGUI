@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="580,455">
+  <displayList>
+    <image id="n17_ijgv" name="n17" src="ijgv4w" fileName="imgs/bgg.png" xy="0,0" size="580,455"/>
+    <image id="n1_99mf" name="n1" src="99mf4p" fileName="imgs/game_0000_组-1.png" xy="0,0" size="580,455"/>
+    <component id="n0_99mf" name="n0" src="99mf4t" fileName="component/ButtonNiChen.xml" xy="7,120"/>
+    <component id="n2_99mf" name="btn_zadan" src="99mf4u" fileName="component/ButtonZaDan.xml" xy="27,342"/>
+    <component id="n3_99mf" name="btn_flower" src="99mf4v" fileName="component/ButtonFlower.xml" xy="305,348"/>
+    <image id="n4_99mf" name="n4" src="rezhx" fileName="imgs/通用白框.png" pkg="i36kne80" xy="37,21" size="100,100"/>
+    <image id="n5_99mf" name="n5" src="rezh16" fileName="imgs/弹出背景1底框.png" pkg="i36kne80" xy="42,177" size="496,157"/>
+    <text id="n6_99mf" name="txt_name" xy="144,22" size="387,28" fontSize="24" color="#68564c" autoSize="none" text=""/>
+    <text id="n7_99mf" name="txt_score" xy="144,58" size="387,28" fontSize="24" color="#68564c" autoSize="none" text=""/>
+    <text id="n8_99mf" name="txt_id" xy="144,94" size="387,28" fontSize="24" color="#68564c" autoSize="none" text=""/>
+    <text id="n9_99mf" name="txt_pos" xy="144,130" size="387,28" fontSize="24" color="#68564c" autoSize="none" text=""/>
+    <text id="n10_99mf" name="txt_pos0" xy="67,186" size="443,22" fontSize="18" color="#a88f71" autoSize="none" text=""/>
+    <text id="n11_99mf" name="txt_pos0" xy="67,215" size="443,22" fontSize="18" color="#a88f71" autoSize="none" text=""/>
+    <text id="n12_99mf" name="txt_pos0" xy="67,244" size="443,22" fontSize="18" color="#a88f71" autoSize="none" text=""/>
+    <text id="n13_99mf" name="txt_pos0" xy="67,273" size="443,22" fontSize="18" color="#a88f71" autoSize="none" text=""/>
+    <text id="n14_99mf" name="txt_pos0" xy="67,302" size="443,22" fontSize="18" color="#a88f71" autoSize="none" text=""/>
+    <component id="n15_99mf" name="n15" src="vhx331" fileName="component/HeadImage1.xml" pkg="s4bbeogy" xy="44,27" size="86,86"/>
+    <component id="n16_99mf" name="btn_close" src="nl0pf" fileName="component/PopModuleCloseBtn.xml" pkg="i36kne80" xy="533,-27"/>
+  </displayList>
+</component>

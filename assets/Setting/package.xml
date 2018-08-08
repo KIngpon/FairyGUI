@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="1p6eu6xm" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="j34r0" name="背景@3x.png" path="/imgs/"/>
+    <image id="j34r1" name="背景图片@3x.png" path="/imgs/"/>
+    <image id="j34r2" name="蓝@3x.png" path="/imgs/"/>
+    <image id="j34r3" name="蓝绿背景@3x.png" path="/imgs/"/>
+    <image id="j34r4" name="绿@3x.png" path="/imgs/"/>
+    <image id="j34r5" name="设置开启关闭底框@3x.png" path="/imgs/"/>
+    <image id="j34r6" name="选中框@3x.png" path="/imgs/"/>
+    <image id="j34r7" name="音乐@3x.png" path="/imgs/"/>
+    <image id="j34r8" name="音乐1@3x.png" path="/imgs/"/>
+    <image id="j34r9" name="音效@3x.png" path="/imgs/"/>
+    <image id="j34ra" name="音效1@3x.png" path="/imgs/"/>
+    <component id="j34rb" name="Setting.xml" path="/component/" exported="true"/>
+    <component id="j34rc" name="ButtonBg1.xml" path="/component/"/>
+    <component id="j34rd" name="ButtonBg2.xml" path="/component/"/>
+    <component id="j34re" name="ButtonBg3.xml" path="/component/"/>
+    <image id="nhyjf" name="关闭@3x.png" path="/imgs/"/>
+    <image id="nhyjg" name="开启@3x.png" path="/imgs/"/>
+    <component id="h5w5h" name="ButtonRadio.xml" path="/component/"/>
+    <image id="h5w5i" name="按钮@3x.png" path="/imgs/"/>
+    <image id="h5w5j" name="蓝绿色按钮@3x.png" path="/imgs/"/>
+    <image id="h5w5k" name="蓝色按钮@3x.png" path="/imgs/"/>
+    <image id="h5w5l" name="问题反馈@3x.png" path="/imgs/"/>
+    <image id="h5w5m" name="游戏帮助@3x.png" path="/imgs/"/>
+    <component id="h5w5o" name="ButtonAsk.xml" path="/component/"/>
+    <component id="h5w5p" name="ButtonHelp.xml" path="/component/"/>
+  </resources>
+  <publish name="Setting" genCode="true"/>
+</packageDescription>

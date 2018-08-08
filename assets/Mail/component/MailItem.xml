@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="825,94">
+  <displayList>
+    <image id="n1_nl0p" name="n1" src="vzrth" fileName="imgs/圆角矩形 31@3x.png" xy="0,0"/>
+    <component id="n2_nl0p" name="btn_read" src="sl2k1b" fileName="component/ButtonRead.xml" xy="665,27"/>
+    <image id="n3_nl0p" name="n3" src="vzrtb" fileName="imgs/已读@3x.png" xy="311,26"/>
+    <image id="n4_nl0p" name="n4" src="vzrtf" fileName="imgs/圆角矩形 4@3x.png" xy="505,31"/>
+    <text id="n7_nl0p" name="n7" xy="105,20" size="85,24" font="黑体" fontSize="20" color="#4c4b48" text="系统消息"/>
+    <image id="n8_rezh" name="n8" src="rezh19" fileName="imgs/邮箱底.png" xy="29,62"/>
+    <image id="n9_rezh" name="n9" src="rezh18" fileName="imgs/邮箱图标.png" xy="29,26"/>
+    <text id="n10_rezh" name="n10" xy="105,49" size="149,22" font="黑体" fontSize="18" color="#8f8f8d" text="成功充值10张房卡"/>
+    <image id="n11_rezh" name="n11" src="rezh1a" fileName="imgs/时钟.png" xy="511,35"/>
+    <text id="n12_rezh" name="n12" xy="554,38" size="66,18" fontSize="14" color="#452121" text="14 分钟前"/>
+  </displayList>
+</component>

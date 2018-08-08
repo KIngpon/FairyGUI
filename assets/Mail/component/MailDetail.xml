@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,581">
+  <displayList>
+    <component id="n0_nl0p" name="panelBg" src="nl0p9" fileName="component/PopModuleBg.xml" pkg="i36kne80" xy="0,0" size="600,581"/>
+    <image id="n2_nl0p" name="n2" src="nl0pi" fileName="imgs/圆角矩形 3 拷贝 2@3x.png" pkg="i36kne80" xy="43,89" size="510,51"/>
+    <image id="n3_nl0p" name="n3" src="nl0pi" fileName="imgs/圆角矩形 3 拷贝 2@3x.png" pkg="i36kne80" xy="43,139" size="510,51"/>
+    <image id="n4_nl0p" name="n4" src="nl0pi" fileName="imgs/圆角矩形 3 拷贝 2@3x.png" pkg="i36kne80" xy="43,189" size="510,51"/>
+    <image id="n5_nl0p" name="n5" src="nl0pi" fileName="imgs/圆角矩形 3 拷贝 2@3x.png" pkg="i36kne80" xy="43,239" size="512,210"/>
+    <component id="n7_nl0p" name="n7" src="nl0pg" fileName="component/ButtonOK.xml" pkg="i36kne80" xy="202,470"/>
+    <text id="n8_nl0p" name="n8" xy="53,96" size="485,35" fontSize="20" color="#886046" vAlign="middle" autoSize="none" text="发件人：XXX"/>
+    <text id="n9_nl0p" name="n9" xy="53,146" size="485,35" fontSize="20" color="#886046" vAlign="middle" autoSize="none" text="标题：XXX"/>
+    <text id="n10_nl0p" name="n10" xy="53,193" size="485,35" fontSize="20" color="#886046" vAlign="middle" autoSize="none" text="时间：XXX"/>
+    <text id="n11_nl0p" name="n11" xy="54,265" size="485,165" fontSize="20" color="#886046" autoSize="none" text="发件人：XXX"/>
+  </displayList>
+</component>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="580,420">
+  <controller name="DeskChooseCtrl" pages="0,,1,,2," selected="0"/>
+  <displayList>
+    <component id="n0_j34r" name="panelBg" src="nl0p9" fileName="component/PopModuleBg.xml" pkg="i36kne80" xy="0,0" size="580,420"/>
+    <image id="n7_j34r" name="n7" src="nl0pi" fileName="imgs/圆角矩形 3 拷贝 2@3x.png" pkg="i36kne80" xy="32,88" size="516,219"/>
+    <image id="n1_j34r" name="n1" src="j34r1" fileName="imgs/背景图片@3x.png" xy="52,220"/>
+    <image id="n2_j34r" name="n2" src="j34r0" fileName="imgs/背景@3x.png" xy="92,220"/>
+    <image id="n4_j34r" name="n4" src="j34r8" fileName="imgs/音乐1@3x.png" xy="52,129"/>
+    <image id="n5_j34r" name="n5" src="j34r7" fileName="imgs/音乐@3x.png" xy="92,130"/>
+    <image id="n6_j34r" name="n6" src="j34ra" fileName="imgs/音效1@3x.png" xy="302,128"/>
+    <component id="n8_j34r" name="btn_bg1" src="j34rc" fileName="component/ButtonBg1.xml" xy="190,214">
+      <Button checked="true" controller="DeskChooseCtrl" page="0"/>
+    </component>
+    <component id="n9_j34r" name="btn_bg2" src="j34rd" fileName="component/ButtonBg2.xml" xy="312,214">
+      <Button controller="DeskChooseCtrl" page="1"/>
+    </component>
+    <component id="n10_j34r" name="btn_bg3" src="j34re" fileName="component/ButtonBg3.xml" xy="434,214">
+      <Button controller="DeskChooseCtrl" page="2"/>
+    </component>
+    <image id="n11_nhyj" name="n11" src="j34r9" fileName="imgs/音效@3x.png" xy="347,130"/>
+    <component id="n13_h5w5" name="btn_music" src="h5w5h" fileName="component/ButtonRadio.xml" xy="173,122"/>
+    <component id="n14_h5w5" name="btn_sound" src="h5w5h" fileName="component/ButtonRadio.xml" xy="427,122"/>
+    <component id="n15_h5w5" name="btn_help" src="h5w5p" fileName="component/ButtonHelp.xml" xy="209,320"/>
+  </displayList>
+</component>

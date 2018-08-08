@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1206,750" adaptationTest="FitWidthAndSetMiddle">
+  <controller name="ctrl" pages="0,,1," selected="0"/>
+  <displayList>
+    <graph id="n46_rezh" name="n46" xy="0,0" size="1206,750" visible="false" type="rect"/>
+    <image id="n0_mwp4" name="n0" src="rezh0" fileName="圆角矩形 1 拷贝 4@3x.png" pkg="9coka41h" xy="154,44" group="n45_rezh"/>
+    <image id="n2_mwp4" name="n2" src="mwp41j" fileName="imgs/前墩 拷贝@3x.png" xy="198,130" group="n45_rezh"/>
+    <image id="n3_mwp4" name="n3" src="mwp41i" fileName="imgs/后墩 拷贝@3x.png" xy="198,377" group="n45_rezh"/>
+    <component id="n4_mwp4" name="btn_close1" src="mwp41l" fileName="component/ButtonPutClose.xml" xy="928,135" group="n45_rezh"/>
+    <component id="n5_mwp4" name="btn_close2" src="mwp41l" fileName="component/ButtonPutClose.xml" xy="929,253" group="n45_rezh"/>
+    <component id="n6_mwp4" name="btn_close3" src="mwp41l" fileName="component/ButtonPutClose.xml" xy="928,371" group="n45_rezh"/>
+    <loader id="n34_rezh" name="paixing_2" xy="167,431" size="144,50" group="n45_rezh" align="center" vAlign="middle"/>
+    <image id="n36_rezh" name="n36" src="rezh2f" fileName="imgs/中墩.png" xy="192,254" group="n45_rezh"/>
+    <loader id="n37_rezh" name="paixing_0" xy="167,171" size="144,50" group="n45_rezh" align="center" vAlign="middle"/>
+    <loader id="n38_rezh" name="paixing_1" xy="167,301" size="144,50" group="n45_rezh" align="center" vAlign="middle"/>
+    <group id="n45_rezh" name="n45" xy="154,44" size="898,475" advanced="true" collapsed="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+    <list id="n44_rezh" name="porkList" xy="63,519" size="1080,147" layout="row" selectionMode="multipleSingleClick" colGap="-30" defaultItem="ui://jow5n9bqmwp41d" align="center" vAlign="middle">
+      <gearDisplay controller="ctrl" pages="0"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n8_mwp4" name="btn_cancel" src="mwp4v" fileName="component/ButtonCancel.xml" pkg="i36kne80" xy="377,547">
+      <gearDisplay controller="ctrl" pages="1"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n9_mwp4" name="btn_ok" src="mwp4t" fileName="component/ButtonComform.xml" pkg="i36kne80" xy="683,547">
+      <gearDisplay controller="ctrl" pages="1"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n10_mwp4" name="btntype1" src="mwp41o" fileName="component/ButtonType.xml" xy="52,650" group="n32_mwp4"/>
+    <component id="n11_mwp4" name="btntype2" src="mwp41o" fileName="component/ButtonType.xml" xy="171,650" group="n32_mwp4"/>
+    <component id="n12_mwp4" name="btntype3" src="mwp41o" fileName="component/ButtonType.xml" xy="290,650" group="n32_mwp4"/>
+    <component id="n13_mwp4" name="btntype4" src="mwp41o" fileName="component/ButtonType.xml" xy="409,650" group="n32_mwp4"/>
+    <component id="n14_mwp4" name="btntype5" src="mwp41o" fileName="component/ButtonType.xml" xy="528,650" group="n32_mwp4"/>
+    <component id="n15_mwp4" name="btntype6" src="mwp41o" fileName="component/ButtonType.xml" xy="647,650" group="n32_mwp4"/>
+    <component id="n16_mwp4" name="btntype7" src="mwp41o" fileName="component/ButtonType.xml" xy="766,650" group="n32_mwp4"/>
+    <component id="n17_mwp4" name="btntype8" src="mwp41o" fileName="component/ButtonType.xml" xy="885,650" group="n32_mwp4"/>
+    <component id="n18_mwp4" name="btntype9" src="mwp41p" fileName="component/ButtonTypeEnd.xml" xy="1003,650" group="n32_mwp4"/>
+    <group id="n32_mwp4" name="btngroup" xy="52,650" size="1102,83" advanced="true" collapsed="true">
+      <gearDisplay controller="ctrl" pages="0"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+    <component id="n39_rezh" name="btn_help" src="rezh2h" fileName="component/ButtonHelp1.xml" xy="1058,420">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </component>
+    <graph id="n47_r2oa" name="area_top" xy="483,84" size="261,100" type="rect" lineColor="#00000000" fillColor="#00ffffff"/>
+    <graph id="n48_r2oa" name="area_mid" xy="400,198" size="404,100" type="rect" lineColor="#00000000" fillColor="#00ffffff"/>
+    <graph id="n49_r2oa" name="area_down" xy="356,290" size="509,152" type="rect" lineColor="#00000000" fillColor="#00ffffff"/>
+    <list id="n50_r2oa" name="list_top" xy="464,83" size="282,157" touchable="false" layout="row" overflow="scroll" colGap="-28" defaultItem="ui://jow5n9bqmwp41d">
+      <relation target="n45_rezh" sidePair="center-center,top-top"/>
+    </list>
+    <list id="n51_r2oa" name="list_mid" xy="386,192" size="436,155" touchable="false" layout="row" overflow="scroll" colGap="-30" defaultItem="ui://jow5n9bqmwp41d">
+      <relation target="n45_rezh" sidePair="center-center,top-top"/>
+    </list>
+    <list id="n52_r2oa" name="list_down" xy="342,309" size="530,173" alpha="0.94" touchable="false" layout="row" overflow="scroll" colGap="-8" defaultItem="ui://jow5n9bqmwp41d">
+      <relation target="n45_rezh" sidePair="center-center,top-top"/>
+    </list>
+  </displayList>
+</component>

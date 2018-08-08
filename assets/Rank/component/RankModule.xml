@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="924,620">
+  <displayList>
+    <component id="n0_du50" name="panelBg" src="nl0p9" fileName="component/PopModuleBg.xml" pkg="i36kne80" xy="0,0" size="924,620"/>
+    <image id="n1_du50" name="n1" src="du508" fileName="imgs/rank_0008_圆角矩形-7-拷贝.png" xy="103,92"/>
+    <image id="n4_du50" name="n4" src="du508" fileName="imgs/rank_0008_圆角矩形-7-拷贝.png" xy="301,92" size="129,38"/>
+    <image id="n5_du50" name="n5" src="du508" fileName="imgs/rank_0008_圆角矩形-7-拷贝.png" xy="609,92" size="240,38"/>
+    <image id="n2_du50" name="n2" src="du507" fileName="imgs/rank_0007_名次.png" xy="111,97"/>
+    <image id="n3_du50" name="n3" src="du506" fileName="imgs/rank_0006_玩家信息.png" xy="318,97"/>
+    <image id="n6_du50" name="n6" src="du505" fileName="imgs/rank_0005_本周胜局数_总局数.png" xy="629,97"/>
+    <image id="n7_du50" name="n7" src="rezh10" fileName="imgs/圆角矩形1.png" pkg="i36kne80" xy="34,138" size="855,353"/>
+    <list id="n8_du50" name="list" xy="36,147" size="851,332" overflow="scroll" defaultItem="ui://ljka2qsxdu50d"/>
+    <image id="n9_du50" name="n9" src="du501" fileName="imgs/rank_0001_我的排行.png" xy="20,519"/>
+    <image id="n10_du50" name="img_outrank" src="du500" fileName="imgs/rank_0000_未入榜.png" xy="143,531"/>
+    <text id="n11_du50" name="txt_score" xy="634,530" size="172,24" fontSize="22" color="#ff0000" align="center" vAlign="middle" autoSize="none" text="100/200"/>
+    <text id="n12_du50" name="txt_name" xy="400,528" size="202,28" fontSize="24" color="#7a5105" vAlign="middle" autoSize="none" text="天王盖地虎"/>
+    <text id="n13_mqta" name="txt_rank" xy="142,528" size="131,28" fontSize="24" color="#7a5105" vAlign="middle" autoSize="none" text=""/>
+  </displayList>
+</component>

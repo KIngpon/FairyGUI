@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="924,600">
+  <displayList>
+    <component id="n0_sej4" name="panelBg" src="nl0p9" fileName="component/PopModuleBg.xml" pkg="i36kne80" xy="0,0" size="924,600"/>
+    <image id="n1_sej4" name="n1" src="sej4b" fileName="imgs/输入6位房间号@3x.png" xy="286,75"/>
+    <image id="n2_sej4" name="n2" src="sej4e" fileName="imgs/圆角矩形 1@3x.png" xy="124,121"/>
+    <image id="n3_sej4" name="n3" src="sej4d" fileName="imgs/圆角矩形 1 拷贝 6@3x.png" xy="684,121"/>
+    <image id="n4_sej4" name="n4" src="sej4c" fileName="imgs/圆角矩形 1 拷贝 2@3x.png" xy="236,121"/>
+    <image id="n5_sej4" name="n5" src="sej4c" fileName="imgs/圆角矩形 1 拷贝 2@3x.png" xy="348,121"/>
+    <image id="n6_sej4" name="n6" src="sej4c" fileName="imgs/圆角矩形 1 拷贝 2@3x.png" xy="460,121"/>
+    <image id="n7_sej4" name="n7" src="sej4c" fileName="imgs/圆角矩形 1 拷贝 2@3x.png" xy="572,121"/>
+    <component id="n8_sej4" name="btn1" src="sej4j" fileName="component/ButtonNum.xml" xy="124,213">
+      <Button title="1"/>
+    </component>
+    <component id="n9_sej4" name="btn2" src="sej4j" fileName="component/ButtonNum.xml" xy="355,213">
+      <Button title="2"/>
+    </component>
+    <component id="n10_sej4" name="btn3" src="sej4j" fileName="component/ButtonNum.xml" xy="586,213">
+      <Button title="3"/>
+    </component>
+    <component id="n11_sej4" name="btn4" src="sej4j" fileName="component/ButtonNum.xml" xy="124,295">
+      <Button title="4"/>
+    </component>
+    <component id="n12_sej4" name="btn5" src="sej4j" fileName="component/ButtonNum.xml" xy="355,295">
+      <Button title="5"/>
+    </component>
+    <component id="n13_sej4" name="btn6" src="sej4j" fileName="component/ButtonNum.xml" xy="586,295">
+      <Button title="6"/>
+    </component>
+    <component id="n14_sej4" name="btn7" src="sej4j" fileName="component/ButtonNum.xml" xy="124,377">
+      <Button title="7"/>
+    </component>
+    <component id="n15_sej4" name="btn8" src="sej4j" fileName="component/ButtonNum.xml" xy="355,377">
+      <Button title="8"/>
+    </component>
+    <component id="n16_sej4" name="btn9" src="sej4j" fileName="component/ButtonNum.xml" xy="586,377">
+      <Button title="9"/>
+    </component>
+    <component id="n17_sej4" name="btn0" src="sej4j" fileName="component/ButtonNum.xml" xy="355,459"/>
+    <component id="n18_sej4" name="btndel" src="sej4m" fileName="component/ButtonDel.xml" xy="586,459"/>
+    <component id="n19_sej4" name="btnreset" src="sej4l" fileName="component/ButtonReset.xml" xy="124,459"/>
+    <text id="n20_sej4" name="txt1" xy="151,133" size="60,61" fontSize="50" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="1"/>
+    <text id="n21_sej4" name="txt2" xy="261,133" size="60,61" fontSize="50" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="1"/>
+    <text id="n22_sej4" name="txt3" xy="371,133" size="60,61" fontSize="50" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="1"/>
+    <text id="n23_sej4" name="txt4" xy="481,133" size="60,61" fontSize="50" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="1"/>
+    <text id="n24_sej4" name="txt5" xy="591,133" size="60,61" fontSize="50" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="1"/>
+    <text id="n25_sej4" name="txt6" xy="701,133" size="60,61" fontSize="50" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="1"/>
+  </displayList>
+</component>

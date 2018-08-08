@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="9s4fd8dy" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="rezh0" name="背景01.jpg" path="/" exported="true"/>
+  </resources>
+  <publish name="Bg1"/>
+</packageDescription>

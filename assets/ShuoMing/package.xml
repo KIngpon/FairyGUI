@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ksvi7x7c" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="rv2q0" name="ShuoMing.xml" path="/component/" exported="true"/>
+    <image id="rv2q3" name="本游戏仅供娱乐，严禁赌博 @3x.png" path="/imgs/"/>
+    <component id="rv2q4" name="ShuoMingTab.xml" path="/component/" exported="true"/>
+    <image id="rv2q5" name="圆角矩形 3 拷贝 5@3x.png" path="/imgs/"/>
+    <image id="rv2q6" name="圆角矩形 3 拷贝 9@3x.png" path="/imgs/"/>
+    <image id="rezh7" name="参与人数@3x.png" path="/imgs/"/>
+    <image id="rezh8" name="矩形 2 拷贝 2@3x.png" path="/imgs/"/>
+    <image id="rezh9" name="玩法设置@3x.png" path="/imgs/"/>
+    <component id="dowqa" name="TxtContent.xml" path="/component/" exported="true"/>
+  </resources>
+  <publish name="ShuoMing" genCode="true"/>
+</packageDescription>

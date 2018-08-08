@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="674,465">
+  <displayList>
+    <image id="n0_p0d6" name="n0" src="p0d60" fileName="imgs/6f8b612c384ac23c484b76898c42b372688fde65f24a-ApjIZk@3x.png" xy="0,4"/>
+    <image id="n1_p0d6" name="n1" src="p0d64" fileName="imgs/圆角矩形 3@3x.png" xy="73,85"/>
+    <component id="n2_p0d6" name="btn_buy" src="p0d67" fileName="component/ButtonBuy.xml" xy="239,351"/>
+    <image id="n3_p0d6" name="n3" src="p0d61" fileName="imgs/房卡@3x.png" xy="178,215"/>
+    <component id="n4_p0d6" name="btn_get" src="dowq9" fileName="component/ButtonGet.xml" xy="344,226"/>
+    <image id="n19_dowq" name="n19" src="dowq8" fileName="imgs/tt.png" xy="108,98"/>
+    <image id="n5_p0d6" name="n5" src="p0d63" fileName="imgs/椭圆 1 拷贝 4@3x.png" xy="266,151"/>
+    <text id="n7_p0d6" name="n7" xy="103,287" size="456,50" fontSize="18" color="#666666" align="center" vAlign="middle" autoSize="none" text="友谊提示：请联系推广员获取邀请码"/>
+    <component id="n8_ka6r" name="btn_close" src="nl0pf" fileName="component/PopModuleCloseBtn.xml" pkg="i36kne80" xy="628,-24"/>
+    <image id="n9_ka6r" name="n9" src="ka6r1a" fileName="imgs/title/购卡.png" pkg="i36kne80" xy="287,10"/>
+    <text id="n10_ka6r" name="txt_input" xy="273,151" size="240,42" alpha="0" input="true" maxLength="6" keyboardType="4" fontSize="2" color="#ffffff" vAlign="middle" autoSize="none" singleLine="true" text=""/>
+    <graph id="n17_cy15" name="n17" xy="268,149" size="254,48" touchable="false" type="rect" lineColor="#00ff0000"/>
+    <image id="n18_cy15" name="n18" src="p0d63" fileName="imgs/椭圆 1 拷贝 4@3x.png" xy="268,150"/>
+    <text id="n11_qwjl" name="txt_input1" xy="276,154" size="32,36" fontSize="32" align="right" vAlign="middle" letterSpacing="25" autoSize="none" text=""/>
+    <text id="n12_qwjl" name="txt_input2" xy="312,154" size="32,36" fontSize="32" align="right" vAlign="middle" letterSpacing="25" autoSize="none" text=""/>
+    <text id="n13_qwjl" name="txt_input3" xy="352,154" size="32,36" fontSize="32" align="right" vAlign="middle" letterSpacing="25" autoSize="none" text=""/>
+    <text id="n14_qwjl" name="txt_input4" xy="392,154" size="32,36" fontSize="32" align="right" vAlign="middle" letterSpacing="25" autoSize="none" text=""/>
+    <text id="n15_qwjl" name="txt_input5" xy="433,154" size="32,36" fontSize="32" align="right" vAlign="middle" letterSpacing="25" autoSize="none" text=""/>
+    <text id="n16_qwjl" name="txt_input6" xy="474,154" size="32,36" fontSize="32" align="right" vAlign="middle" letterSpacing="25" autoSize="none" text=""/>
+    <text id="n20_dowq" name="n20" xy="239,239" size="46,28" fontSize="24" color="#ffffff" strokeColor="#520303" text="X10"/>
+  </displayList>
+</component>

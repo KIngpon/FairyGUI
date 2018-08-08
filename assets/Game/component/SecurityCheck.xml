@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,400">
+  <displayList>
+    <image id="n0_du50" name="n0" src="du502r" fileName="imgs/安全监测.png" xy="-50,-50"/>
+    <image id="n1_du50" name="n1" src="du502s" fileName="imgs/安全监测1.png" xy="201,-5" pivot="0,1"/>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n1_du50" tween="true" startValue="-360" endValue="-720" duration="36" ease="Linear" repeat="-1"/>
+  </transition>
+</component>

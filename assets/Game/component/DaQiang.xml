@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="180,113" pivot="0.5,0.5">
+  <displayList>
+    <image id="n0_ist4" name="qiang" src="he9h4f" fileName="imgs/qiang.png" xy="90,56" pivot="0.5,0.5" anchor="true"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Rotation" target="n0_ist4" value="0"/>
+    <item time="2" type="Rotation" target="n0_ist4" tween="true" startValue="0" endValue="10" duration="3"/>
+    <item time="9" type="Rotation" target="n0_ist4" tween="true" startValue="0" endValue="10" duration="4"/>
+    <item time="16" type="Rotation" target="n0_ist4" tween="true" startValue="0" endValue="10" duration="4"/>
+    <item time="22" type="Rotation" target="n0_ist4" value="0"/>
+    <item time="35" type="Rotation" target="n0_ist4" value="0"/>
+  </transition>
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="638,406">
+  <displayList>
+    <component id="n0_du50" name="panelBg" src="rezh17" fileName="component/AlertBg1.xml" pkg="i36kne80" xy="0,0"/>
+    <text id="n1_du50" name="shuoming" xy="56,118" size="527,241" fontSize="24" color="#5f4222" leading="13" autoSize="none" text="1.将13张牌按照后墩5张，中墩5张，前墩3张的格式放到对应的位置。&#xA;2、后墩>中墩>前墩&#xA;3.对子&lt;两对&lt;三条&lt;顺子&lt;同花&lt;葫芦&lt;铁支&lt;同花顺&lt;五同"/>
+  </displayList>
+</component>

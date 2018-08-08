@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="924,581">
+  <controller name="tabCtl" pages="0,,1,,2,,3,,4," selected="0"/>
+  <displayList>
+    <component id="n0_nxr2" name="panelBg" src="nl0p9" fileName="component/PopModuleBg.xml" pkg="i36kne80" xy="0,0"/>
+    <image id="n4_nxr2" name="n4" src="rezh10" fileName="imgs/圆角矩形1.png" pkg="i36kne80" xy="301,72" size="599,405"/>
+    <image id="n3_nxr2" name="n3" src="rezh11" fileName="imgs/圆角矩形 7@3x.png" pkg="i36kne80" xy="34,69" size="255,479"/>
+    <image id="n10_nxr2" name="n10" src="rv2q3" fileName="imgs/本游戏仅供娱乐，严禁赌博 @3x.png" xy="392,493"/>
+    <list id="n15_rv2q" name="list" xy="35,70" size="270,480" overflow="scroll" lineGap="4" defaultItem="ui://ksvi7x7crv2q4">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n16_rezh" name="n16" src="rezh8" fileName="imgs/矩形 2 拷贝 2@3x.png" xy="330,82" group="n18_rezh"/>
+    <image id="n17_rezh" name="n17" src="rezh7" fileName="imgs/参与人数@3x.png" xy="347,84" group="n18_rezh"/>
+    <group id="n18_rezh" name="n18" xy="330,82" size="174,45"/>
+    <image id="n19_rezh" name="n19" src="rezh8" fileName="imgs/矩形 2 拷贝 2@3x.png" xy="330,175" group="n21_rezh"/>
+    <image id="n20_rezh" name="n20" src="rezh9" fileName="imgs/玩法设置@3x.png" xy="346,179" group="n21_rezh"/>
+    <group id="n21_rezh" name="n21" xy="330,175" size="174,45"/>
+    <text id="n22_rezh" name="txt_num" xy="366,138" size="89,25" fontSize="20" color="#74593f" autoSize="none" text="3人"/>
+    <component id="n24_dowq" name="txtcontent" src="dowqa" fileName="component/TxtContent.xml" xy="327,229" size="550,238"/>
+  </displayList>
+</component>

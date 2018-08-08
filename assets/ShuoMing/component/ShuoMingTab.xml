@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="242,92" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="2"/>
+  <displayList>
+    <image id="n1" name="n1" src="rv2q5" fileName="imgs/圆角矩形 3 拷贝 5@3x.png" xy="0,0">
+      <gearDisplay controller="button" pages="0,2"/>
+    </image>
+    <image id="n2" name="n2" src="rv2q6" fileName="imgs/圆角矩形 3 拷贝 9@3x.png" xy="0,0">
+      <gearDisplay controller="button" pages="1,3"/>
+    </image>
+    <text id="n3_nxr2" name="name" xy="29,17" size="183,51" fontSize="26" color="#7c5e1f" align="center" vAlign="middle" autoSize="none" bold="true" text="十三水">
+      <gearColor controller="button" pages="0,2" values="#7c5e1f,#000000|#7c5e1f,#000000" default="#993300,#000000"/>
+    </text>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

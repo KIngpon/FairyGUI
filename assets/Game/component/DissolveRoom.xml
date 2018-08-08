@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="680,470">
+  <displayList>
+    <component id="n0_gl8o" name="panelBg" src="rezh13" fileName="component/AlertBg.xml" pkg="i36kne80" xy="0,0" size="680,470">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <list id="n2_gl8o" name="list" xy="24,105" size="631,216" touchable="false" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://jow5n9bqgl8o4i" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n3_gl8o" name="txt_name" xy="68,318" size="536,44" fontSize="16" color="#4f3826" align="center" vAlign="middle" letterSpacing="1" autoSize="none" text="提示：未操作的玩家将在倒数结束后默认同意解散房间，如果&#xA;            房间中途解散，解散顺序可以在战绩中查看。"/>
+    <component id="n4_gl8o" name="btn_refuse" src="rezh2p" fileName="component/ButtonRefuse.xml" xy="123,371"/>
+    <component id="n5_gl8o" name="btn_accept" src="rezh2q" fileName="component/ButtonAccept.xml" xy="379,371"/>
+    <text id="n6_gl8o" name="txt_count" xy="498,73" size="157,28" fontSize="24" align="right" vAlign="middle" autoSize="none" text="倒计时:3:00"/>
+  </displayList>
+</component>

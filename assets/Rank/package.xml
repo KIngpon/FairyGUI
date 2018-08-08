@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ljka2qsx" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="du500" name="rank_0000_未入榜.png" path="/imgs/"/>
+    <image id="du501" name="rank_0001_我的排行.png" path="/imgs/"/>
+    <image id="du502" name="rank_0002_第三.png" path="/imgs/" exported="true"/>
+    <image id="du503" name="rank_0003_第二.png" path="/imgs/" exported="true"/>
+    <image id="du504" name="rank_0004_第一.png" path="/imgs/" exported="true"/>
+    <image id="du505" name="rank_0005_本周胜局数_总局数.png" path="/imgs/"/>
+    <image id="du506" name="rank_0006_玩家信息.png" path="/imgs/"/>
+    <image id="du507" name="rank_0007_名次.png" path="/imgs/"/>
+    <image id="du508" name="rank_0008_圆角矩形-7-拷贝.png" path="/imgs/" scale="9grid" scale9grid="18,10,36,20"/>
+    <image id="du509" name="rank_0009_排----行.png" path="/imgs/"/>
+    <image id="du50a" name="rank_0010_图层-1.png" path="/imgs/"/>
+    <component id="du50b" name="RankModule.xml" path="/component/" exported="true"/>
+    <image id="du50c" name="rankitembg.png" path="/imgs/" scale="9grid" scale9grid="39,21,78,42"/>
+    <component id="du50d" name="RankItem.xml" path="/component/" exported="true"/>
+    <image id="du50e" name="rank_0000_圆角矩形-4.png" path="/imgs/"/>
+  </resources>
+  <publish name="Rank" genCode="true"/>
+</packageDescription>

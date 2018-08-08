@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="638,430">
+  <displayList>
+    <image id="n0_rezh" name="n0" src="rezh15" fileName="imgs/弹出背景1.png" xy="0,0" size="638,430">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_rezh" name="n1" src="rezh16" fileName="imgs/弹出背景1底框.png" xy="30,99" size="577,307">
+      <relation target="n0_rezh" sidePair="width-width"/>
+    </image>
+    <component id="n2_rezh" name="btn_close" src="nl0pf" fileName="component/PopModuleCloseBtn.xml" xy="599,-37">
+      <relation target="n0_rezh" sidePair="right-right,top-top"/>
+    </component>
+    <loader id="n4_rezh" name="title" xy="209,-2" size="231,70" url="ui://i36kne80rezh18" align="center" vAlign="middle">
+      <relation target="n0_rezh" sidePair="center-center"/>
+    </loader>
+  </displayList>
+</component>

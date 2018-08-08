@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="j0afz4iz" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="nl0p0" name="复制@3x.png" path="/imgs/"/>
+    <component id="nl0p1" name="KeFu.xml" path="/component/" exported="true"/>
+    <image id="nl0p2" name="圆角矩形 4@3x.png" path="/imgs/"/>
+    <component id="nl0p3" name="ButtonCopy.xml" path="/component/"/>
+  </resources>
+  <publish name="Kefu" genCode="true"/>
+</packageDescription>

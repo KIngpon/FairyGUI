@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ebiec26u" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="p0d60" name="6f8b612c384ac23c484b76898c42b372688fde65f24a-ApjIZk@3x.png" path="/imgs/"/>
+    <image id="p0d61" name="房卡@3x.png" path="/imgs/"/>
+    <image id="p0d62" name="立即领取@3x.png" path="/imgs/"/>
+    <image id="p0d63" name="椭圆 1 拷贝 4@3x.png" path="/imgs/"/>
+    <image id="p0d64" name="圆角矩形 3@3x.png" path="/imgs/"/>
+    <image id="p0d65" name="直接购买@3x.png" path="/imgs/"/>
+    <component id="p0d66" name="BuyCard.xml" path="/component/" exported="true"/>
+    <component id="p0d67" name="ButtonBuy.xml" path="/component/"/>
+    <image id="dowq8" name="tt.png" path="/imgs/"/>
+    <component id="dowq9" name="ButtonGet.xml" path="/component/"/>
+  </resources>
+  <publish name="BuyCard" genCode="true"/>
+</packageDescription>

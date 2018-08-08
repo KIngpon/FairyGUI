@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="tebyebzg" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="vzrt2" name="查看@3x.png" path="/imgs/"/>
+    <image id="vzrt4" name="立即领取@3x.png" path="/imgs/"/>
+    <image id="vzrtb" name="已读@3x.png" path="/imgs/"/>
+    <image id="vzrtf" name="圆角矩形 4@3x.png" path="/imgs/"/>
+    <image id="vzrth" name="圆角矩形 31@3x.png" path="/imgs/"/>
+    <component id="nl0pz" name="MailItem.xml" path="/component/"/>
+    <component id="nl0p10" name="MailModule.xml" path="/component/" exported="true"/>
+    <component id="nl0p11" name="MailDetail.xml" path="/component/" exported="true"/>
+    <image id="rezh18" name="邮箱图标.png" path="/imgs/"/>
+    <image id="rezh19" name="邮箱底.png" path="/imgs/"/>
+    <image id="rezh1a" name="时钟.png" path="/imgs/"/>
+    <component id="sl2k1b" name="ButtonRead.xml" path="/component/"/>
+    <image id="dowq1c" name="全部领取.png" path="/imgs/"/>
+    <component id="dowq1d" name="ButtonGetAll.xml" path="/component/"/>
+  </resources>
+  <publish name="Mail" genCode="true"/>
+</packageDescription>

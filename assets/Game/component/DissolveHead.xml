@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="126,210">
+  <displayList>
+    <image id="n0_gl8o" name="n0" src="gl8o4j" fileName="imgs/headbg.png" xy="0,33"/>
+    <image id="n1_gl8o" name="n1" src="mwp43" fileName="imgs/玩家框@3x.png" xy="9,36"/>
+    <text id="n2_gl8o" name="txt_top" xy="3,5" size="118,28" fontSize="24" color="#4f3826" align="center" vAlign="middle" autoSize="none" text="发起者"/>
+    <text id="n3_gl8o" name="txt_name" xy="4,140" size="118,28" fontSize="16" color="#4f3826" align="center" vAlign="middle" autoSize="none" text=""/>
+    <text id="n4_gl8o" name="n4" xy="75,173" size="51,28" fontSize="16" color="#4f3826" vAlign="middle" autoSize="none" text="分"/>
+    <text id="n5_gl8o" name="txt_score" xy="18,174" size="51,28" fontSize="16" color="#ff0000" align="right" vAlign="middle" autoSize="none" text="12"/>
+    <component id="n6_vhx3" name="n6" src="vhx331" fileName="component/HeadImage1.xml" pkg="s4bbeogy" xy="17,43" size="90,90"/>
+  </displayList>
+</component>

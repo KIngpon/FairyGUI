@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="924,581">
+  <displayList>
+    <component id="n0_nxr2" name="panelBg" src="nl0p9" fileName="component/PopModuleBg.xml" pkg="i36kne80" xy="0,0"/>
+    <image id="n4_nxr2" name="n4" src="nxr21" fileName="imgs/圆角矩形 3@3x.png" xy="301,72"/>
+    <image id="n3_nxr2" name="n3" src="nxr22" fileName="imgs/圆角矩形 7@3x.png" xy="34,69"/>
+    <image id="n10_nxr2" name="n10" src="nxr26" fileName="imgs/本游戏仅供娱乐，严禁赌博 @3x.png" xy="392,493"/>
+    <image id="n15_nxr2" name="n15" src="nxr27" fileName="imgs/图层 8@3x.png" xy="306,75" size="580,385"/>
+    <list id="n16_rv2q" name="list" xy="35,70" size="270,480" overflow="scroll" lineGap="4" defaultItem="ui://eqi03f83nxr23">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

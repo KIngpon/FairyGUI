@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1100,90">
+  <displayList>
+    <image id="n0_sl2k" name="n0" src="sl2k3" fileName="imgs/结算底块1.png" xy="0,0" size="1100,90"/>
+    <text id="n2_sl2k" name="txt_score" xy="858,25" size="129,50" font="ui://25mni52osl2kl" fontSize="12" align="center" vAlign="middle" autoSize="none" text="+1234"/>
+    <image id="n3_sl2k" name="n3" src="sl2km" fileName="imgs/单局结算头像框.png" xy="53,12"/>
+    <text id="n4_sl2k" name="txt_name" xy="138,21" size="93,26" fontSize="22" color="#ffffff" align="center" vAlign="middle" text="玩家姓名"/>
+    <text id="n5_sl2k" name="txt_id" xy="138,49" size="115,26" fontSize="22" color="#ffffff" align="center" vAlign="middle" text="(ID123456)"/>
+    <list id="n6_mqta" name="list_top" xy="332,17" size="260,158" scale="0.4,0.4" touchable="false" layout="row" overflow="scroll" colGap="-40" defaultItem="ui://jow5n9bqmwp41d">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <loader id="n7_mqta" name="head" xy="58,16" size="62,62" fill="scaleNoBorder"/>
+    <list id="n8_vhx3" name="list_mid" xy="449,17" size="395,158" scale="0.4,0.4" touchable="false" layout="row" overflow="scroll" colGap="-40" defaultItem="ui://jow5n9bqmwp41d">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n9_vhx3" name="list_down" xy="623,17" size="395,158" scale="0.4,0.4" touchable="false" layout="row" overflow="scroll" colGap="-40" defaultItem="ui://jow5n9bqmwp41d">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n10_vhx3" name="n10" src="vhx331" fileName="component/HeadImage1.xml" pkg="s4bbeogy" xy="58,16" size="62,62"/>
+  </displayList>
+</component>

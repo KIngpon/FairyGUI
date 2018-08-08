@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="jow5n9bq" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="mwp40" name="Game.xml" path="/component/" exported="true"/>
+    <component id="mwp42" name="PlayerHead.xml" path="/component/"/>
+    <image id="mwp43" name="玩家框@3x.png" path="/imgs/"/>
+    <image id="mwp44" name="设置@3x.png" path="/imgs/topbtn/"/>
+    <image id="mwp45" name="退出@3x.png" path="/imgs/topbtn/"/>
+    <image id="mwp46" name="玩法@3x.png" path="/imgs/topbtn/"/>
+    <component id="mwp47" name="ButtonGameSetting.xml" path="/component/"/>
+    <component id="mwp48" name="ButtonExit.xml" path="/component/"/>
+    <component id="mwp49" name="ButtonHelp.xml" path="/component/"/>
+    <image id="mwp4a" name="默认头像@3x.png" path="/imgs/"/>
+    <image id="mwp4b" name="分 框@3x.png" path="/imgs/"/>
+    <image id="mwp4c" name="安全检测@3x.png" path="/imgs/"/>
+    <image id="mwp4d" name="紫色按钮@3x.png" path="/imgs/"/>
+    <component id="mwp4e" name="ButtonCheck.xml" path="/component/"/>
+    <image id="mwp4f" name="十三水@3x.png" path="/imgs/"/>
+    <image id="mwp4g" name="已准备@3x.png" path="/imgs/"/>
+    <image id="mwp4h" name="2 拷贝@3x.png" path="/imgs/pork/"/>
+    <image id="mwp4i" name="3 拷贝@3x.png" path="/imgs/pork/"/>
+    <image id="mwp4j" name="5 拷贝@3x.png" path="/imgs/pork/"/>
+    <image id="mwp4k" name="6 拷贝@3x.png" path="/imgs/pork/"/>
+    <image id="mwp4l" name="7 拷贝@3x.png" path="/imgs/pork/"/>
+    <image id="mwp4m" name="8 拷贝@3x.png" path="/imgs/pork/"/>
+    <image id="mwp4n" name="9 拷贝@3x.png" path="/imgs/pork/"/>
+    <image id="mwp4o" name="10 拷贝@3x.png" path="/imgs/pork/"/>
+    <image id="mwp4p" name="10@3x.png" path="/imgs/pork/"/>
+    <image id="mwp4q" name="22@3x.png" path="/imgs/pork/"/>
+    <image id="mwp4r" name="32@3x.png" path="/imgs/pork/"/>
+    <image id="mwp4s" name="42@3x.png" path="/imgs/pork/"/>
+    <image id="mwp4t" name="52@3x.png" path="/imgs/pork/"/>
+    <image id="mwp4u" name="62@3x.png" path="/imgs/pork/"/>
+    <image id="mwp4v" name="72@3x.png" path="/imgs/pork/"/>
+    <image id="mwp4w" name="82@3x.png" path="/imgs/pork/"/>
+    <image id="mwp4x" name="92@3x.png" path="/imgs/pork/"/>
+    <image id="mwp4y" name="方块@3x.png" path="/imgs/pork/"/>
+    <image id="mwp4z" name="黑桃@3x.png" path="/imgs/pork/"/>
+    <image id="mwp410" name="红心@3x.png" path="/imgs/pork/"/>
+    <image id="mwp411" name="梅花@3x.png" path="/imgs/pork/"/>
+    <image id="mwp412" name="A 拷贝@3x.png" path="/imgs/pork/"/>
+    <image id="mwp413" name="A@3x.png" path="/imgs/pork/"/>
+    <image id="mwp414" name="J 拷贝@3x.png" path="/imgs/pork/"/>
+    <image id="mwp415" name="J@3x.png" path="/imgs/pork/"/>
+    <image id="mwp416" name="K 拷贝@3x.png" path="/imgs/pork/"/>
+    <image id="mwp417" name="K@3x.png" path="/imgs/pork/"/>
+    <image id="mwp418" name="Q 拷贝@3x.png" path="/imgs/pork/"/>
+    <image id="mwp419" name="Q@3x.png" path="/imgs/pork/"/>
+    <image id="mwp41a" name="42@3x副本.png" path="/imgs/pork/"/>
+    <image id="mwp41b" name="扑克反面@3x.png" path="/imgs/pork/"/>
+    <image id="mwp41c" name="扑克正面@3x.png" path="/imgs/pork/"/>
+    <component id="mwp41d" name="Pork.xml" path="/component/" exported="true"/>
+    <font id="mwp41e" name="FontPorkNumRed.fnt" path="/component/" exported="true"/>
+    <component id="mwp41g" name="PutPork.xml" path="/component/" exported="true"/>
+    <image id="mwp41i" name="后墩 拷贝@3x.png" path="/imgs/"/>
+    <image id="mwp41j" name="前墩 拷贝@3x.png" path="/imgs/"/>
+    <image id="mwp41k" name="X@3x.png" path="/imgs/"/>
+    <component id="mwp41l" name="ButtonPutClose.xml" path="/component/"/>
+    <image id="mwp41m" name="图层 9 拷贝 29@3x.png" path="/imgs/"/>
+    <image id="mwp41n" name="图层9 拷贝@3x.png" path="/imgs/"/>
+    <component id="mwp41o" name="ButtonType.xml" path="/component/"/>
+    <component id="mwp41p" name="ButtonTypeEnd.xml" path="/component/"/>
+    <image id="rezh1q" name="邀请好友.png" path="/imgs/"/>
+    <image id="rezh1r" name="准   备.png" path="/imgs/"/>
+    <component id="rezh1s" name="ButtonInvite.xml" path="/component/"/>
+    <component id="rezh1t" name="ButtonStart.xml" path="/component/"/>
+    <image id="rezh1u" name="牌型.png" path="/imgs/"/>
+    <component id="rezh1v" name="ButtonPaiXing.xml" path="/component/"/>
+    <image id="rezh1w" name="牌型_0009_对子.png" path="/imgs/牌型/" exported="true"/>
+    <image id="rezh1x" name="牌型_0010_二对.png" path="/imgs/牌型/" exported="true"/>
+    <image id="rezh1y" name="牌型_0011_三条.png" path="/imgs/牌型/" exported="true"/>
+    <image id="rezh1z" name="牌型_0012_顺子.png" path="/imgs/牌型/" exported="true"/>
+    <image id="rezh20" name="牌型_0013_同花.png" path="/imgs/牌型/" exported="true"/>
+    <image id="rezh21" name="牌型_0014_葫芦.png" path="/imgs/牌型/" exported="true"/>
+    <image id="rezh22" name="牌型_0015_五同.png" path="/imgs/牌型/" exported="true"/>
+    <image id="rezh23" name="牌型_0016_铁支.png" path="/imgs/牌型/" exported="true"/>
+    <image id="rezh24" name="牌型_0017_同花顺.png" path="/imgs/牌型/" exported="true"/>
+    <image id="rezh25" name="牌型1_0031_同花顺.png" path="/imgs/牌型/" exported="true"/>
+    <image id="rezh26" name="牌型1_0032_五同.png" path="/imgs/牌型/" exported="true"/>
+    <image id="rezh27" name="牌型1_0033_铁支.png" path="/imgs/牌型/" exported="true"/>
+    <image id="rezh28" name="牌型1_0034_葫芦.png" path="/imgs/牌型/" exported="true"/>
+    <image id="rezh29" name="牌型1_0035_同花.png" path="/imgs/牌型/" exported="true"/>
+    <image id="rezh2a" name="牌型1_0036_顺子.png" path="/imgs/牌型/" exported="true"/>
+    <image id="rezh2b" name="牌型1_0037_三条.png" path="/imgs/牌型/" exported="true"/>
+    <image id="rezh2c" name="牌型1_0038_两对.png" path="/imgs/牌型/" exported="true"/>
+    <image id="rezh2d" name="牌型1_0039_对子.png" path="/imgs/牌型/" exported="true"/>
+    <image id="rezh2f" name="中墩.png" path="/imgs/"/>
+    <image id="rezh2g" name="帮助.png" path="/imgs/"/>
+    <component id="rezh2h" name="ButtonHelp1.xml" path="/component/"/>
+    <font id="rezh2i" name="PorkType.fnt" path="/component/" exported="true"/>
+    <font id="rezh2j" name="FontPorkNumBlack.fnt" path="/component/" exported="true"/>
+    <image id="rezh2m" name="dissolveHeadBg.png" path="/imgs/dissolve/"/>
+    <image id="rezh2n" name="拒---绝.png" path="/imgs/"/>
+    <image id="rezh2o" name="同---意.png" path="/imgs/"/>
+    <component id="rezh2p" name="ButtonRefuse.xml" path="/component/"/>
+    <component id="rezh2q" name="ButtonAccept.xml" path="/component/"/>
+    <image id="du502r" name="安全监测.png" path="/imgs/"/>
+    <image id="du502s" name="安全监测1.png" path="/imgs/"/>
+    <component id="du502t" name="SecurityCheck.xml" path="/component/" exported="true"/>
+    <component id="du502u" name="PlayerPokers.xml" path="/component/" exported="true"/>
+    <image id="x90y2v" name="聊天 拷贝@3x.png" path="/imgs/chat/"/>
+    <image id="x90y2w" name="聊天点击 拷贝@3x.png" path="/imgs/chat/"/>
+    <image id="x90y2x" name="聊天框横线@3x.png" path="/imgs/chat/"/>
+    <image id="x90y2y" name="游戏聊天@3x.png" path="/imgs/chat/"/>
+    <image id="x90y2z" name="圆角矩形 7 拷贝 5@3x.png" path="/imgs/chat/"/>
+    <image id="x90y30" name="圆角矩形 7 拷贝 7@3x.png" path="/imgs/chat/"/>
+    <component id="x90y31" name="ChatModule.xml" path="/component/" exported="true"/>
+    <image id="x90y32" name="chat_0000_发送.png" path="/imgs/chat/"/>
+    <image id="x90y33" name="chat_0001_表情.png" path="/imgs/chat/"/>
+    <image id="x90y34" name="chat_0002_记录.png" path="/imgs/chat/"/>
+    <component id="x90y35" name="ButtonChatTopLeft.xml" path="/component/"/>
+    <component id="x90y36" name="ButtonChatTopRight.xml" path="/component/"/>
+    <component id="x90y37" name="ButtonChatTopCenter.xml" path="/component/"/>
+    <component id="x90y38" name="ChatItem.xml" path="/component/" exported="true"/>
+    <component id="x90y39" name="ButtonSend.xml" path="/component/"/>
+    <image id="x90y3a" name="game_0000_语音.png" path="/imgs/"/>
+    <image id="x90y3b" name="game_0001_短信.png" path="/imgs/"/>
+    <image id="x90y3c" name="game_0002_不翻倍--拷贝.png" path="/imgs/"/>
+    <image id="x90y3d" name="game_0003_翻倍--拷贝.png" path="/imgs/"/>
+    <image id="x90y3e" name="game_0004_X--拷贝.png" path="/imgs/"/>
+    <image id="x90y3f" name="game_0005_0--拷贝.png" path="/imgs/"/>
+    <image id="x90y3g" name="game_0006_9--拷贝.png" path="/imgs/"/>
+    <image id="x90y3h" name="game_0007_7--拷贝.png" path="/imgs/"/>
+    <image id="x90y3i" name="game_0008_6--拷贝.png" path="/imgs/"/>
+    <image id="x90y3j" name="game_0009_5--拷贝.png" path="/imgs/"/>
+    <image id="x90y3k" name="game_0010_4--拷贝.png" path="/imgs/"/>
+    <image id="x90y3l" name="game_0011_3--拷贝.png" path="/imgs/"/>
+    <image id="x90y3m" name="game_0012_2--拷贝.png" path="/imgs/"/>
+    <image id="x90y3n" name="game_0013_1--拷贝.png" path="/imgs/"/>
+    <image id="x90y3o" name="game_0014_---拷贝.png" path="/imgs/"/>
+    <image id="x90y3p" name="game_0015_+--拷贝.png" path="/imgs/"/>
+    <image id="x90y3q" name="game_0016_总得分：-.png" path="/imgs/"/>
+    <image id="x90y3r" name="game_0017_不翻倍-.png" path="/imgs/"/>
+    <image id="x90y3s" name="game_0018_翻倍-.png" path="/imgs/"/>
+    <image id="x90y3t" name="game_0019_X-.png" path="/imgs/"/>
+    <image id="x90y3u" name="game_0020_0-.png" path="/imgs/"/>
+    <image id="x90y3v" name="game_0021_9-.png" path="/imgs/"/>
+    <image id="x90y3w" name="game_0022_7-.png" path="/imgs/"/>
+    <image id="x90y3x" name="game_0023_6-.png" path="/imgs/"/>
+    <image id="x90y3y" name="game_0024_5-.png" path="/imgs/"/>
+    <image id="x90y3z" name="game_0025_4-.png" path="/imgs/"/>
+    <image id="x90y40" name="game_0026_3-.png" path="/imgs/"/>
+    <image id="x90y41" name="game_0027_2-.png" path="/imgs/"/>
+    <image id="x90y42" name="game_0028_1-.png" path="/imgs/"/>
+    <image id="x90y43" name="game_0029_--.png" path="/imgs/"/>
+    <image id="x90y44" name="game_0030_+-.png" path="/imgs/"/>
+    <image id="x90y45" name="game_0031_房-主.png" path="/imgs/" exported="true"/>
+    <font id="x90y46" name="FontPorkScore1.fnt" path="/component/" exported="true"/>
+    <font id="x90y47" name="FontPorkScore2.fnt" path="/component/" exported="true"/>
+    <component id="s3e148" name="ButtonChat.xml" path="/component/"/>
+    <component id="s3e149" name="ButtonTalk.xml" path="/component/"/>
+    <image id="ct6q4a" name="game_0000_对局开始.png" path="/imgs/"/>
+    <image id="ct6q4b" name="game_0001_摆牌完成1-拷贝.png" path="/imgs/"/>
+    <image id="ct6q4c" name="game_0002_摆牌中.png" path="/imgs/"/>
+    <image id="ct6q4d" name="game_0003_摆牌完成-.png" path="/imgs/"/>
+    <image id="he9h4e" name="qiangyan.png" path="/imgs/"/>
+    <image id="he9h4f" name="qiang.png" path="/imgs/"/>
+    <component id="ist44g" name="DaQiang.xml" path="/component/" exported="true"/>
+    <component id="gl8o4h" name="DissolveRoom.xml" path="/component/" exported="true"/>
+    <component id="gl8o4i" name="DissolveHead.xml" path="/component/" exported="true"/>
+    <image id="gl8o4j" name="headbg.png" path="/imgs/"/>
+    <image id="fetr4k" name="game_0000_乌龙.png" path="/imgs/牌型/" exported="true"/>
+    <image id="fetr4l" name="game_0000_8-.png" path="/imgs/"/>
+    <image id="fetr4m" name="game_0001_8-.png" path="/imgs/"/>
+    <image id="xqdu4n" name="joke.png" path="/imgs/pork/"/>
+    <component id="wigp4o" name="UserInfo.xml" path="/component/" exported="true"/>
+    <image id="99mf4p" name="game_0000_组-1.png" path="/imgs/" scale="9grid" scale9grid="34,111,68,222"/>
+    <image id="99mf4q" name="game_0004_送鲜花.png" path="/imgs/"/>
+    <image id="99mf4r" name="game_0003_丢炸弹.png" path="/imgs/"/>
+    <image id="99mf4s" name="game_0002_返回大厅.png" path="/imgs/"/>
+    <component id="99mf4t" name="ButtonNiChen.xml" path="/component/"/>
+    <component id="99mf4u" name="ButtonZaDan.xml" path="/component/"/>
+    <component id="99mf4v" name="ButtonFlower.xml" path="/component/"/>
+    <image id="ijgv4w" name="bgg.png" path="/imgs/" scale="9grid" scale9grid="26,114,52,228"/>
+    <component id="ijgv4x" name="GameReplay.xml" path="/component/" exported="true"/>
+    <image id="buf64y" name="joke.png" path="/imgs/"/>
+    <image id="buf64z" name="start.png" path="/imgs/"/>
+    <component id="buf650" name="ButtonPlay.xml" path="/component/"/>
+    <image id="h9yl51" name="庄家.png" path="/imgs/" exported="true"/>
+    <image id="dowq52" name="game_0000_输.png" path="/imgs/"/>
+    <image id="dowq53" name="game_0001_赢-.png" path="/imgs/"/>
+  </resources>
+  <publish name="Game" genCode="true"/>
+</packageDescription>

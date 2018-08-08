@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="920,581">
+  <displayList>
+    <component id="n0_nl0p" name="panelBg" src="nl0p9" fileName="component/PopModuleBg.xml" pkg="i36kne80" xy="0,0"/>
+    <list id="n2_nl0p" name="list" xy="47,79" size="825,378" overflow="scroll" defaultItem="ui://tebyebzgnl0pz">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n3_dowq" name="n3" src="dowq1d" fileName="component/ButtonGetAll.xml" xy="362,469"/>
+  </displayList>
+</component>

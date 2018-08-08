@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="572,400">
+  <controller name="type" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n0_r2oa" name="panelBg" src="rezh13" fileName="component/AlertBg.xml" xy="0,0"/>
+    <component id="n1_r2oa" name="btn_ok" src="mwp4t" fileName="component/ButtonComform.xml" xy="330,276">
+      <gearDisplay controller="type" pages="0,1"/>
+      <gearXY controller="type" pages="1" values="188,276" default="330,276"/>
+    </component>
+    <component id="n2_r2oa" name="btn_cancel" src="mwp4v" fileName="component/ButtonCancel.xml" xy="52,276">
+      <gearDisplay controller="type" pages="0"/>
+    </component>
+    <text id="n3_r2oa" name="content" xy="41,86" size="489,171" fontSize="32" color="#765e52" align="center" vAlign="middle" ubb="true" autoSize="none" text=""/>
+  </displayList>
+</component>

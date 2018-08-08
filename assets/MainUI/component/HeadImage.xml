@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100" mask="n1_vhx3">
+  <displayList>
+    <image id="n0_vhx3" name="n0" src="vhx31d" fileName="imgs/head.jpg" pkg="i36kne80" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <graph id="n1_vhx3" name="n1" xy="0,0" size="100,100" type="eclipse" lineSize="0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+  </displayList>
+</component>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8vvi1zry" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="sej40" name="01@3x.png" path="/imgs/"/>
+    <image id="sej41" name="11@3x.png" path="/imgs/"/>
+    <image id="sej42" name="21@3x.png" path="/imgs/"/>
+    <image id="sej43" name="31@3x.png" path="/imgs/"/>
+    <image id="sej44" name="41@3x.png" path="/imgs/"/>
+    <image id="sej45" name="51@3x.png" path="/imgs/"/>
+    <image id="sej46" name="61@3x.png" path="/imgs/"/>
+    <image id="sej47" name="71@3x.png" path="/imgs/"/>
+    <image id="sej48" name="81@3x.png" path="/imgs/"/>
+    <image id="sej49" name="91@3x.png" path="/imgs/"/>
+    <image id="sej4a" name="删除@3x.png" path="/imgs/"/>
+    <image id="sej4b" name="输入6位房间号@3x.png" path="/imgs/"/>
+    <image id="sej4c" name="圆角矩形 1 拷贝 2@3x.png" path="/imgs/"/>
+    <image id="sej4d" name="圆角矩形 1 拷贝 6@3x.png" path="/imgs/"/>
+    <image id="sej4e" name="圆角矩形 1@3x.png" path="/imgs/"/>
+    <image id="sej4f" name="重输@3x.png" path="/imgs/"/>
+    <image id="sej4g" name="cs@3x.png" path="/imgs/"/>
+    <component id="sej4h" name="AddRoom.xml" path="/component/" exported="true"/>
+    <image id="sej4i" name="0@3x.png" path="/imgs/"/>
+    <component id="sej4j" name="ButtonNum.xml" path="/component/"/>
+    <font id="sej4k" name="FontNum.fnt" path="/component/" exported="true"/>
+    <component id="sej4l" name="ButtonReset.xml" path="/component/"/>
+    <component id="sej4m" name="ButtonDel.xml" path="/component/"/>
+  </resources>
+  <publish name="AddRoom" genCode="true"/>
+</packageDescription>
