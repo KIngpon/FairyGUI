@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="bmcgtqfd" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="k8tg0" name="TestPork.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="TestPork" genCode="true"/>
+</packageDescription>
