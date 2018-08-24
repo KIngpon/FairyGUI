@@ -8,7 +8,7 @@
     <remark page="4" value="6"/>
   </controller>
   <displayList>
-    <loader id="n0_mwp4" name="n0" xy="0,0" size="1206,750" url="ui://9s4fd8dyrezh0" fill="scaleFree">
+    <loader id="n0_mwp4" name="bg" xy="0,0" size="1206,750" url="ui://9s4fd8dyrezh0" fill="scaleFree">
       <relation target="" sidePair="width-width,height-height"/>
     </loader>
     <component id="n1_mwp4" name="btn_quit" src="mwp48" fileName="component/ButtonExit.xml" xy="1126,11" group="n4_mwp4"/>
@@ -46,19 +46,11 @@
       <gearDisplay controller="playerNumCtrl" pages="3,4"/>
       <relation target="n10_mwp4" sidePair="left-right,middle-middle"/>
     </component>
-    <image id="n26_ct6q" name="img_start" src="ct6q4a" fileName="imgs/game_0000_对局开始.png" xy="442,320" pivot="0.5,0.5">
-      <relation target="" sidePair="center-center,middle-middle"/>
-    </image>
     <text id="n27_toy1" name="txt_fid" xy="9,5" size="166,37" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text=""/>
-    <component id="n28_buf6" name="btn_start" src="buf650" fileName="component/ButtonPlay.xml" xy="493,412">
+    <component id="n29_y9mu" name="playcontrol" src="y9mu5t" fileName="component/ReplayBotton.xml" xy="384,292">
       <relation target="" sidePair="center-center,middle-middle"/>
     </component>
+    <text id="n30_nf8q" name="txt_ju" xy="0,51" size="166,37" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text=""/>
   </displayList>
-  <transition name="t1">
-    <item time="0" type="Alpha" target="n26_ct6q" value="1"/>
-    <item time="0" type="Scale" target="n26_ct6q" tween="true" startValue="1.5,1.5" endValue="1,1" duration="24" ease="Elastic.Out"/>
-    <item time="36" type="Alpha" target="n26_ct6q" tween="true" startValue="1" endValue="0" duration="6"/>
-    <item time="36" type="Scale" target="n26_ct6q" value="1,1"/>
-    <item time="42" type="Scale" target="n26_ct6q" value="1,1"/>
-  </transition>
+  <transition name="t1"/>
 </component>

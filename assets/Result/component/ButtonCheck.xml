@@ -2,12 +2,8 @@
 <component size="195,72" extention="Button">
   <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
   <displayList>
-    <image id="n1" name="n1" src="mwp4u" fileName="imgs/橙色按钮@3x.png" pkg="i36kne80" xy="0,0">
-      <relation target="" sidePair="width-width,height-height"/>
-    </image>
-    <loader id="n2" name="icon" xy="0,0" size="195,72" url="ui://25mni52osl2kn" align="center" vAlign="middle">
-      <relation target="" sidePair="width-width,height-height"/>
-    </loader>
+    <image id="n4_hmwn" name="n4" src="mwp4u" fileName="imgs/橙色按钮@3x.png" pkg="i36kne80" xy="0,0"/>
+    <image id="n5_hmwn" name="n5" src="sl2kn" fileName="imgs/查看牌局@3x.png" xy="25,12"/>
   </displayList>
   <Button downEffect="dark" downEffectValue="0.80"/>
 </component>

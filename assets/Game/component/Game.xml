@@ -8,7 +8,7 @@
     <remark page="4" value="6"/>
   </controller>
   <displayList>
-    <loader id="n0_mwp4" name="n0" xy="0,0" size="1206,750" url="ui://9s4fd8dyrezh0" fill="scaleFree">
+    <loader id="n0_mwp4" name="bg" xy="0,0" size="1206,750" url="ui://9s4fd8dyrezh0" fill="scaleFree">
       <relation target="" sidePair="width-width,height-height"/>
     </loader>
     <component id="n1_mwp4" name="btn_quit" src="mwp48" fileName="component/ButtonExit.xml" xy="1111,8" group="n4_mwp4"/>

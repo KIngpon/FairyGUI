@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1206,750" adaptationTest="FitSize">
+  <controller name="c1" pages="0,,1," selected="1"/>
   <displayList>
     <image id="n0_sl2k" name="n0" src="sl2k0" fileName="结算背景.jpg" pkg="2k7rhsvh" xy="0,0">
       <relation target="" sidePair="width-width,height-height"/>
@@ -20,9 +21,11 @@
       <item/>
     </list>
     <component id="n9_sl2k" name="btn_check" src="sl2kq" fileName="component/ButtonCheck.xml" xy="359,654">
+      <gearDisplay controller="c1" pages="0"/>
       <relation target="" sidePair="center-center,bottom-bottom"/>
     </component>
-    <component id="n10_sl2k" name="btn_continue" src="sl2kr" fileName="component/ButtonContinue.xml" xy="684,654">
+    <component id="n10_sl2k" name="btn_continue" src="sl2kr" fileName="component/ButtonContinue.xml" xy="505,654">
+      <gearXY controller="c1" pages="1" values="505,654" default="684,654"/>
       <relation target="" sidePair="center-center,bottom-bottom"/>
     </component>
     <image id="n3_sl2k" name="n3" src="sl2k2" fileName="imgs/结算背景块.png" xy="91,130" size="1024,40" group="n11_sl2k"/>

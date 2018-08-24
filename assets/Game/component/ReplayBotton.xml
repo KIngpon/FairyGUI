@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="437,165">
+  <controller name="c1" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n0_y9mu" name="n0" src="y9mu5p" fileName="imgs/replay/huifang_huifangkuang.png" xy="7,57"/>
+    <image id="n1_y9mu" name="n1" src="y9mu5k" fileName="imgs/replay/huifang_huifangmadi.png" xy="0,0"/>
+    <component id="n2_y9mu" name="btn_start" src="y9mu5u" fileName="component/ButtonRpPlay.xml" xy="123,69">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <component id="n3_y9mu" name="btn_pre" src="y9mu5v" fileName="component/ButtonRpPre.xml" xy="22,69"/>
+    <component id="n4_y9mu" name="btn_next" src="y9mu5w" fileName="component/ButtonRpNext.xml" xy="225,69"/>
+    <component id="n5_y9mu" name="btn_stop" src="y9mu5x" fileName="component/ButtonRpStop.xml" xy="327,69"/>
+    <component id="n6_y9mu" name="btn_pause" src="y9mu5y" fileName="component/ButtonRpPause.xml" xy="123,69">
+      <gearDisplay controller="c1" pages="1"/>
+    </component>
+    <text id="n7_y9mu" name="n7" xy="78,9" size="286,34" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="回放码：123456"/>
+  </displayList>
+</component>

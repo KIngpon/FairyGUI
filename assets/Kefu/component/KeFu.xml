@@ -8,7 +8,7 @@
     <component id="n5_nl0p" name="btn_ok" src="iuhk1g" fileName="component/ButtonClose.xml" pkg="i36kne80" xy="202,470"/>
     <text id="n6_nl0p" name="n6" xy="153,102" size="293,36" fontSize="32" color="#886046" text="欢迎进入方片十三水"/>
     <text id="n7_nl0p" name="n7" xy="59,149" size="482,192" fontSize="26" color="#886046" letterSpacing="1" autoSize="none" text="客服工作时间：&#xA;上午9:30~17:00；晚上18:00~22:00&#xA;在游戏中遇到任何问题，请联系客服，客服将为您贴心解答！&#xA;&#xA;复制下方的客服微信号添加好友&#xA;&#xA;"/>
-    <text id="n8_g2wj" name="n8" xy="59,339" size="395,30" fontSize="26" color="#ff0000" text="本游戏游戏仅供娱乐，严禁赌博。"/>
+    <text id="n8_g2wj" name="n8" xy="59,339" size="343,30" fontSize="26" color="#ff0000" text="本游戏仅供娱乐，严禁赌博。"/>
     <text id="n9_g2wj" name="n9" xy="89,388" size="279,30" fontSize="26" color="#886046" autoSize="none" text="客服微信：232312012"/>
   </displayList>
 </component>

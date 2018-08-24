@@ -11,7 +11,7 @@
       <item/>
     </list>
     <image id="n4_p0d6" name="n4" src="p0d69" fileName="imgs/图层 38@3x.png" xy="22,470"/>
-    <component id="n5_rezh" name="n5" src="rezhb" fileName="component/ButtonReplay.xml" xy="402,484"/>
+    <component id="n5_rezh" name="checkother" src="rezhb" fileName="component/ButtonReplay.xml" xy="402,484"/>
     <text id="n6_rezh" name="n6" xy="626,503" size="293,22" fontSize="18" color="#695446" text="注：查看他人回放，需要输入回放码"/>
   </displayList>
 </component>

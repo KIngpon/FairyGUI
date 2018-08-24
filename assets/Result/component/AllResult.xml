@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1206,750" adaptationTest="FitHeightAndSetCenter">
+  <controller name="c1" pages="0,,1," selected="1"/>
   <displayList>
     <image id="n0_sl2k" name="n0" src="sl2k0" fileName="结算背景.jpg" pkg="2k7rhsvh" xy="0,0">
       <relation target="" sidePair="width-width,height-height"/>
@@ -10,10 +11,13 @@
     <image id="n2_sl2k" name="n2" src="sl2kv" fileName="imgs/牌局结算@3x.png" xy="479,49">
       <relation target="" sidePair="center-center,top-top"/>
     </image>
-    <component id="n9_sl2k" name="btn_check" src="sl2kq" fileName="component/ButtonCheck.xml" xy="309,654">
+    <component id="n9_sl2k" name="btn_share" src="hmwn1k" fileName="component/ButtonShare.xml" xy="309,662">
+      <gearDisplay controller="c1" pages="0"/>
       <relation target="" sidePair="center-center,bottom-bottom"/>
     </component>
-    <component id="n10_sl2k" name="btn_back" src="sl2ks" fileName="component/ButtonBack.xml" xy="705,654">
+    <component id="n10_sl2k" name="btn_back" src="sl2ks" fileName="component/ButtonBack.xml" xy="498,662">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="1" values="498,662" default="685,662"/>
       <relation target="" sidePair="center-center,bottom-bottom"/>
     </component>
     <text id="n12_sl2k" name="txt_time" xy="935,44" size="199,28" fontSize="24" color="#eee2d5" text="2018-07-16  12:12">

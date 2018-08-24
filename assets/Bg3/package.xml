@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packageDescription id="98nj6h4x" jpegQuality="80" compressPNG="true">
   <resources>
-    <image id="rezh0" name="背景03.jpg" path="/" exported="true"/>
+    <image id="hmwn1" name="背景03.jpg" path="/" exported="true"/>
   </resources>
   <publish name="Bg3"/>
 </packageDescription>

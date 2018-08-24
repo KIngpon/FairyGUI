@@ -20,6 +20,8 @@
     <component id="rezhh" name="ButtonReturn.xml" path="/component/"/>
     <component id="rezhi" name="ButtonJieSuanSort.xml" path="/component/"/>
     <component id="mqtaj" name="ZhanJiItemUserItem.xml" path="/component/" exported="true"/>
+    <image id="nf8qk" name="shuruhuifang_fengexian.png" path="/imgs/huifangma/"/>
+    <component id="nf8ql" name="BoFangMa.xml" path="/component/" exported="true"/>
   </resources>
   <publish name="ZhanJi" genCode="true"/>
 </packageDescription>

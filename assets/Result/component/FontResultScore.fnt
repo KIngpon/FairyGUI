@@ -1,13 +1,12 @@
 info creator=UIBuilder
-char id=57 img=sl2k9 xoffset=0 yoffset=0 xadvance=0
-char id=56 img=sl2ka xoffset=0 yoffset=0 xadvance=0
-char id=55 img=sl2kb xoffset=0 yoffset=0 xadvance=0
-char id=54 img=sl2kc xoffset=0 yoffset=0 xadvance=0
-char id=53 img=sl2kd xoffset=0 yoffset=0 xadvance=0
-char id=52 img=sl2ke xoffset=0 yoffset=0 xadvance=0
-char id=51 img=sl2kf xoffset=0 yoffset=0 xadvance=0
-char id=50 img=sl2kg xoffset=0 yoffset=0 xadvance=0
-char id=49 img=sl2kh xoffset=0 yoffset=0 xadvance=0
-char id=48 img=sl2ki xoffset=0 yoffset=0 xadvance=0
-char id=43 img=sl2kj xoffset=0 yoffset=0 xadvance=0
-char id=45 img=sl2kk xoffset=0 yoffset=0 xadvance=0
+char id=45 img=hmwn14 xoffset=0 yoffset=0 xadvance=0
+char id=48 img=hmwn15 xoffset=0 yoffset=0 xadvance=0
+char id=49 img=hmwn16 xoffset=0 yoffset=0 xadvance=0
+char id=50 img=hmwn17 xoffset=0 yoffset=0 xadvance=0
+char id=51 img=hmwn18 xoffset=0 yoffset=0 xadvance=0
+char id=52 img=hmwn19 xoffset=0 yoffset=0 xadvance=0
+char id=53 img=hmwn1a xoffset=0 yoffset=0 xadvance=0
+char id=54 img=hmwn1b xoffset=0 yoffset=0 xadvance=0
+char id=55 img=hmwn1c xoffset=0 yoffset=0 xadvance=0
+char id=56 img=hmwn1d xoffset=0 yoffset=0 xadvance=0
+char id=57 img=hmwn1e xoffset=0 yoffset=0 xadvance=0

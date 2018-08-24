@@ -22,7 +22,7 @@
     <image id="mwp4r" name="取   消@3x.png" path="/imgs/"/>
     <image id="mwp4s" name="确   定@3x.png" path="/imgs/" exported="true"/>
     <component id="mwp4t" name="ButtonComform.xml" path="/component/" exported="true"/>
-    <image id="mwp4u" name="橙色按钮@3x.png" path="/imgs/"/>
+    <image id="mwp4u" name="橙色按钮@3x.png" path="/imgs/" exported="true"/>
     <component id="mwp4v" name="ButtonCancel.xml" path="/component/" exported="true"/>
     <image id="h5w5w" name="设    置@3x.png" path="/imgs/title/" exported="true"/>
     <image id="rezhx" name="通用白框.png" path="/imgs/" exported="true" scale="9grid" scale9grid="17,17,34,34"/>

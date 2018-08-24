@@ -190,6 +190,22 @@
     <image id="gtlg5f" name="game_0000_：.png" path="/imgs/"/>
     <image id="gtlg5h" name="game_0006_不1.png" path="/imgs/"/>
     <image id="gtlg5i" name="game_0012_图层-2.png" path="/imgs/"/>
+    <image id="y9mu5j" name="huifang_tingzhi.png" path="/imgs/replay/"/>
+    <image id="y9mu5k" name="huifang_huifangmadi.png" path="/imgs/replay/"/>
+    <image id="y9mu5l" name="huifang_bofang.png" path="/imgs/replay/"/>
+    <image id="y9mu5m" name="huifang_wangqian.png" path="/imgs/replay/"/>
+    <image id="y9mu5n" name="huifang_kuangguangxiaohengduan.png" path="/imgs/replay/"/>
+    <image id="y9mu5o" name="huifang_wanghou.png" path="/imgs/replay/"/>
+    <image id="y9mu5p" name="huifang_huifangkuang.png" path="/imgs/replay/"/>
+    <image id="y9mu5q" name="huifang_zanting.png" path="/imgs/replay/"/>
+    <image id="y9mu5r" name="huifang_kuangguangxiaoshu.png" path="/imgs/replay/"/>
+    <image id="y9mu5s" name="huifang_kuangguangxiaohengchang.png" path="/imgs/replay/"/>
+    <component id="y9mu5t" name="ReplayBotton.xml" path="/component/"/>
+    <component id="y9mu5u" name="ButtonRpPlay.xml" path="/component/"/>
+    <component id="y9mu5v" name="ButtonRpPre.xml" path="/component/"/>
+    <component id="y9mu5w" name="ButtonRpNext.xml" path="/component/"/>
+    <component id="y9mu5x" name="ButtonRpStop.xml" path="/component/"/>
+    <component id="y9mu5y" name="ButtonRpPause.xml" path="/component/"/>
   </resources>
   <publish name="Game" genCode="true"/>
 </packageDescription>
