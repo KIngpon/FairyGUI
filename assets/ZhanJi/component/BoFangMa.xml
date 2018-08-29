@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="500,350">
   <displayList>
-    <image id="n0_nf8q" name="n0" src="nl0pb" fileName="imgs/圆角矩形 5@3x.png" pkg="i36kne80" xy="0,0" size="500,350"/>
+    <image id="n0_nf8q" name="n0" src="q3d51h" fileName="imgs/bg.png" pkg="i36kne80" xy="0,0" size="500,350"/>
     <image id="n2_nf8q" name="n2" src="rezh16" fileName="imgs/弹出背景1底框.png" pkg="i36kne80" xy="25,142" size="444,69"/>
     <image id="n3_nf8q" name="n3" src="nf8qk" fileName="imgs/huifangma/shuruhuifang_fengexian.png" xy="100,146"/>
     <image id="n5_nf8q" name="n5" src="nf8qk" fileName="imgs/huifangma/shuruhuifang_fengexian.png" xy="172,146"/>

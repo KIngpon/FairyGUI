@@ -16,12 +16,15 @@
     <component id="rezhd" name="ZhanJiDetail.xml" path="/component/" exported="true"/>
     <component id="rezhe" name="ZhanJiDetailItem.xml" path="/component/" exported="true"/>
     <image id="rezhf" name="返  回@3x.png" path="/imgs/"/>
-    <image id="rezhg" name="结算顺序@3x.png" path="/imgs/"/>
+    <image id="rezhg" name="结算顺序@3x.png" path="/imgs/" scale=""/>
     <component id="rezhh" name="ButtonReturn.xml" path="/component/"/>
     <component id="rezhi" name="ButtonJieSuanSort.xml" path="/component/"/>
     <component id="mqtaj" name="ZhanJiItemUserItem.xml" path="/component/" exported="true"/>
     <image id="nf8qk" name="shuruhuifang_fengexian.png" path="/imgs/huifangma/"/>
     <component id="nf8ql" name="BoFangMa.xml" path="/component/" exported="true"/>
+    <component id="q3d5m" name="JieSanSort.xml" path="/component/" exported="true"/>
+    <component id="q3d5n" name="JieSanItem.xml" path="/component/" exported="true"/>
+    <image id="q3d5o" name="解散顺序.png" path="/imgs/"/>
   </resources>
   <publish name="ZhanJi" genCode="true"/>
 </packageDescription>

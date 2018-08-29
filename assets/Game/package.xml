@@ -206,6 +206,7 @@
     <component id="y9mu5w" name="ButtonRpNext.xml" path="/component/"/>
     <component id="y9mu5x" name="ButtonRpStop.xml" path="/component/"/>
     <component id="y9mu5y" name="ButtonRpPause.xml" path="/component/"/>
+    <image id="q3d55z" name="全垒打.png" path="/imgs/"/>
   </resources>
   <publish name="Game" genCode="true"/>
 </packageDescription>

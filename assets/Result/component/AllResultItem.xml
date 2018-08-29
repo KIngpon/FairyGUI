@@ -17,5 +17,6 @@
     <image id="n4_sl2k" name="n4" src="sl2ky" fileName="imgs/皇冠.png" xy="32,1" group="n16_toy1"/>
     <group id="n16_toy1" name="winner" xy="31,1" size="120,143" advanced="true"/>
     <text id="n17_toy1" name="txt_score" xy="16,475" size="163,37" font="ui://25mni52osl2kl" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text=""/>
+    <image id="n20_o8sx" name="n20" src="hmwn1f" fileName="imgs/jiesuan_zongchengji.png" xy="59,435"/>
   </displayList>
 </component>

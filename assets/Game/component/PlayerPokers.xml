@@ -102,7 +102,7 @@
     <text id="n27_fetr" name="txt_scoretop" xy="239,21" size="10,26" font="ui://jow5n9bqx90y46" fontSize="12" vAlign="middle" text="">
       <gearXY controller="c2" pages="0,1" values="239,21|-23,21"/>
     </text>
-    <text id="n28_fetr" name="txt_score_mid" xy="239,72" size="10,26" font="ui://jow5n9bqx90y46" fontSize="12" vAlign="middle" text="">
+    <text id="n28_fetr" name="txt_score_mid" xy="239,72" size="10,21" font="ui://jow5n9bqx90y47" fontSize="12" vAlign="middle" text="">
       <gearXY controller="c2" pages="0,1" values="239,72|-23,72"/>
     </text>
     <text id="n29_fetr" name="txt_score_down" xy="239,124" size="10,26" font="ui://jow5n9bqx90y46" fontSize="12" vAlign="middle" text="">
@@ -135,9 +135,9 @@
     <item time="0" type="Scale" target="n21_toy1" tween="true" startValue="1,1" endValue="0.7,0.7" duration="12" ease="Bounce.Out"/>
     <item time="24" type="Alpha" target="n26_fetr" value="1"/>
     <item time="24" type="Scale" target="n21_toy1" value="0.7,0.7"/>
-    <item time="24" type="Scale" target="n18_toy1" value="0.7,0.7"/>
     <item time="24" type="Scale" target="n17_toy1" value="0.8,0.7"/>
-    <item time="24" type="Scale" target="n20_toy1" value="0.7,0.7"/>
+    <item time="24" type="Scale" target="n18_toy1" value="0.7,0.7"/>
     <item time="24" type="Scale" target="n19_toy1" value="0.7,0.7"/>
+    <item time="24" type="Scale" target="n20_toy1" value="0.7,0.7"/>
   </transition>
 </component>

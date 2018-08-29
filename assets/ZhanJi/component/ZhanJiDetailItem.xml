@@ -2,12 +2,12 @@
 <component size="902,50">
   <displayList>
     <image id="n0_rezh" name="n0" src="rezhy" fileName="imgs/分割线.jpg" pkg="i36kne80" xy="0,48" locked="true"/>
-    <text id="n1_rezh" name="n1" xy="23,14" size="50,28" fontSize="20" color="#6f6f6f" align="center" vAlign="middle" autoSize="none" text="1"/>
-    <text id="n2_rezh" name="n2" xy="162,14" size="50,28" fontSize="20" color="#6f6f6f" align="center" vAlign="middle" autoSize="none" text="1"/>
-    <text id="n3_rezh" name="n3" xy="297,14" size="50,28" fontSize="20" color="#6f6f6f" align="center" vAlign="middle" autoSize="none" text="1"/>
-    <text id="n4_rezh" name="n4" xy="432,14" size="50,28" fontSize="20" color="#6f6f6f" align="center" vAlign="middle" autoSize="none" text="1"/>
-    <text id="n5_rezh" name="n5" xy="567,14" size="50,28" fontSize="20" color="#6f6f6f" align="center" vAlign="middle" autoSize="none" text="1"/>
-    <text id="n6_rezh" name="n6" xy="702,14" size="50,28" fontSize="20" color="#6f6f6f" align="center" vAlign="middle" autoSize="none" text="1"/>
-    <text id="n7_rezh" name="n7" xy="837,14" size="50,28" fontSize="20" color="#6f6f6f" align="center" vAlign="middle" autoSize="none" text="1"/>
+    <text id="n1_rezh" name="txt_0" xy="15,13" size="60,28" fontSize="20" color="#727170" align="center" vAlign="middle" autoSize="none" text="1"/>
+    <text id="n2_rezh" name="txt_1" xy="154,13" size="60,28" fontSize="20" color="#727170" align="center" vAlign="middle" autoSize="none" text="1"/>
+    <text id="n3_rezh" name="txt_2" xy="289,13" size="60,28" fontSize="20" color="#727170" align="center" vAlign="middle" autoSize="none" text="1"/>
+    <text id="n4_rezh" name="txt_3" xy="424,13" size="60,28" fontSize="20" color="#727170" align="center" vAlign="middle" autoSize="none" text="1"/>
+    <text id="n5_rezh" name="txt_4" xy="559,13" size="60,28" fontSize="20" color="#727170" align="center" vAlign="middle" autoSize="none" text="1"/>
+    <text id="n6_rezh" name="txt_5" xy="694,13" size="60,28" fontSize="20" color="#727170" align="center" vAlign="middle" autoSize="none" text="1"/>
+    <text id="n7_rezh" name="txt_6" xy="829,13" size="60,28" fontSize="20" color="#727170" align="center" vAlign="middle" autoSize="none" text="1"/>
   </displayList>
 </component>

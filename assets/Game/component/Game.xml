@@ -79,6 +79,9 @@
     <component id="n32_dowq" name="btn_continue" src="sl2kr" fileName="component/ButtonContinue.xml" pkg="25mni52o" xy="505,339">
       <relation target="" sidePair="center-center,middle-middle"/>
     </component>
+    <image id="n38_q3d5" name="qld" src="q3d55z" fileName="imgs/全垒打.png" xy="287,252" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
   </displayList>
   <transition name="t1">
     <item time="0" type="Alpha" target="n26_ct6q" value="1"/>
@@ -86,5 +89,11 @@
     <item time="36" type="Alpha" target="n26_ct6q" tween="true" startValue="1" endValue="0" duration="6"/>
     <item time="36" type="Scale" target="n26_ct6q" value="1,1"/>
     <item time="42" type="Scale" target="n26_ct6q" value="1,1"/>
+  </transition>
+  <transition name="t3">
+    <item time="0" type="Alpha" target="n38_q3d5" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Scale" target="n38_q3d5" tween="true" startValue="0.3,0.3" endValue="1,1" duration="12"/>
+    <item time="48" type="Alpha" target="n38_q3d5" tween="true" startValue="1" endValue="0" duration="6"/>
+    <item time="48" type="Scale" target="n38_q3d5" tween="true" startValue="1,1" endValue="0.2,0.2" duration="6"/>
   </transition>
 </component>

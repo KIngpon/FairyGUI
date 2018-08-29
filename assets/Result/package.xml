@@ -42,6 +42,7 @@
     <image id="hmwn1i" name="jiesuan_fenxiang.png" path="/imgs/"/>
     <image id="hmwn1j" name="jiesuan_fanhuidating.png" path="/imgs/"/>
     <component id="hmwn1k" name="ButtonShare.xml" path="/component/"/>
+    <image id="o8sx1l" name="jiesuan_fen.png" path="/imgs/"/>
   </resources>
   <publish name="Result" genCode="true"/>
 </packageDescription>

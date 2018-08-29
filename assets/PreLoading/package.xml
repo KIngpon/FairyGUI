@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="0rnt8u4y" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="rqsr0" name="Bar.xml" path="/" exported="true"/>
+    <image id="rqsr1" name="组 3.png" path="/ui/"/>
+    <image id="rqsr2" name="组 2.png" path="/ui/" scale="9grid" scale9grid="24,8,394,14"/>
+    <image id="rqsr3" name="3d76c201475708d001c11b470b4d2e1c8cfc5d31363fc-yySbPT.png" path="/ui/" exported="true"/>
+    <component id="rqsr4" name="PreLoading.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="PreLoading" genCode="true"/>
+</packageDescription>

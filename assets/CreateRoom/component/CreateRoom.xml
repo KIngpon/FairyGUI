@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="924,581">
-  <controller name="typeCtrl" pages="0,,1,,2,,3,,4,,5," selected="5"/>
-  <controller name="payCtrl" pages="0,,1," selected="1"/>
-  <controller name="JuShuCtrl" pages="0,,1,,2," selected="2"/>
-  <controller name="NumCtrl" pages="0,,1,,2,,3," selected="3"/>
-  <controller name="NumCtrl1" pages="0,,1,,2," selected="2"/>
+  <controller name="typeCtrl" pages="0,,1,,2,,3,,4,,5," selected="0"/>
+  <controller name="payCtrl" pages="0,,1," selected="0"/>
+  <controller name="JuShuCtrl" pages="0,,1,,2," selected="0"/>
+  <controller name="NumCtrl" pages="0,,1,,2,,3," selected="0"/>
+  <controller name="NumCtrl1" pages="0,,1,,2," selected="0"/>
   <displayList>
     <component id="n0_sej4" name="panelBg" src="nl0p9" fileName="component/PopModuleBg.xml" pkg="i36kne80" xy="0,0"/>
     <image id="n1_sej4" name="n1" src="sej43" fileName="imgs/创建房间底框@3x.png" xy="18,59"/>
     <image id="n3_sej4" name="n3" src="rezhx" fileName="imgs/通用白框.png" pkg="i36kne80" xy="259,71" size="636,66"/>
     <image id="n4_h5w5" name="n4" src="rezhx" fileName="imgs/通用白框.png" pkg="i36kne80" xy="259,152" size="637,323"/>
     <component id="n6_h5w5" name="btn_type0" src="h5w5m" fileName="component/ButtonType1.xml" xy="21,69">
-      <Button controller="typeCtrl" page="0"/>
+      <Button checked="true" controller="typeCtrl" page="0"/>
     </component>
     <component id="n7_h5w5" name="btn_type1" src="h5w5o" fileName="component/ButtonType2.xml" xy="21,153">
       <Button controller="typeCtrl" page="1"/>
@@ -22,30 +22,30 @@
     <component id="n9_h5w5" name="btn_type3" src="h5w5q" fileName="component/ButtonType4.xml" xy="21,321">
       <Button controller="typeCtrl" page="3"/>
     </component>
-    <component id="n10_h5w5" name="btn_type4" src="h5w5s" fileName="component/ButtonType5.xml" xy="21,405" visible="false">
+    <component id="n10_h5w5" name="btn_type4" src="h5w5s" fileName="component/ButtonType5.xml" xy="21,405">
       <Button controller="typeCtrl" page="4"/>
     </component>
-    <image id="n5_h5w5" name="n5" src="sej46" fileName="imgs/创建选中三角形@3x.png" xy="235,175">
+    <image id="n5_h5w5" name="n5" src="sej46" fileName="imgs/创建选中三角形@3x.png" xy="235,89">
       <gearXY controller="typeCtrl" pages="0,1,2,3,4" values="235,89|235,175|235,258|235,342|235,423" default="235,175"/>
     </image>
     <component id="n11_h5w5" name="n11" src="h5w5t" fileName="component/ButtonRadio.xml" xy="432,83">
-      <Button controller="payCtrl" page="0"/>
+      <Button checked="true" controller="payCtrl" page="0"/>
     </component>
     <component id="n12_h5w5" name="n12" src="h5w5t" fileName="component/ButtonRadio.xml" xy="674,84">
-      <Button checked="true" controller="payCtrl" page="1"/>
+      <Button controller="payCtrl" page="1"/>
     </component>
     <component id="n13_h5w5" name="n13" src="h5w5u" fileName="component/ButtonCheckBox.xml" xy="430,174">
-      <Button controller="JuShuCtrl" page="0"/>
+      <Button checked="true" controller="JuShuCtrl" page="0"/>
     </component>
     <component id="n14_h5w5" name="n14" src="h5w5u" fileName="component/ButtonCheckBox.xml" xy="572,174">
       <Button controller="JuShuCtrl" page="1"/>
     </component>
     <component id="n15_h5w5" name="n15" src="h5w5u" fileName="component/ButtonCheckBox.xml" xy="714,174">
-      <Button checked="true" controller="JuShuCtrl" page="2"/>
+      <Button controller="JuShuCtrl" page="2"/>
     </component>
     <component id="n16_h5w5" name="check_2" src="h5w5u" fileName="component/ButtonCheckBox.xml" xy="430,260">
       <gearXY controller="NumCtrl1" pages="1" values="430,259" default="430,260"/>
-      <Button controller="NumCtrl" page="0"/>
+      <Button checked="true" controller="NumCtrl" page="0"/>
     </component>
     <component id="n17_h5w5" name="check_3" src="h5w5u" fileName="component/ButtonCheckBox.xml" xy="572,260">
       <gearDisplay controller="NumCtrl1" pages="0,1"/>
@@ -67,14 +67,14 @@
     <text id="n28_h5w5" name="n28" xy="481,181" size="42,28" fontSize="24" color="#a92519" text="6局"/>
     <text id="n29_h5w5" name="n29" xy="626,181" size="55,28" fontSize="24" color="#a92519" text="12局"/>
     <text id="n30_h5w5" name="n30" xy="768,181" size="55,28" fontSize="24" color="#a92519" text="18局"/>
-    <text id="n31_h5w5" name="num1" xy="482,267" size="42,28" fontSize="24" color="#a92519" text="2人">
+    <text id="n31_h5w5" name="num1" xy="481,267" size="42,28" fontSize="24" color="#a92519" text="2人">
       <gearXY controller="NumCtrl1" pages="0,2" values="481,267|482,267" default="482,264"/>
     </text>
-    <text id="n32_h5w5" name="num2" xy="627,264" size="42,28" fontSize="24" color="#a92519" text="3人">
+    <text id="n32_h5w5" name="num2" xy="626,267" size="42,28" fontSize="24" color="#a92519" text="3人">
       <gearDisplay controller="NumCtrl1" pages="0,1"/>
       <gearXY controller="NumCtrl1" pages="0,1" values="626,267|604,264" default="627,264"/>
     </text>
-    <text id="n33_h5w5" name="num3" xy="769,264" size="42,28" fontSize="24" color="#a92519" text="4人">
+    <text id="n33_h5w5" name="num3" xy="768,267" size="42,28" fontSize="24" color="#a92519" text="4人">
       <gearDisplay controller="NumCtrl1" pages="0,1"/>
       <gearXY controller="NumCtrl1" pages="0,1" values="768,267|719,264" default="769,264"/>
     </text>
@@ -85,7 +85,7 @@
     <component id="n41_lli0" name="check_5" src="h5w5u" fileName="component/ButtonCheckBox.xml" xy="827,258">
       <gearDisplay controller="NumCtrl1" pages="1"/>
       <gearXY controller="NumCtrl1" pages="1" values="781,258" default="827,258"/>
-      <Button checked="true" controller="NumCtrl" page="3"/>
+      <Button controller="NumCtrl" page="3"/>
     </component>
     <text id="n42_lli0" name="num4" xy="884,264" size="42,28" fontSize="24" color="#a92519" text="5人">
       <gearDisplay controller="NumCtrl1" pages="1"/>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="500,380">
+  <displayList>
+    <image id="n1_q3d5" name="n1" src="q3d51h" fileName="imgs/bg.png" pkg="i36kne80" xy="0,0" size="500,380"/>
+    <component id="n2_q3d5" name="btn_close" src="nl0pf" fileName="component/PopModuleCloseBtn.xml" pkg="i36kne80" xy="452,-25"/>
+    <text id="n3_q3d5" name="n3" xy="173,47" size="153,41" fontSize="37" color="#68564c" text="解散顺序"/>
+    <graph id="n4_q3d5" name="n4" xy="75,99" size="350,2" type="rect" lineColor="#ff68564c"/>
+    <list id="n6_q3d5" name="list" xy="74,107" size="352,242" touchable="false" overflow="scroll" defaultItem="ui://lxifvkduq3d5n">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

@@ -45,6 +45,8 @@
     <image id="g2wj1e" name="title_chat.png" path="/imgs/title/" exported="true"/>
     <image id="iuhk1f" name="关闭.png" path="/imgs/"/>
     <component id="iuhk1g" name="ButtonClose.xml" path="/component/" exported="true"/>
+    <image id="q3d51h" name="bg.png" path="/imgs/" exported="true" scale="9grid" scale9grid="27,100,54,200"/>
+    <image id="rqsr1i" name="floatbg.png" path="/imgs/" scale="9grid" scale9grid="160,11,79,19"/>
   </resources>
   <publish name="Base" genCode="true"/>
 </packageDescription>

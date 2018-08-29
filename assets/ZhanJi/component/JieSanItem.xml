@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="350,40">
+  <displayList>
+    <text id="n0_q3d5" name="txt_name" xy="39,6" size="134,28" fontSize="24" color="#68564c" autoSize="none" text="name"/>
+    <text id="n1_q3d5" name="txt_sort" xy="196,6" size="129,28" fontSize="24" color="#68564c" autoSize="none" text="发起者"/>
+  </displayList>
+</component>
