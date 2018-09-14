@@ -11,11 +11,11 @@
     <text id="n12_sl2k" name="txt_ju2" xy="47,285" size="100,28" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text=""/>
     <text id="n13_sl2k" name="txt_ju3" xy="47,321" size="100,28" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text=""/>
     <text id="n14_sl2k" name="txt_ju4" xy="47,357" size="100,28" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text=""/>
-    <component id="n18_vhx3" name="n18" src="vhx330" fileName="component/HeadImage.xml" pkg="s4bbeogy" xy="45,31"/>
+    <component id="n18_vhx3" name="head" src="vhx330" fileName="component/HeadImage.xml" pkg="s4bbeogy" xy="45,31"/>
     <text id="n15_sl2k" name="txt_ju5" xy="47,393" size="100,28" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text=""/>
     <image id="n3_sl2k" name="n3" src="sl2kx" fileName="imgs/大赢家.png" xy="31,102" group="n16_toy1"/>
     <image id="n4_sl2k" name="n4" src="sl2ky" fileName="imgs/皇冠.png" xy="32,1" group="n16_toy1"/>
-    <group id="n16_toy1" name="winner" xy="31,1" size="120,143" advanced="true"/>
+    <group id="n16_toy1" name="winner" xy="31,1" size="120,143" locked="true" advanced="true"/>
     <text id="n17_toy1" name="txt_score" xy="16,475" size="163,37" font="ui://25mni52osl2kl" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text=""/>
     <image id="n20_o8sx" name="n20" src="hmwn1f" fileName="imgs/jiesuan_zongchengji.png" xy="59,435"/>
   </displayList>

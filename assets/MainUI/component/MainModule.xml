@@ -25,9 +25,9 @@
     <text id="n59_p0d6" name="txt_card" xy="328,28" size="87,28" group="n58_p0d6" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="123456"/>
     <group id="n58_p0d6" name="n58" xy="276,17" size="188,54" collapsed="true"/>
     <image id="n60_p0d6" name="n60" src="p0d62f" fileName="imgs/用户名称框@3x.png" xy="54,7"/>
-    <component id="n82_vhx3" name="n82" src="vhx330" fileName="component/HeadImage.xml" xy="16,10" size="80,80"/>
-    <text id="n62_p0d6" name="txt_name" xy="89,12" size="146,28" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="121231"/>
-    <text id="n63_p0d6" name="txt_id" xy="89,43" size="146,28" fontSize="18" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="121231"/>
+    <component id="n82_vhx3" name="head" src="vhx330" fileName="component/HeadImage.xml" xy="16,10" size="80,80"/>
+    <text id="n62_p0d6" name="txt_name" xy="119,12" size="116,28" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="121231"/>
+    <text id="n63_p0d6" name="txt_id" xy="119,43" size="116,28" fontSize="18" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="121231"/>
     <component id="n77_rv2q" name="n77" src="rv2q2y" fileName="component/ButtonArena.xml" xy="1028,326">
       <relation target="" sidePair="right-right,bottom-bottom"/>
     </component>

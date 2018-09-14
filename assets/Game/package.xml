@@ -207,6 +207,34 @@
     <component id="y9mu5x" name="ButtonRpStop.xml" path="/component/"/>
     <component id="y9mu5y" name="ButtonRpPause.xml" path="/component/"/>
     <image id="q3d55z" name="全垒打.png" path="/imgs/"/>
+    <font id="d8n86l" name="FontEmoji.fnt" path="/component/" exported="true"/>
+    <image id="t3zq6m" name="14.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq6n" name="01.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq6o" name="15.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq6p" name="03.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq6q" name="17.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq6r" name="16.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq6s" name="02.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq6t" name="06.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq6u" name="12.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq6v" name="13.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq6w" name="07.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq6x" name="11.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq6y" name="05.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq6z" name="04.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq70" name="10.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq71" name="21.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq72" name="09.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq73" name="08.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq74" name="20.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq75" name="18.png" path="/imgs/emoji1/" exported="true"/>
+    <image id="t3zq76" name="19.png" path="/imgs/emoji1/" exported="true"/>
+    <component id="t3zq77" name="EmojiItem.xml" path="/component/" exported="true"/>
+    <image id="doao78" name="qipao.png" path="/imgs/" scale="9grid" scale9grid="25,15,50,19"/>
+    <image id="doao79" name="qipao的副本.png" path="/imgs/"/>
+    <image id="doao7a" name="biaoqing_bang.png" path="/imgs/"/>
+    <image id="doao7b" name="buiaoqing_bang.png" path="/imgs/"/>
+    <image id="doao7c" name="buiaoqing_hua.png" path="/imgs/"/>
   </resources>
   <publish name="Game" genCode="true"/>
 </packageDescription>

@@ -10,7 +10,6 @@
     <image id="n3_mwp4" name="n3" src="mwp4b" fileName="imgs/分 框@3x.png" xy="20,140">
       <gearDisplay controller="ctrlState" pages="0,1,2,3"/>
     </image>
-    <loader id="n10_mqta" name="head" xy="23,45" size="81,81" url="ui://i36kne80vhx31d" fill="scaleNoBorder"/>
     <text id="n4_mwp4" name="score" xy="48,137" size="60,37" fontSize="16" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="0">
       <gearDisplay controller="ctrlState" pages="0,1,2,3"/>
     </text>
@@ -18,6 +17,7 @@
       <gearDisplay controller="ctrlState" pages="2,3"/>
       <gearXY controller="ctrlPos" pages="0,1" values="133,-20|-304,-20"/>
     </component>
+    <component id="n14_d8n8" name="head" src="vhx331" fileName="component/HeadImage1.xml" pkg="s4bbeogy" xy="22,43" size="84,84"/>
     <image id="n5_mwp4" name="img_ready" src="mwp4g" fileName="imgs/已准备@3x.png" xy="125,65">
       <gearDisplay controller="ctrlState" pages="1"/>
       <gearXY controller="ctrlPos" pages="1" values="-127,65" default="125,65"/>
@@ -33,9 +33,56 @@
     <text id="n11_gl8o" name="lixian" xy="0,181" size="128,22" fontSize="18" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="掉线重连中...">
       <gearDisplay controller="ctrlState" pages="0,1,2,3"/>
     </text>
-    <image id="n12_toy1" name="img_special" src="ct6q4b" fileName="imgs/game_0001_摆牌完成1-拷贝.png" xy="187,59">
-      <gearXY controller="ctrlPos" pages="1" values="-253,60" default="187,59"/>
+    <image id="n12_toy1" name="img_special" src="ct6q4b" fileName="imgs/game_0001_摆牌完成1-拷贝.png" xy="187,112">
+      <gearXY controller="ctrlPos" pages="0,1" values="187,112|-253,112"/>
     </image>
     <loader id="n13_h9yl" name="img_fz" xy="78,39" size="35,56" url="ui://jow5n9bqx90y45"/>
+    <image id="n21_doao" name="" src="doao79" fileName="imgs/qipao的副本.png" xy="-140,-19" size="138,81" group="n22_doao">
+      <gearDisplay controller="ctrlPos" pages="1"/>
+    </image>
+    <image id="n18_doao" name="" src="doao78" fileName="imgs/qipao.png" xy="131,-21" pivot="0.5,0.5" size="138,81" group="n22_doao">
+      <gearDisplay controller="ctrlPos" pages="0"/>
+    </image>
+    <text id="n16_doao" name="chat_txt" xy="134,-15" size="128,58" group="n22_doao" fontSize="16" color="#ffffff" align="center" vAlign="middle" letterSpacing="5" autoSize="none" shadowColor="#333333" shadowOffset="1,1" text="">
+      <gearXY controller="ctrlPos" pages="1" values="-135,-15" default="134,-15"/>
+    </text>
+    <group id="n22_doao" name="chat" xy="-140,-21" size="409,83" advanced="true"/>
+    <image id="n23_doao" name="flower" src="doao7c" fileName="imgs/buiaoqing_hua.png" xy="41,47" pivot="0.5,0.5" size="37,83"/>
+    <image id="n24_doao" name="boom1" src="doao7b" fileName="imgs/buiaoqing_bang.png" xy="30,54"/>
+    <image id="n25_doao" name="boom2" src="doao7a" fileName="imgs/biaoqing_bang.png" xy="-90,-18" pivot="0.5,0.5"/>
   </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n23_doao" value="0"/>
+    <item time="0" type="Scale" target="n23_doao" tween="true" startValue="2.5,2.5" endValue="1,1" duration="12"/>
+    <item time="1" type="Alpha" target="n23_doao" value="1"/>
+    <item time="36" type="Alpha" target="n23_doao" value="1"/>
+    <item time="36" type="Scale" target="n23_doao" value="1,1"/>
+    <item time="48" type="Alpha" target="n23_doao" value="0.04"/>
+    <item time="48" type="Scale" target="n23_doao" value="1,1"/>
+  </transition>
+  <transition name="t1">
+    <item time="0" type="Alpha" target="n25_doao" value="0"/>
+    <item time="0" type="Alpha" target="n24_doao" value="0"/>
+    <item time="0" type="XY" target="n24_doao" value="30,54"/>
+    <item time="1" type="Alpha" target="n24_doao" value="1"/>
+    <item time="2" type="XY" target="n24_doao" value="28,54"/>
+    <item time="4" type="XY" target="n24_doao" value="30,57"/>
+    <item time="6" type="XY" target="n24_doao" value="32,49"/>
+    <item time="8" type="XY" target="n24_doao" value="30,49"/>
+    <item time="10" type="XY" target="n24_doao" value="25,54"/>
+    <item time="12" type="XY" target="n24_doao" value="30,57"/>
+    <item time="14" type="XY" target="n24_doao" value="29,52"/>
+    <item time="16" type="XY" target="n24_doao" value="34,54"/>
+    <item time="18" type="XY" target="n24_doao" value="30,52"/>
+    <item time="20" type="XY" target="n24_doao" value="28,54"/>
+    <item time="22" type="XY" target="n24_doao" value="34,54"/>
+    <item time="24" type="Alpha" target="n24_doao" value="1"/>
+    <item time="24" type="Alpha" target="n25_doao" tween="true" startValue="0.01" endValue="1" duration="6"/>
+    <item time="24" type="Scale" target="n25_doao" tween="true" startValue="0.3,0.3" endValue="1,1" duration="6"/>
+    <item time="24" type="XY" target="n24_doao" value="30,54"/>
+    <item time="25" type="Alpha" target="n24_doao" value="0"/>
+    <item time="54" type="Alpha" target="n25_doao" tween="true" startValue="1" endValue="0" duration="6"/>
+    <item time="54" type="Scale" target="n25_doao" value="1,1"/>
+    <item time="60" type="Scale" target="n25_doao" value="0.2,0.2"/>
+  </transition>
 </component>

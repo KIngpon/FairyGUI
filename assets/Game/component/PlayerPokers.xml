@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="300,200">
-  <controller name="c1" pages="0,,1," selected="0"/>
+  <controller name="c1" pages="0,,1," selected="1"/>
   <controller name="c2" pages="0,,1," selected="0"/>
   <displayList>
-    <component id="n0_du50" name="pork0" src="mwp41d" fileName="component/Pork.xml" xy="-26,30" pivot="0.5,0.5" scale="0.5,0.5">
+    <component id="n0_du50" name="pork0" src="mwp41d" fileName="component/Pork.xml" xy="59,-15" pivot="0.5,0.5" scale="0.6,0.6" rotation="-10">
       <gearXY controller="c1" pages="0,1" values="-26,30|59,-15"/>
       <gearSize controller="c1" pages="1" values="110,150,0.6,0.6" default="110,150,0.5,0.5"/>
       <gearLook controller="c1" pages="1" values="1,-10,0,1" default="1,0,0,1"/>
     </component>
-    <component id="n1_du50" name="pork1" src="mwp41d" fileName="component/Pork.xml" xy="-6,30" pivot="0.5,0.5" scale="0.5,0.5">
+    <component id="n1_du50" name="pork1" src="mwp41d" fileName="component/Pork.xml" xy="89,-19" pivot="0.5,0.5" scale="0.6,0.6">
       <gearXY controller="c1" pages="0,1" values="-6,30|89,-19"/>
       <gearSize controller="c1" pages="1" values="110,150,0.6,0.6" default="110,150,0.5,0.5"/>
       <gearLook controller="c1" default="1,0,0,1"/>
     </component>
-    <component id="n2_du50" name="pork2" src="mwp41d" fileName="component/Pork.xml" xy="14,30" pivot="0.5,0.5" scale="0.5,0.5">
+    <component id="n2_du50" name="pork2" src="mwp41d" fileName="component/Pork.xml" xy="119,-15" pivot="0.5,0.5" scale="0.6,0.6" rotation="10">
       <gearXY controller="c1" pages="0,1" values="14,30|119,-15"/>
       <gearSize controller="c1" pages="1" values="110,150,0.6,0.6" default="110,150,0.5,0.5"/>
       <gearLook controller="c1" pages="1" values="1,10,0,1" default="1,0,0,1"/>
     </component>
-    <component id="n3_du50" name="pork3" src="mwp41d" fileName="component/Pork.xml" xy="34,30" pivot="0.5,0.5" scale="0.5,0.5">
+    <component id="n3_du50" name="pork3" src="mwp41d" fileName="component/Pork.xml" xy="45,39" pivot="0.5,0.5" scale="0.6,0.6" rotation="-20">
       <gearXY controller="c1" pages="0,1" values="34,30|45,39"/>
       <gearSize controller="c1" pages="1" values="110,150,0.6,0.6" default="110,150,0.5,0.5"/>
       <gearLook controller="c1" pages="1" values="1,-20,0,1" default="1,0,0,1"/>
     </component>
-    <component id="n4_du50" name="pork4" src="mwp41d" fileName="component/Pork.xml" xy="54,30" pivot="0.5,0.5" scale="0.5,0.5">
+    <component id="n4_du50" name="pork4" src="mwp41d" fileName="component/Pork.xml" xy="65,29" pivot="0.5,0.5" scale="0.6,0.6" rotation="-10">
       <gearXY controller="c1" pages="0,1" values="54,30|65,29"/>
       <gearSize controller="c1" pages="1" values="110,150,0.6,0.6" default="110,150,0.5,0.5"/>
       <gearLook controller="c1" pages="1" values="1,-10,0,1" default="1,0,0,1"/>
     </component>
-    <component id="n5_du50" name="pork5" src="mwp41d" fileName="component/Pork.xml" xy="74,30" pivot="0.5,0.5" scale="0.5,0.5">
+    <component id="n5_du50" name="pork5" src="mwp41d" fileName="component/Pork.xml" xy="96,23" pivot="0.5,0.5" scale="0.6,0.6">
       <gearXY controller="c1" pages="0,1" values="74,30|96,23"/>
       <gearSize controller="c1" pages="1" values="110,150,0.6,0.6" default="110,150,0.5,0.5"/>
       <gearLook controller="c1" default="1,0,0,1"/>
     </component>
-    <component id="n6_du50" name="pork6" src="mwp41d" fileName="component/Pork.xml" xy="94,30" pivot="0.5,0.5" scale="0.5,0.5">
+    <component id="n6_du50" name="pork6" src="mwp41d" fileName="component/Pork.xml" xy="124,29" pivot="0.5,0.5" scale="0.6,0.6" rotation="10">
       <gearXY controller="c1" pages="0,1" values="94,30|124,29"/>
       <gearSize controller="c1" pages="1" values="110,150,0.6,0.6" default="110,150,0.5,0.5"/>
       <gearLook controller="c1" pages="1" values="1,10,0,1" default="1,0,0,1"/>
     </component>
-    <component id="n7_du50" name="pork7" src="mwp41d" fileName="component/Pork.xml" xy="114,30" pivot="0.5,0.5" scale="0.5,0.5">
+    <component id="n7_du50" name="pork7" src="mwp41d" fileName="component/Pork.xml" xy="145,40" pivot="0.5,0.5" scale="0.6,0.6" rotation="20">
       <gearXY controller="c1" pages="0,1" values="114,30|145,40"/>
       <gearSize controller="c1" pages="1" values="110,150,0.6,0.6" default="110,150,0.5,0.5"/>
       <gearLook controller="c1" pages="1" values="1,20,0,1" default="1,0,0,1"/>
     </component>
-    <component id="n8_du50" name="pork8" src="mwp41d" fileName="component/Pork.xml" xy="134,30" pivot="0.5,0.5" scale="0.5,0.5">
+    <component id="n8_du50" name="pork8" src="mwp41d" fileName="component/Pork.xml" xy="46,81" pivot="0.5,0.5" scale="0.6,0.6" rotation="-20">
       <gearXY controller="c1" pages="0,1" values="134,30|46,81"/>
       <gearSize controller="c1" pages="1" values="110,150,0.6,0.6" default="110,150,0.5,0.5"/>
       <gearLook controller="c1" pages="1" values="1,-20,0,1" default="1,0,0,1"/>
     </component>
-    <component id="n9_du50" name="pork9" src="mwp41d" fileName="component/Pork.xml" xy="154,30" pivot="0.5,0.5" scale="0.5,0.5">
+    <component id="n9_du50" name="pork9" src="mwp41d" fileName="component/Pork.xml" xy="73,71" pivot="0.5,0.5" scale="0.6,0.6" rotation="-10">
       <gearXY controller="c1" pages="0,1" values="154,30|73,71"/>
       <gearSize controller="c1" pages="1" values="110,150,0.6,0.6" default="110,150,0.5,0.5"/>
       <gearLook controller="c1" pages="1" values="1,-10,0,1" default="1,0,0,1"/>
     </component>
-    <component id="n10_du50" name="pork10" src="mwp41d" fileName="component/Pork.xml" xy="174,30" pivot="0.5,0.5" scale="0.5,0.5">
+    <component id="n10_du50" name="pork10" src="mwp41d" fileName="component/Pork.xml" xy="96,67" pivot="0.5,0.5" scale="0.6,0.6">
       <gearXY controller="c1" pages="0,1" values="174,30|96,67"/>
       <gearSize controller="c1" pages="1" values="110,150,0.6,0.6" default="110,150,0.5,0.5"/>
       <gearLook controller="c1" default="1,0,0,1"/>
     </component>
-    <component id="n11_du50" name="pork11" src="mwp41d" fileName="component/Pork.xml" xy="194,30" pivot="0.5,0.5" scale="0.5,0.5">
+    <component id="n11_du50" name="pork11" src="mwp41d" fileName="component/Pork.xml" xy="119,73" pivot="0.5,0.5" scale="0.6,0.6" rotation="10">
       <gearXY controller="c1" pages="0,1" values="194,30|119,73"/>
       <gearSize controller="c1" pages="1" values="110,150,0.6,0.6" default="110,150,0.5,0.5"/>
       <gearLook controller="c1" pages="1" values="1,10,0,1" default="1,0,0,1"/>
     </component>
-    <component id="n12_du50" name="pork12" src="mwp41d" fileName="component/Pork.xml" xy="214,30" pivot="0.5,0.5" scale="0.5,0.5">
+    <component id="n12_du50" name="pork12" src="mwp41d" fileName="component/Pork.xml" xy="146,86" pivot="0.5,0.5" scale="0.6,0.6" rotation="20">
       <gearXY controller="c1" pages="0,1" values="214,30|146,86"/>
       <gearSize controller="c1" pages="1" values="110,150,0.6,0.6" default="110,150,0.5,0.5"/>
       <gearLook controller="c1" pages="1" values="1,20,0,1" default="1,0,0,1"/>
@@ -72,33 +72,33 @@
     <image id="n14_ist4" name="n14" src="he9h4e" fileName="imgs/qiangyan.png" xy="158,69" group="n16_ist4" locked="true"/>
     <image id="n15_ist4" name="n15" src="he9h4e" fileName="imgs/qiangyan.png" xy="112,109" group="n16_ist4" locked="true"/>
     <group id="n16_ist4" name="qiangyan" xy="99,53" size="104,98" locked="true" advanced="true"/>
-    <component id="n17_toy1" name="porka1" src="mwp41d" fileName="component/Pork.xml" xy="134,30" pivot="0.5,0.5" size="110,150" group="n22_toy1" scale="0.5,0.5">
+    <component id="n17_toy1" name="porka1" src="mwp41d" fileName="component/Pork.xml" xy="19,81" pivot="0.5,0.5" size="110,150" group="n22_toy1" scale="0.8,0.8">
       <gearXY controller="c1" pages="0,1" values="134,30|19,81"/>
       <gearSize controller="c1" pages="0,1" values="110,150,0.5,0.5|110,150,0.8,0.8"/>
       <gearLook controller="c1" pages="1" values="1,0,0,1" default="1,0,0,1"/>
     </component>
-    <component id="n18_toy1" name="porka2" src="mwp41d" fileName="component/Pork.xml" xy="154,30" pivot="0.5,0.5" size="110,150" group="n22_toy1" scale="0.5,0.5">
+    <component id="n18_toy1" name="porka2" src="mwp41d" fileName="component/Pork.xml" xy="59,81" pivot="0.5,0.5" size="110,150" group="n22_toy1" scale="0.8,0.8">
       <gearXY controller="c1" pages="0,1" values="154,30|59,81"/>
       <gearSize controller="c1" pages="0,1" values="110,150,0.5,0.5|110,150,0.8,0.8"/>
       <gearLook controller="c1" pages="1" values="1,0,0,1" default="1,0,0,1"/>
     </component>
-    <component id="n19_toy1" name="porka3" src="mwp41d" fileName="component/Pork.xml" xy="174,30" pivot="0.5,0.5" size="110,150" group="n22_toy1" scale="0.5,0.5">
+    <component id="n19_toy1" name="porka3" src="mwp41d" fileName="component/Pork.xml" xy="99,81" pivot="0.5,0.5" size="110,150" group="n22_toy1" scale="0.8,0.8">
       <gearXY controller="c1" pages="0,1" values="174,30|99,81"/>
       <gearSize controller="c1" pages="0,1" values="110,150,0.5,0.5|110,150,0.8,0.8"/>
       <gearLook controller="c1" default="1,0,0,1"/>
     </component>
-    <component id="n20_toy1" name="porka4" src="mwp41d" fileName="component/Pork.xml" xy="194,30" pivot="0.5,0.5" size="110,150" group="n22_toy1" scale="0.5,0.5">
+    <component id="n20_toy1" name="porka4" src="mwp41d" fileName="component/Pork.xml" xy="139,81" pivot="0.5,0.5" size="110,150" group="n22_toy1" scale="0.8,0.8">
       <gearXY controller="c1" pages="0,1" values="194,30|139,81"/>
       <gearSize controller="c1" pages="0,1" values="110,150,0.5,0.5|110,150,0.8,0.8"/>
       <gearLook controller="c1" pages="1" values="1,0,0,1" default="1,0,0,1"/>
     </component>
-    <component id="n21_toy1" name="porka5" src="mwp41d" fileName="component/Pork.xml" xy="214,30" pivot="0.5,0.5" size="110,150" group="n22_toy1" scale="0.5,0.5">
+    <component id="n21_toy1" name="porka5" src="mwp41d" fileName="component/Pork.xml" xy="179,81" pivot="0.5,0.5" size="110,150" group="n22_toy1" scale="0.8,0.8">
       <gearXY controller="c1" pages="0,1" values="214,30|179,81"/>
       <gearSize controller="c1" pages="0,1" values="110,150,0.5,0.5|110,150,0.8,0.8"/>
       <gearLook controller="c1" pages="1" values="1,0,0,1" default="1,0,0,1"/>
     </component>
     <loader id="n26_fetr" name="img_type" xy="87,132" size="132,43" group="n22_toy1" url="ui://jow5n9bqrezh25" align="center" vAlign="middle"/>
-    <group id="n22_toy1" name="porka" xy="87,30" size="237,150" advanced="true" collapsed="true"/>
+    <group id="n22_toy1" name="porka" xy="19,81" size="270,150" advanced="true" collapsed="true"/>
     <text id="n27_fetr" name="txt_scoretop" xy="239,21" size="10,26" font="ui://jow5n9bqx90y46" fontSize="12" vAlign="middle" text="">
       <gearXY controller="c2" pages="0,1" values="239,21|-23,21"/>
     </text>
@@ -108,7 +108,7 @@
     <text id="n29_fetr" name="txt_score_down" xy="239,124" size="10,26" font="ui://jow5n9bqx90y46" fontSize="12" vAlign="middle" text="">
       <gearXY controller="c2" pages="0,1" values="239,124|-23,128"/>
     </text>
-    <image id="n30_vhx3" name="imt_teshu" src="ct6q4b" fileName="imgs/game_0001_摆牌完成1-拷贝.png" xy="56,58" visible="false"/>
+    <image id="n30_vhx3" name="imt_teshu" src="ct6q4b" fileName="imgs/game_0001_摆牌完成1-拷贝.png" xy="56,93" visible="false"/>
     <text id="n32_gtlg" name="txt_score_result" xy="239,172" size="10,21" font="ui://jow5n9bqx90y47" fontSize="12" vAlign="middle" text="">
       <gearXY controller="c2" pages="0,1" values="239,172|-23,175"/>
     </text>
@@ -135,9 +135,9 @@
     <item time="0" type="Scale" target="n21_toy1" tween="true" startValue="1,1" endValue="0.7,0.7" duration="12" ease="Bounce.Out"/>
     <item time="24" type="Alpha" target="n26_fetr" value="1"/>
     <item time="24" type="Scale" target="n21_toy1" value="0.7,0.7"/>
-    <item time="24" type="Scale" target="n17_toy1" value="0.8,0.7"/>
     <item time="24" type="Scale" target="n18_toy1" value="0.7,0.7"/>
-    <item time="24" type="Scale" target="n19_toy1" value="0.7,0.7"/>
+    <item time="24" type="Scale" target="n17_toy1" value="0.8,0.7"/>
     <item time="24" type="Scale" target="n20_toy1" value="0.7,0.7"/>
+    <item time="24" type="Scale" target="n19_toy1" value="0.7,0.7"/>
   </transition>
 </component>

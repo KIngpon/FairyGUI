@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="650,510" adaptationTest="FitSize">
-  <controller name="ctrl" pages="0,,1,,2," selected="0"/>
+  <controller name="ctrl" pages="0,,1,,2," selected="2"/>
   <displayList>
     <component id="n0_x90y" name="panelBg" src="rezh17" fileName="component/AlertBg1.xml" pkg="i36kne80" xy="-1,-1" size="650,510"/>
     <component id="n1_x90y" name="btn_liaotian" src="x90y37" fileName="component/ButtonChatTopCenter.xml" xy="222,102">
       <Button controller="ctrl" page="1"/>
     </component>
     <component id="n2_x90y" name="btn_record" src="x90y35" fileName="component/ButtonChatTopLeft.xml" xy="32,102">
-      <Button checked="true" controller="ctrl" page="0"/>
+      <Button controller="ctrl" page="0"/>
     </component>
     <component id="n3_x90y" name="btn_biaoq" src="x90y36" fileName="component/ButtonChatTopRight.xml" xy="417,102">
-      <Button controller="ctrl" page="2"/>
+      <Button checked="true" controller="ctrl" page="2"/>
     </component>
     <list id="n4_x90y" name="list" xy="34,162" size="581,238" overflow="scroll" defaultItem="ui://jow5n9bqx90y38">
+      <gearDisplay controller="ctrl" pages="0,1"/>
       <item/>
       <item/>
       <item/>
@@ -23,5 +24,20 @@
     <component id="n5_x90y" name="btn_send" src="x90y39" fileName="component/ButtonSend.xml" xy="484,419"/>
     <image id="n7_x90y" name="n7" src="rezh10" fileName="imgs/圆角矩形1.png" pkg="i36kne80" xy="33,420" size="433,61"/>
     <text id="n8_x90y" name="btn_input" xy="49,422" size="398,56" input="true" fontSize="24" color="#ffffff" vAlign="middle" letterSpacing="2" autoSize="none" singleLine="true" text=""/>
+    <list id="n12_t3zq" name="list_emoji" xy="31,163" size="585,233" layout="flow_hz" overflow="scroll" lineGap="10" colGap="10" defaultItem="ui://jow5n9bqt3zq77">
+      <gearDisplay controller="ctrl" pages="2"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
   </displayList>
 </component>
