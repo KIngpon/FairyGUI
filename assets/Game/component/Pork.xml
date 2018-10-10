@@ -20,5 +20,8 @@
     <image id="n10_xqdu" name="img_joke" src="xqdu4n" fileName="imgs/pork/joke.png" xy="0,0">
       <gearDisplay controller="ctrlstate" pages="1"/>
     </image>
+    <image id="n11_jtbz" name="img_ma" src="56g77f" fileName="imgs/马牌.png" xy="19,24">
+      <gearDisplay controller="ctrlstate" pages="1"/>
+    </image>
   </displayList>
 </component>

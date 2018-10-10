@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="37,83">
+  <displayList>
+    <image id="n0_56g7" name="flower" src="doao7c" fileName="imgs/buiaoqing_hua.png" xy="0,0" pivot="0.5,0.5" size="37,83"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n0_56g7" value="0"/>
+    <item time="0" type="Scale" target="n0_56g7" tween="true" startValue="2.5,2.5" endValue="1,1" duration="12"/>
+    <item time="1" type="Alpha" target="n0_56g7" value="1"/>
+    <item time="36" type="Alpha" target="n0_56g7" value="1"/>
+    <item time="36" type="Scale" target="n0_56g7" value="1,1"/>
+    <item time="48" type="Alpha" target="n0_56g7" value="0.04"/>
+    <item time="48" type="Scale" target="n0_56g7" value="1,1"/>
+  </transition>
+</component>

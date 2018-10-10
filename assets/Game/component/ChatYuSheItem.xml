@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="500,70">
+  <displayList>
+    <image id="n3_56g7" name="n3" src="rezh16" fileName="imgs/弹出背景1底框.png" pkg="i36kne80" xy="0,-1" size="500,70">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n0_x90y" name="n0" src="x90y2x" fileName="imgs/chat/聊天框横线@3x.png" xy="2,66"/>
+    <text id="n1_x90y" name="txt_content" xy="19,3" size="473,64" fontSize="30" color="#60421f" vAlign="middle" autoSize="none" text="赶紧的!!!打牌不是相面!"/>
+  </displayList>
+</component>

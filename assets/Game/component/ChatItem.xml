@@ -2,7 +2,8 @@
 <component size="500,70">
   <displayList>
     <image id="n0_x90y" name="n0" src="x90y2x" fileName="imgs/chat/聊天框横线@3x.png" xy="2,66"/>
-    <text id="n1_x90y" name="txt_content" xy="12,30" size="470,37" fontSize="30" color="#60421f" vAlign="middle" autoSize="none" text=""/>
-    <text id="n2_wigp" name="txt_time" xy="13,3" size="470,27" fontSize="14" color="#9f7543" vAlign="middle" autoSize="none" text=""/>
+    <text id="n1_x90y" name="txt_name" xy="12,32" size="105,34" fontSize="24" color="#60421f" vAlign="middle" autoSize="none" text=""/>
+    <text id="n2_wigp" name="txt_time" xy="13,3" size="477,27" fontSize="14" color="#9f7543" vAlign="middle" autoSize="none" text=""/>
+    <text id="n3_jtbz" name="txt_content" xy="117,31" size="374,37" fontSize="24" color="#60421f" vAlign="middle" autoSize="none" text=""/>
   </displayList>
 </component>

@@ -230,11 +230,15 @@
     <image id="t3zq75" name="18.png" path="/imgs/emoji1/" exported="true"/>
     <image id="t3zq76" name="19.png" path="/imgs/emoji1/" exported="true"/>
     <component id="t3zq77" name="EmojiItem.xml" path="/component/" exported="true"/>
-    <image id="doao78" name="qipao.png" path="/imgs/" scale="9grid" scale9grid="25,15,50,19"/>
-    <image id="doao79" name="qipao的副本.png" path="/imgs/"/>
     <image id="doao7a" name="biaoqing_bang.png" path="/imgs/"/>
     <image id="doao7b" name="buiaoqing_bang.png" path="/imgs/"/>
     <image id="doao7c" name="buiaoqing_hua.png" path="/imgs/"/>
+    <component id="56g77d" name="Flower.xml" path="/component/" exported="true"/>
+    <component id="56g77e" name="Boom.xml" path="/component/" exported="true"/>
+    <image id="56g77f" name="马牌.png" path="/imgs/"/>
+    <image id="56g77g" name="聊天背景.png" path="/imgs/" scale="9grid" scale9grid="94,39,188,78"/>
+    <component id="56g77h" name="ChatYuSheItem.xml" path="/component/" exported="true"/>
+    <image id="56g77i" name="聊天背景(1).png" path="/imgs/" scale="9grid" scale9grid="94,39,188,78"/>
   </resources>
   <publish name="Game" genCode="true"/>
 </packageDescription>

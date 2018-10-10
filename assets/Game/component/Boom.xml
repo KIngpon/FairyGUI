@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100">
+  <displayList>
+    <image id="n0_56g7" name="boom1" src="doao7b" fileName="imgs/buiaoqing_bang.png" xy="29,32"/>
+    <image id="n1_56g7" name="boom2" src="doao7a" fileName="imgs/biaoqing_bang.png" xy="-93,-53" pivot="0.5,0.5"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n0_56g7" value="0"/>
+    <item time="0" type="Alpha" target="n1_56g7" value="0"/>
+    <item time="0" type="XY" target="n0_56g7" value="30,54"/>
+    <item time="1" type="Alpha" target="n0_56g7" value="1"/>
+    <item time="2" type="XY" target="n0_56g7" value="28,54"/>
+    <item time="4" type="XY" target="n0_56g7" value="30,57"/>
+    <item time="6" type="XY" target="n0_56g7" value="32,49"/>
+    <item time="8" type="XY" target="n0_56g7" value="30,49"/>
+    <item time="10" type="XY" target="n0_56g7" value="25,54"/>
+    <item time="12" type="XY" target="n0_56g7" value="30,57"/>
+    <item time="14" type="XY" target="n0_56g7" value="29,52"/>
+    <item time="16" type="XY" target="n0_56g7" value="34,54"/>
+    <item time="18" type="XY" target="n0_56g7" value="30,52"/>
+    <item time="20" type="XY" target="n0_56g7" value="28,54"/>
+    <item time="22" type="XY" target="n0_56g7" value="34,54"/>
+    <item time="24" type="Alpha" target="n1_56g7" tween="true" startValue="0.01" endValue="1" duration="6"/>
+    <item time="24" type="Alpha" target="n0_56g7" value="1"/>
+    <item time="24" type="Scale" target="n1_56g7" tween="true" startValue="0.3,0.3" endValue="1,1" duration="6"/>
+    <item time="24" type="XY" target="n0_56g7" value="30,54"/>
+    <item time="25" type="Alpha" target="n0_56g7" value="0"/>
+    <item time="54" type="Alpha" target="n1_56g7" tween="true" startValue="1" endValue="0" duration="6"/>
+    <item time="54" type="Scale" target="n1_56g7" value="1,1"/>
+    <item time="60" type="Scale" target="n1_56g7" value="0.2,0.2"/>
+  </transition>
+</component>

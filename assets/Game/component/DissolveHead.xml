@@ -7,6 +7,6 @@
     <text id="n3_gl8o" name="txt_name" xy="4,140" size="118,28" fontSize="16" color="#4f3826" align="center" vAlign="middle" autoSize="none" text=""/>
     <text id="n4_gl8o" name="n4" xy="75,173" size="51,28" fontSize="16" color="#4f3826" vAlign="middle" autoSize="none" text="分"/>
     <text id="n5_gl8o" name="txt_score" xy="18,174" size="51,28" fontSize="16" color="#ff0000" align="right" vAlign="middle" autoSize="none" text="12"/>
-    <component id="n6_vhx3" name="n6" src="vhx331" fileName="component/HeadImage1.xml" pkg="s4bbeogy" xy="17,43" size="90,90"/>
+    <component id="n7_jtbz" name="head" src="vhx331" fileName="component/HeadImage1.xml" pkg="s4bbeogy" xy="17,44" size="90,90"/>
   </displayList>
 </component>

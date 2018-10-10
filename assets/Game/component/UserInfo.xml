@@ -17,7 +17,7 @@
     <text id="n12_99mf" name="txt_pos0" xy="67,244" size="443,22" fontSize="18" color="#a88f71" autoSize="none" text=""/>
     <text id="n13_99mf" name="txt_pos0" xy="67,273" size="443,22" fontSize="18" color="#a88f71" autoSize="none" text=""/>
     <text id="n14_99mf" name="txt_pos0" xy="67,302" size="443,22" fontSize="18" color="#a88f71" autoSize="none" text=""/>
-    <component id="n15_99mf" name="n15" src="vhx331" fileName="component/HeadImage1.xml" pkg="s4bbeogy" xy="44,27" size="86,86"/>
     <component id="n16_99mf" name="btn_close" src="nl0pf" fileName="component/PopModuleCloseBtn.xml" pkg="i36kne80" xy="533,-27"/>
+    <component id="n18_56g7" name="head" src="vhx331" fileName="component/HeadImage1.xml" pkg="s4bbeogy" xy="45,28" size="85,85"/>
   </displayList>
 </component>

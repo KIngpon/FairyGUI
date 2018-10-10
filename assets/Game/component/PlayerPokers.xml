@@ -114,9 +114,9 @@
     </text>
   </displayList>
   <transition name="t0">
-    <item time="0" type="Visible" target="n15_ist4" value="false"/>
-    <item time="0" type="Visible" target="n14_ist4" value="false"/>
     <item time="0" type="Visible" target="n13_ist4" value="false"/>
+    <item time="0" type="Visible" target="n14_ist4" value="false"/>
+    <item time="0" type="Visible" target="n15_ist4" value="false"/>
     <item time="4" type="Visible" target="n13_ist4" value="true"/>
     <item time="8" type="Visible" target="n14_ist4" value="true"/>
     <item time="12" type="Visible" target="n15_ist4" value="true"/>
@@ -135,9 +135,9 @@
     <item time="0" type="Scale" target="n21_toy1" tween="true" startValue="1,1" endValue="0.7,0.7" duration="12" ease="Bounce.Out"/>
     <item time="24" type="Alpha" target="n26_fetr" value="1"/>
     <item time="24" type="Scale" target="n21_toy1" value="0.7,0.7"/>
+    <item time="24" type="Scale" target="n19_toy1" value="0.7,0.7"/>
+    <item time="24" type="Scale" target="n20_toy1" value="0.7,0.7"/>
     <item time="24" type="Scale" target="n18_toy1" value="0.7,0.7"/>
     <item time="24" type="Scale" target="n17_toy1" value="0.8,0.7"/>
-    <item time="24" type="Scale" target="n20_toy1" value="0.7,0.7"/>
-    <item time="24" type="Scale" target="n19_toy1" value="0.7,0.7"/>
   </transition>
 </component>

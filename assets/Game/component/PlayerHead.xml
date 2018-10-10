@@ -37,19 +37,22 @@
       <gearXY controller="ctrlPos" pages="0,1" values="187,112|-253,112"/>
     </image>
     <loader id="n13_h9yl" name="img_fz" xy="78,39" size="35,56" url="ui://jow5n9bqx90y45"/>
-    <image id="n21_doao" name="" src="doao79" fileName="imgs/qipao的副本.png" xy="-140,-19" size="138,81" group="n22_doao">
+    <image id="n21_doao" name="n21" src="56g77i" fileName="imgs/聊天背景(1).png" xy="-249,175" pivot="0.5,0.5" group="n22_doao" aspect="true">
       <gearDisplay controller="ctrlPos" pages="1"/>
     </image>
-    <image id="n18_doao" name="" src="doao78" fileName="imgs/qipao.png" xy="131,-21" pivot="0.5,0.5" size="138,81" group="n22_doao">
+    <image id="n18_doao" name="n18" src="56g77g" fileName="imgs/聊天背景.png" xy="-10,-133" pivot="0.5,0.5" group="n22_doao">
       <gearDisplay controller="ctrlPos" pages="0"/>
     </image>
-    <text id="n16_doao" name="chat_txt" xy="134,-15" size="128,58" group="n22_doao" fontSize="16" color="#ffffff" align="center" vAlign="middle" letterSpacing="5" autoSize="none" shadowColor="#333333" shadowOffset="1,1" text="">
-      <gearXY controller="ctrlPos" pages="1" values="-135,-15" default="134,-15"/>
+    <text id="n16_doao" name="chat_txt" xy="13,-126" size="336,123" group="n22_doao" fontSize="32" align="center" vAlign="middle" letterSpacing="5" autoSize="none" text="">
+      <gearXY controller="ctrlPos" pages="0,1" values="13,-126|-229,201"/>
     </text>
-    <group id="n22_doao" name="chat" xy="-140,-21" size="409,83" advanced="true"/>
+    <text id="n26_56g7" name="chat_txt_emoji" xy="13,-126" size="336,123" group="n22_doao" font="ui://jow5n9bqd8n86l" fontSize="98" align="center" vAlign="middle" letterSpacing="5" autoSize="none" text="">
+      <gearXY controller="ctrlPos" pages="0,1" values="13,-126|-229,201"/>
+    </text>
+    <group id="n22_doao" name="chat" xy="-249,-133" size="615,463" locked="true" advanced="true"/>
     <image id="n23_doao" name="flower" src="doao7c" fileName="imgs/buiaoqing_hua.png" xy="41,47" pivot="0.5,0.5" size="37,83"/>
-    <image id="n24_doao" name="boom1" src="doao7b" fileName="imgs/buiaoqing_bang.png" xy="30,54"/>
-    <image id="n25_doao" name="boom2" src="doao7a" fileName="imgs/biaoqing_bang.png" xy="-90,-18" pivot="0.5,0.5"/>
+    <image id="n24_doao" name="boom1" src="doao7b" fileName="imgs/buiaoqing_bang.png" xy="30,54" hideByEditor="true"/>
+    <image id="n25_doao" name="boom2" src="doao7a" fileName="imgs/biaoqing_bang.png" xy="-90,-18" pivot="0.5,0.5" hideByEditor="true"/>
   </displayList>
   <transition name="t0">
     <item time="0" type="Alpha" target="n23_doao" value="0"/>
