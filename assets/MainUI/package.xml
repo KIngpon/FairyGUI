@@ -16,7 +16,7 @@
     <component id="p0d628" name="ButtonShuoMing.xml" path="/component/"/>
     <image id="p0d629" name="十三水@3x.png" path="/imgs/"/>
     <image id="p0d62a" name="房间@3x.png" path="/imgs/"/>
-    <image id="p0d62b" name="房卡@3x.png" path="/imgs/"/>
+    <image id="p0d62b" name="房卡@3x.png" path="/imgs/" exported="true"/>
     <image id="p0d62c" name="房卡数量底框@3x.png" path="/imgs/"/>
     <component id="p0d62d" name="ButtonAddCard.xml" path="/component/"/>
     <image id="p0d62e" name="图层 34@3x.png" path="/imgs/"/>

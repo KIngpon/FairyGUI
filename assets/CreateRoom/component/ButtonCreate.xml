@@ -5,9 +5,11 @@
     <image id="n1" name="n1" src="h5w59" fileName="imgs/创建房间1@3x(1).png" xy="0,0">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <loader id="n2" name="icon" xy="0,13" size="202,48" url="ui://83u5vz94sej41" align="center" vAlign="middle">
+    <loader id="n2" name="icon" xy="81,13" size="116,48" url="ui://83u5vz94sej41" align="center" vAlign="middle">
       <relation target="" sidePair="width-width,height-height"/>
     </loader>
+    <image id="n3_gdkg" name="n3" src="p0d62b" fileName="imgs/房卡@3x.png" pkg="s4bbeogy" xy="-22,12"/>
+    <text id="n5_gdkg" name="txt_cardnum" xy="21,21" size="64,34" fontSize="30" color="#e8fceb" align="center" vAlign="middle" letterSpacing="-3" autoSize="none" strokeColor="#1a6b22" shadowColor="#1a6b22" shadowOffset="2,2" text="X12"/>
   </displayList>
   <Button downEffect="dark" downEffectValue="0.80"/>
 </component>

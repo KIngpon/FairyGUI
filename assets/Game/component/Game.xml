@@ -50,7 +50,7 @@
     <image id="n13_mwp4" name="n13" src="mwp4f" fileName="imgs/十三水@3x.png" xy="468,330">
       <relation target="n0_mwp4" sidePair="center-center,middle-middle"/>
     </image>
-    <component id="n17_rezh" name="n17" src="rezh1v" fileName="component/ButtonPaiXing.xml" xy="40,650">
+    <component id="n17_rezh" name="n17" src="rezh1v" fileName="component/ButtonPaiXing.xml" xy="40,650" visible="false">
       <relation target="n0_mwp4" sidePair="bottom-bottom"/>
     </component>
     <component id="n12_mwp4" name="btn_check" src="mwp4e" fileName="component/ButtonCheck.xml" xy="506,207">
@@ -73,9 +73,11 @@
     <text id="n35_gtlg" name="txt_jushu" xy="21,39" size="10,24" group="n37_gtlg" fontSize="20" color="#ffffff" text=""/>
     <text id="n36_gtlg" name="txt_roomtype" xy="21,65" size="10,24" group="n37_gtlg" fontSize="20" color="#ffffff" text=""/>
     <group id="n37_gtlg" name="n37" xy="6,6" size="220,89" advanced="true" collapsed="true"/>
-    <graph id="n29_h9yl" name="n29" xy="3,3" size="176,67" group="n31_h9yl" type="rect" lineColor="#00000000" corner="20"/>
-    <text id="n30_h9yl" name="n30" xy="8,7" size="166,59" group="n31_h9yl" fontSize="24" color="#333333" align="center" vAlign="middle" autoSize="none" text="点击此处分享给好友"/>
-    <group id="n31_h9yl" name="sharetips" xy="3,3" size="176,67" hideByEditor="true" advanced="true"/>
+    <graph id="n29_h9yl" name="n29" xy="1021,651" size="176,92" group="n31_h9yl" type="rect" lineColor="#00000000" corner="20"/>
+    <text id="n30_h9yl" name="n30" xy="1026,671" size="166,59" group="n31_h9yl" fontSize="24" color="#333333" align="center" vAlign="middle" autoSize="none" text="点击此处分享给好友"/>
+    <group id="n31_h9yl" name="sharetips" xy="1021,651" size="176,92" advanced="true">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </group>
     <component id="n32_dowq" name="btn_continue" src="sl2kr" fileName="component/ButtonContinue.xml" pkg="25mni52o" xy="505,339">
       <relation target="" sidePair="center-center,middle-middle"/>
     </component>
