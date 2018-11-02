@@ -6,13 +6,13 @@
     <image id="n2_sl2k" name="n2" src="sl2k10" fileName="imgs/结算头像@3x.png" xy="44,34"/>
     <text id="n6_sl2k" name="txt_name" xy="16,142" size="163,28" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="玩家name"/>
     <text id="n7_sl2k" name="txt_id" xy="16,172" size="163,22" fontSize="18" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="ID(1212121)"/>
-    <text id="n10_sl2k" name="txt_ju0" xy="47,213" size="100,28" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text=""/>
-    <text id="n11_sl2k" name="txt_ju1" xy="47,249" size="100,28" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text=""/>
-    <text id="n12_sl2k" name="txt_ju2" xy="47,285" size="100,28" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text=""/>
-    <text id="n13_sl2k" name="txt_ju3" xy="47,321" size="100,28" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text=""/>
-    <text id="n14_sl2k" name="txt_ju4" xy="47,357" size="100,28" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text=""/>
+    <text id="n10_sl2k" name="txt_ju0" xy="32,213" size="131,28" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text=""/>
+    <text id="n11_sl2k" name="txt_ju1" xy="32,249" size="131,28" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text=""/>
+    <text id="n12_sl2k" name="txt_ju2" xy="32,285" size="131,28" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text=""/>
+    <text id="n13_sl2k" name="txt_ju3" xy="32,321" size="131,28" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text=""/>
+    <text id="n14_sl2k" name="txt_ju4" xy="32,357" size="131,28" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text=""/>
     <component id="n18_vhx3" name="head" src="vhx330" fileName="component/HeadImage.xml" pkg="s4bbeogy" xy="45,31"/>
-    <text id="n15_sl2k" name="txt_ju5" xy="47,393" size="100,28" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text=""/>
+    <text id="n15_sl2k" name="txt_ju5" xy="32,393" size="131,28" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" text=""/>
     <image id="n3_sl2k" name="n3" src="sl2kx" fileName="imgs/大赢家.png" xy="31,102" group="n16_toy1"/>
     <image id="n4_sl2k" name="n4" src="sl2ky" fileName="imgs/皇冠.png" xy="32,1" group="n16_toy1"/>
     <group id="n16_toy1" name="winner" xy="31,1" size="120,143" locked="true" advanced="true"/>

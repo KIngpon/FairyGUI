@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="920,581">
+  <controller name="c1" pages="0,,1," selected="1"/>
   <displayList>
     <component id="n0_nl0p" name="panelBg" src="nl0p9" fileName="component/PopModuleBg.xml" pkg="i36kne80" xy="0,0"/>
-    <list id="n2_nl0p" name="list" xy="47,79" size="825,378" overflow="scroll" defaultItem="ui://tebyebzgnl0pz">
+    <list id="n2_nl0p" name="list" xy="47,79" size="825,378" group="n4_f3x2" overflow="scroll" defaultItem="ui://tebyebzgnl0pz">
       <item/>
       <item/>
       <item/>
@@ -17,6 +18,12 @@
       <item/>
       <item/>
     </list>
-    <component id="n3_dowq" name="n3" src="dowq1d" fileName="component/ButtonGetAll.xml" xy="362,469"/>
+    <component id="n3_dowq" name="n3" src="dowq1d" fileName="component/ButtonGetAll.xml" xy="362,469" group="n4_f3x2"/>
+    <group id="n4_f3x2" name="mcontent" xy="47,79" size="825,463" advanced="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </group>
+    <text id="n5_f3x2" name="n5" xy="389,271" size="141,38" fontSize="34" color="#a46148" text="暂无邮件">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
   </displayList>
 </component>

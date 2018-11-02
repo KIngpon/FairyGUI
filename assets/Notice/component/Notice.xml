@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="924,581">
+  <controller name="c1" pages="0,,1," selected="1"/>
   <displayList>
     <component id="n0_nxr2" name="panelBg" src="nl0p9" fileName="component/PopModuleBg.xml" pkg="i36kne80" xy="0,0" locked="true"/>
-    <image id="n4_nxr2" name="n4" src="rezh10" fileName="imgs/圆角矩形1.png" pkg="i36kne80" xy="301,72" size="592,395"/>
-    <image id="n3_nxr2" name="n3" src="rezh11" fileName="imgs/圆角矩形 7@3x.png" pkg="i36kne80" xy="34,69" size="255,480"/>
-    <image id="n10_nxr2" name="n10" src="nxr27" fileName="imgs/本游戏仅供娱乐，严禁赌博 @3x.png" xy="392,493"/>
-    <text id="n11_nxr2" name="n11" xy="361,99" size="189,31" fontSize="24" color="#990000" text="6月14日更新公告"/>
-    <text id="n13_nxr2" name="n13" xy="693,104" size="180,23" fontSize="16" color="#666666" text="2018-06-20      12:60:30 "/>
-    <text id="n14_nxr2" name="n14" xy="321,151" size="551,293" fontSize="24" autoSize="none" text="6月14日更新公告"/>
-    <list id="n15_rv2q" name="n15" xy="35,70" size="270,480" locked="true" overflow="scroll" lineGap="4" defaultItem="ui://ecxcc9h9nxr26">
+    <image id="n4_nxr2" name="n4" src="rezh10" fileName="imgs/圆角矩形1.png" pkg="i36kne80" xy="301,72" size="592,395" group="n16_f3x2"/>
+    <image id="n3_nxr2" name="n3" src="rezh11" fileName="imgs/圆角矩形 7@3x.png" pkg="i36kne80" xy="34,69" size="255,480" group="n16_f3x2"/>
+    <image id="n10_nxr2" name="n10" src="nxr27" fileName="imgs/本游戏仅供娱乐，严禁赌博 @3x.png" xy="392,493" group="n16_f3x2"/>
+    <text id="n11_nxr2" name="n11" xy="361,99" size="188,28" group="n16_f3x2" fontSize="24" color="#990000" text="6月14日更新公告"/>
+    <text id="n13_nxr2" name="n13" xy="693,104" size="176,20" group="n16_f3x2" fontSize="16" color="#666666" text="2018-06-20      12:60:30 "/>
+    <text id="n14_nxr2" name="n14" xy="321,151" size="551,293" group="n16_f3x2" fontSize="24" autoSize="none" text="6月14日更新公告"/>
+    <list id="n15_rv2q" name="n15" xy="35,70" size="270,480" group="n16_f3x2" overflow="scroll" lineGap="4" defaultItem="ui://ecxcc9h9nxr26">
       <item/>
       <item/>
       <item/>
@@ -18,5 +19,11 @@
       <item/>
       <item/>
     </list>
+    <group id="n16_f3x2" name="mcontent" xy="34,69" size="859,481" advanced="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </group>
+    <text id="n17_f3x2" name="n17" xy="391,271" size="141,38" fontSize="34" color="#a46148" text="敬请期待">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
   </displayList>
 </component>

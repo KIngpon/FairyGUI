@@ -239,6 +239,7 @@
     <image id="56g77g" name="聊天背景.png" path="/imgs/" scale="9grid" scale9grid="94,39,188,78"/>
     <component id="56g77h" name="ChatYuSheItem.xml" path="/component/" exported="true"/>
     <image id="56g77i" name="聊天背景(1).png" path="/imgs/" scale="9grid" scale9grid="94,39,188,78"/>
+    <component id="f3x27j" name="UserInfoPosItem.xml" path="/component/" exported="true"/>
   </resources>
   <publish name="Game" genCode="true"/>
 </packageDescription>

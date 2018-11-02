@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="445,25">
+  <displayList>
+    <text id="n0_f3x2" name="txt_name" xy="1,0" size="205,25" fontSize="20" color="#a88f71" autoSize="none" text=""/>
+    <text id="n1_f3x2" name="txt_pos" xy="237,0" size="199,25" fontSize="20" color="#a88f71" autoSize="none" text=""/>
+  </displayList>
+</component>
