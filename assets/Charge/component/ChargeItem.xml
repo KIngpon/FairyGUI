@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="228,372">
+  <displayList>
+    <image id="n0_kd57" name="n0" src="kd572" fileName="img/itembg.png" xy="0,0"/>
+    <component id="n1_kd57" name="btn_charge" src="kd575" fileName="component/ButtonCharge.xml" xy="35,281"/>
+    <loader id="n3_g4m6" name="cardnum" xy="24,12" size="178,50" url="ui://n4kjkscxg4m68" align="center" vAlign="middle"/>
+  </displayList>
+</component>

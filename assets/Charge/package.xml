@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="n4kjkscx" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="kd570" name="ChargeModule.xml" path="/component/" exported="true"/>
+    <image id="kd571" name="btn.png" path="/img/"/>
+    <image id="kd572" name="itembg.png" path="/img/"/>
+    <component id="kd573" name="ChargeItem.xml" path="/component/" exported="true"/>
+    <component id="kd575" name="ButtonCharge.xml" path="/component/"/>
+    <image id="kd576" name="title.png" path="/img/" exported="true"/>
+    <image id="g4m67" name="12.png" path="/img/" exported="true"/>
+    <image id="g4m68" name="十张.png" path="/img/" exported="true"/>
+    <image id="g4m69" name="30.png" path="/img/" exported="true"/>
+    <image id="g4m6a" name="20张.png" path="/img/" exported="true"/>
+    <image id="g4m6b" name="50张.png" path="/img/" exported="true"/>
+    <image id="g4m6c" name="6.png" path="/img/" exported="true"/>
+  </resources>
+  <publish name="Charge" genCode="true"/>
+</packageDescription>

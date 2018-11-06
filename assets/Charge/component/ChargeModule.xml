@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="780,540">
+  <displayList>
+    <component id="n0_kd57" name="panelBg" src="nl0p9" fileName="component/PopModuleBg.xml" pkg="i36kne80" xy="0,0" size="780,540"/>
+    <list id="n1_kd57" name="list" xy="31,96" size="718,394" layout="row" colGap="10" defaultItem="ui://n4kjkscxkd573">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>
