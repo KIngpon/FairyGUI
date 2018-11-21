@@ -22,7 +22,7 @@
     <image id="n19_rezh" name="n19" src="rezh8" fileName="imgs/矩形 2 拷贝 2@3x.png" xy="330,175" group="n21_rezh"/>
     <image id="n20_rezh" name="n20" src="rezh9" fileName="imgs/玩法设置@3x.png" xy="346,179" group="n21_rezh"/>
     <group id="n21_rezh" name="n21" xy="330,175" size="174,45"/>
-    <text id="n22_rezh" name="txt_num" xy="366,138" size="89,25" fontSize="20" color="#74593f" autoSize="none" text="3人"/>
+    <text id="n22_rezh" name="txt_num" xy="366,138" size="89,25" fontSize="24" color="#74593f" autoSize="none" text="3人"/>
     <component id="n24_dowq" name="txtcontent" src="dowqa" fileName="component/TxtContent.xml" xy="327,229" size="550,238"/>
   </displayList>
 </component>

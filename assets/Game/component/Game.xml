@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1206,750" adaptationTest="FitSize">
-  <controller name="playerNumCtrl" pages="0,2,1,3,2,4,3,5,4,6" selected="0">
+  <controller name="playerNumCtrl" pages="0,2,1,3,2,4,3,5,4,6" selected="4">
     <remark page="0" value="2"/>
     <remark page="1" value="3"/>
     <remark page="2" value="4"/>
@@ -14,12 +14,28 @@
     <component id="n1_mwp4" name="btn_quit" src="mwp48" fileName="component/ButtonExit.xml" xy="1111,8" group="n4_mwp4"/>
     <component id="n2_mwp4" name="btn_setting" src="mwp47" fileName="component/ButtonGameSetting.xml" xy="1030,8" group="n4_mwp4"/>
     <component id="n3_mwp4" name="btn_help" src="mwp49" fileName="component/ButtonHelp.xml" xy="950,8" group="n4_mwp4"/>
-    <group id="n4_mwp4" name="n4" xy="950,8" size="228,68" advanced="true" collapsed="true">
+    <group id="n4_mwp4" name="n4" xy="950,8" size="228,68" advanced="true">
       <relation target="" sidePair="right-right"/>
     </group>
+    <component id="n25_s3e1" name="btn_talk" src="s3e149" fileName="component/ButtonTalk.xml" xy="1098,640" visible="false">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </component>
     <component id="n15_rezh" name="btn_invite" src="rezh1s" fileName="component/ButtonInvite.xml" xy="515,507">
       <relation target="n0_mwp4" sidePair="center-center,top-bottom"/>
     </component>
+    <component id="n24_s3e1" name="btn_chat" src="s3e148" fileName="component/ButtonChat.xml" xy="1096,641">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </component>
+    <graph id="n29_h9yl" name="n29" xy="1022,651" size="176,92" group="n31_h9yl" touchable="false" type="rect" lineColor="#00000000" corner="20"/>
+    <text id="n30_h9yl" name="n30" xy="1027,671" size="166,59" group="n31_h9yl" fontSize="24" color="#333333" align="center" vAlign="middle" autoSize="none" text="点击此处分享给好友"/>
+    <group id="n31_h9yl" name="sharetips" xy="1022,651" size="176,92" advanced="true" collapsed="true">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </group>
+    <graph id="n33_gtlg" name="n33" xy="6,6" size="220,89" group="n37_gtlg" type="rect" lineColor="#ff666666" fillColor="#99002e1e" corner="5"/>
+    <text id="n34_gtlg" name="txt_room" xy="21,9" size="10,28" group="n37_gtlg" fontSize="24" color="#ffffff" text=""/>
+    <text id="n35_gtlg" name="txt_jushu" xy="21,38" size="10,28" group="n37_gtlg" fontSize="24" color="#ffffff" text=""/>
+    <text id="n36_gtlg" name="txt_roomtype" xy="21,66" size="10,28" group="n37_gtlg" fontSize="24" color="#ffffff" text=""/>
+    <group id="n37_gtlg" name="n37" xy="6,6" size="220,89" advanced="true" collapsed="true"/>
     <component id="n28_g2wj" name="btn_start" src="buf650" fileName="component/ButtonPlay.xml" xy="503,597">
       <relation target="n0_mwp4" sidePair="center-center,bottom-bottom"/>
     </component>
@@ -31,13 +47,13 @@
       <gearDisplay controller="playerNumCtrl" pages="0,2,4"/>
       <relation target="n0_mwp4" sidePair="center-center"/>
     </component>
-    <component id="n8_mwp4" name="head3" src="mwp42" fileName="component/PlayerHead.xml" xy="1044,196">
-      <gearDisplay controller="playerNumCtrl" pages="1,2,3,4"/>
-      <relation target="n0_mwp4" sidePair="right-right,top-middle"/>
-    </component>
     <component id="n9_mwp4" name="head2" src="mwp42" fileName="component/PlayerHead.xml" xy="1044,434">
       <gearDisplay controller="playerNumCtrl" pages="3,4"/>
       <relation target="" sidePair="right-right,bottom-bottom"/>
+    </component>
+    <component id="n8_mwp4" name="head3" src="mwp42" fileName="component/PlayerHead.xml" xy="1044,196">
+      <gearDisplay controller="playerNumCtrl" pages="1,2,3,4"/>
+      <relation target="n0_mwp4" sidePair="right-right,top-middle"/>
     </component>
     <component id="n10_mwp4" name="head6" src="mwp42" fileName="component/PlayerHead.xml" xy="22,434">
       <gearDisplay controller="playerNumCtrl" pages="3,4"/>
@@ -59,25 +75,9 @@
     <component id="n16_rezh" name="btn_ready" src="rezh1t" fileName="component/ButtonStart.xml" xy="515,607">
       <relation target="n0_mwp4" sidePair="center-center,top-bottom"/>
     </component>
-    <component id="n24_s3e1" name="btn_chat" src="s3e148" fileName="component/ButtonChat.xml" xy="1096,641">
-      <relation target="" sidePair="right-right,bottom-bottom"/>
-    </component>
-    <component id="n25_s3e1" name="btn_talk" src="s3e149" fileName="component/ButtonTalk.xml" xy="1098,640" visible="false">
-      <relation target="" sidePair="right-right,bottom-bottom"/>
-    </component>
     <image id="n26_ct6q" name="img_start" src="ct6q4a" fileName="imgs/game_0000_对局开始.png" xy="442,320" pivot="0.5,0.5">
       <relation target="" sidePair="center-center,middle-middle"/>
     </image>
-    <graph id="n33_gtlg" name="n33" xy="6,6" size="220,89" group="n37_gtlg" type="rect" lineColor="#ff666666" fillColor="#99002e1e" corner="5"/>
-    <text id="n34_gtlg" name="txt_room" xy="21,13" size="10,24" group="n37_gtlg" fontSize="20" color="#ffffff" text=""/>
-    <text id="n35_gtlg" name="txt_jushu" xy="21,39" size="10,24" group="n37_gtlg" fontSize="20" color="#ffffff" text=""/>
-    <text id="n36_gtlg" name="txt_roomtype" xy="21,65" size="10,24" group="n37_gtlg" fontSize="20" color="#ffffff" text=""/>
-    <group id="n37_gtlg" name="n37" xy="6,6" size="220,89" advanced="true" collapsed="true"/>
-    <graph id="n29_h9yl" name="n29" xy="1021,651" size="176,92" group="n31_h9yl" touchable="false" type="rect" lineColor="#00000000" corner="20"/>
-    <text id="n30_h9yl" name="n30" xy="1026,671" size="166,59" group="n31_h9yl" fontSize="24" color="#333333" align="center" vAlign="middle" autoSize="none" text="点击此处分享给好友"/>
-    <group id="n31_h9yl" name="sharetips" xy="1021,651" size="176,92" advanced="true">
-      <relation target="" sidePair="right-right,bottom-bottom"/>
-    </group>
     <component id="n32_dowq" name="btn_continue" src="sl2kr" fileName="component/ButtonContinue.xml" pkg="25mni52o" xy="505,339">
       <relation target="" sidePair="center-center,middle-middle"/>
     </component>

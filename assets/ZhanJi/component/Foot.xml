@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1000,80">
+  <displayList>
+    <text id="n0_o3yt" name="n0" xy="234,28" size="430,24" fontSize="20" color="#666666" align="center" vAlign="middle" autoSize="none" text="向上滑动刷新数据"/>
+    <image id="n1_o3yt" name="n1" src="o3ytq" fileName="imgs/arrow.png" xy="547,7"/>
+  </displayList>
+</component>

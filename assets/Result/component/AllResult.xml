@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1206,750" adaptationTest="FitHeightAndSetCenter">
-  <controller name="c1" pages="0,,1," selected="1"/>
+  <controller name="c1" pages="0,,1," selected="0"/>
   <displayList>
     <image id="n0_sl2k" name="n0" src="sl2k0" fileName="结算背景.jpg" pkg="2k7rhsvh" xy="0,0">
       <relation target="" sidePair="width-width,height-height"/>
@@ -15,7 +15,7 @@
       <gearDisplay controller="c1" pages="0"/>
       <relation target="" sidePair="center-center,bottom-bottom"/>
     </component>
-    <component id="n10_sl2k" name="btn_back" src="sl2ks" fileName="component/ButtonBack.xml" xy="498,662">
+    <component id="n10_sl2k" name="btn_back" src="sl2ks" fileName="component/ButtonBack.xml" xy="685,662">
       <gearDisplay controller="c1" pages="0,1"/>
       <gearXY controller="c1" pages="1" values="498,662" default="685,662"/>
       <relation target="" sidePair="center-center,bottom-bottom"/>
@@ -26,8 +26,9 @@
     <text id="n13_sl2k" name="txt_info" xy="834,76" size="301,26" fontSize="24" color="#eee2d5" align="right" autoSize="none" text="房费AA  6人  12局  坐庄">
       <relation target="" sidePair="center-center"/>
     </text>
-    <list id="n14_sl2k" name="list" xy="61,127" size="1084,528" touchable="false" layout="row" overflow="scroll" defaultItem="ui://25mni52osl2kw" align="center" vAlign="middle">
+    <list id="n14_sl2k" name="list" xy="0,127" size="1206,528" touchable="false" layout="row" overflow="scroll" defaultItem="ui://25mni52osl2kw" align="center" vAlign="middle">
       <relation target="" sidePair="center-center"/>
+      <item/>
       <item/>
       <item/>
       <item/>

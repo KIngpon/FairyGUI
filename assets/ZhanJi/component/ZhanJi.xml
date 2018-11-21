@@ -2,7 +2,7 @@
 <component size="1000,518">
   <displayList>
     <component id="n0_p0d6" name="panelBg" src="nl0p9" fileName="component/PopModuleBg.xml" pkg="i36kne80" xy="0,0" size="1000,581"/>
-    <list id="n2_p0d6" name="list" xy="21,68" size="958,404" overflow="scroll" defaultItem="ui://lxifvkdup0d62">
+    <list id="n2_p0d6" name="list" xy="21,68" size="958,404" overflow="scroll" ptrRes=",ui://lxifvkduo3ytp" defaultItem="ui://lxifvkdup0d62">
       <item/>
       <item/>
       <item/>

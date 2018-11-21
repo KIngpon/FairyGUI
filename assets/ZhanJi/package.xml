@@ -25,6 +25,8 @@
     <component id="q3d5m" name="JieSanSort.xml" path="/component/" exported="true"/>
     <component id="q3d5n" name="JieSanItem.xml" path="/component/" exported="true"/>
     <image id="q3d5o" name="解散顺序.png" path="/imgs/"/>
+    <component id="o3ytp" name="Foot.xml" path="/component/" exported="true"/>
+    <image id="o3ytq" name="arrow.png" path="/imgs/"/>
   </resources>
   <publish name="ZhanJi" genCode="true"/>
 </packageDescription>
