@@ -16,8 +16,8 @@
     <group id="n53_p0d6" name="n53" xy="788,8" size="410,89" advanced="true" collapsed="true">
       <relation target="" sidePair="right-right,top-top"/>
     </group>
-    <image id="n54_p0d6" name="n54" src="p0d629" fileName="imgs/十三水@3x.png" xy="516,19">
-      <relation target="" sidePair="center-center"/>
+    <image id="n54_p0d6" name="n54" src="p0d629" fileName="imgs/十三水@3x.png" xy="488,-8" size="270,107" scale="0.9,0.9">
+      <relation target="" sidePair="center-center,top-top"/>
     </image>
     <image id="n57_p0d6" name="n57" src="p0d62c" fileName="imgs/房卡数量底框@3x.png" xy="298,19" group="n58_p0d6"/>
     <image id="n56_p0d6" name="n56" src="p0d62b" fileName="imgs/房卡@3x.png" xy="276,17" group="n58_p0d6"/>
@@ -62,5 +62,8 @@
     <graph id="n81_g6c3" name="sp_jj" xy="1200,317" size="200,200" rotation="45" type="rect" lineColor="#03000000" fillColor="#00ffffff">
       <relation target="n76_rv2q" sidePair="center-center,middle-middle"/>
     </graph>
+    <text id="n83_o1zk" name="n83" xy="375,94" size="455,34" fontSize="30" color="#009900" align="center" autoSize="none" text="本游戏仅供娱乐，严禁赌博">
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
   </displayList>
 </component>

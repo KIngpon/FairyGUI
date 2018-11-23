@@ -19,11 +19,12 @@
       <item/>
     </list>
     <component id="n3_dowq" name="n3" src="dowq1d" fileName="component/ButtonGetAll.xml" xy="362,469" group="n4_f3x2"/>
-    <group id="n4_f3x2" name="mcontent" xy="47,79" size="825,463" advanced="true">
+    <group id="n4_f3x2" name="mcontent" xy="47,79" size="825,463" hideByEditor="true" advanced="true">
       <gearDisplay controller="c1" pages="0"/>
     </group>
     <text id="n5_f3x2" name="n5" xy="389,271" size="141,38" fontSize="34" color="#a46148" text="暂无邮件">
       <gearDisplay controller="c1" pages="1"/>
     </text>
+    <text id="n8_fl0p" name="n8" xy="253,515" size="413,38" fontSize="34" color="#009900" text="本游戏仅供娱乐，严禁赌博"/>
   </displayList>
 </component>

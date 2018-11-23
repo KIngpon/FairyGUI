@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1206,750" adaptationTest="FitSize">
-  <controller name="playerNumCtrl" pages="0,2,1,3,2,4,3,5,4,6" selected="4">
+  <controller name="playerNumCtrl" pages="0,2,1,3,2,4,3,5,4,6" selected="0">
     <remark page="0" value="2"/>
     <remark page="1" value="3"/>
     <remark page="2" value="4"/>
@@ -11,6 +11,9 @@
     <loader id="n0_mwp4" name="bg" xy="0,0" size="1206,750" url="ui://9s4fd8dyrezh0" fill="scaleFree">
       <relation target="" sidePair="width-width,height-height"/>
     </loader>
+    <image id="n13_mwp4" name="n13" src="mwp4f" fileName="imgs/十三水@3x.png" xy="468,330" alpha="0.25">
+      <relation target="n0_mwp4" sidePair="center-center,middle-middle"/>
+    </image>
     <component id="n1_mwp4" name="btn_quit" src="mwp48" fileName="component/ButtonExit.xml" xy="1111,8" group="n4_mwp4"/>
     <component id="n2_mwp4" name="btn_setting" src="mwp47" fileName="component/ButtonGameSetting.xml" xy="1030,8" group="n4_mwp4"/>
     <component id="n3_mwp4" name="btn_help" src="mwp49" fileName="component/ButtonHelp.xml" xy="950,8" group="n4_mwp4"/>
@@ -63,9 +66,6 @@
       <gearDisplay controller="playerNumCtrl" pages="0,1,2,3,4"/>
       <relation target="n0_mwp4" sidePair="center-center,bottom-bottom"/>
     </component>
-    <image id="n13_mwp4" name="n13" src="mwp4f" fileName="imgs/十三水@3x.png" xy="468,330">
-      <relation target="n0_mwp4" sidePair="center-center,middle-middle"/>
-    </image>
     <component id="n17_rezh" name="n17" src="rezh1v" fileName="component/ButtonPaiXing.xml" xy="40,650" visible="false">
       <relation target="n0_mwp4" sidePair="bottom-bottom"/>
     </component>
@@ -75,13 +75,13 @@
     <component id="n16_rezh" name="btn_ready" src="rezh1t" fileName="component/ButtonStart.xml" xy="515,607">
       <relation target="n0_mwp4" sidePair="center-center,top-bottom"/>
     </component>
-    <image id="n26_ct6q" name="img_start" src="ct6q4a" fileName="imgs/game_0000_对局开始.png" xy="442,320" pivot="0.5,0.5">
+    <image id="n26_ct6q" name="img_start" src="ct6q4a" fileName="imgs/game_0000_对局开始.png" xy="442,320" pivot="0.5,0.5" hideByEditor="true">
       <relation target="" sidePair="center-center,middle-middle"/>
     </image>
-    <component id="n32_dowq" name="btn_continue" src="sl2kr" fileName="component/ButtonContinue.xml" pkg="25mni52o" xy="505,339">
+    <component id="n32_dowq" name="btn_continue" src="sl2kr" fileName="component/ButtonContinue.xml" pkg="25mni52o" xy="505,339" hideByEditor="true">
       <relation target="" sidePair="center-center,middle-middle"/>
     </component>
-    <image id="n38_q3d5" name="qld" src="q3d55z" fileName="imgs/全垒打.png" xy="287,252" pivot="0.5,0.5">
+    <image id="n38_q3d5" name="qld" src="q3d55z" fileName="imgs/全垒打.png" xy="287,252" pivot="0.5,0.5" hideByEditor="true">
       <relation target="" sidePair="center-center,middle-middle"/>
     </image>
   </displayList>

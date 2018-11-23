@@ -3,7 +3,6 @@
   <resources>
     <component id="kyt83" name="LoadingModule.xml" path="/" exported="true"/>
     <component id="gl8o6" name="ButtonStart.xml" path="/"/>
-    <image id="99mf7" name="图层 1@3x.png" path="/ui/" exported="true"/>
     <image id="q3d58" name="2e200e7ed33c2172161bb91311d941b1.png" path="/ui/"/>
     <image id="q3d5a" name="十三水.png" path="/ui/"/>
   </resources>

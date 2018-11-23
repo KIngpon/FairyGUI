@@ -22,7 +22,10 @@
     <group id="n17_f3x2" name="mcontent" xy="34,69" size="859,481" advanced="true">
       <gearDisplay controller="c1" pages="0"/>
     </group>
-    <text id="n18_f3x2" name="n18" xy="391,271" size="141,38" fontSize="34" color="#a46148" text="敬请期待">
+    <text id="n18_f3x2" name="n18" xy="390,272" size="141,38" fontSize="34" color="#a46148" text="敬请期待">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+    <text id="n19_fl0p" name="n19" xy="255,513" size="413,38" fontSize="34" color="#009900" vAlign="middle" text="本游戏仅供娱乐，严禁赌博">
       <gearDisplay controller="c1" pages="1"/>
     </text>
   </displayList>

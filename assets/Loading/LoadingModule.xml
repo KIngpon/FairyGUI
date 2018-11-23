@@ -1,30 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1206,750">
   <displayList>
-    <image id="n7_99mf" name="n7" src="99mf7" fileName="ui/图层 1@3x.png" xy="0,0">
+    <image id="n12_fl0p" name="n12" src="du500" fileName="图层 1@3x.png" pkg="girhhq2k" xy="0,0">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <component id="n0_kyt8" name="bar" src="rqsr0" fileName="Bar.xml" pkg="0rnt8u4y" xy="285,508">
+    <component id="n0_kyt8" name="bar" src="rqsr0" fileName="Bar.xml" pkg="0rnt8u4y" xy="285,508" hideByEditor="true">
       <relation target="" sidePair="center-center,bottom-bottom"/>
       <ProgressBar value="100" max="100"/>
     </component>
     <graph id="n2_gl8o" name="n2" xy="299,557" size="606,100" group="n3_gl8o" type="rect" fillColor="#4dffffff"/>
     <text id="n1_gl8o" name="txt_name" xy="310,559" size="588,101" group="n3_gl8o" input="true" fontSize="30" align="center" vAlign="middle" autoSize="none" text=""/>
-    <group id="n3_gl8o" name="txt" xy="299,557" size="606,103" advanced="true">
+    <group id="n3_gl8o" name="txt" xy="299,557" size="606,103" hideByEditor="true" advanced="true">
       <relation target="" sidePair="center-center,middle-middle"/>
     </group>
-    <component id="n6_gl8o" name="btn_start" src="gl8o6" fileName="ButtonStart.xml" xy="483,665" size="236,75">
+    <component id="n6_gl8o" name="btn_start" src="gl8o6" fileName="ButtonStart.xml" xy="483,665" size="236,75" hideByEditor="true">
       <relation target="" sidePair="center-center,bottom-bottom"/>
       <Button title="开始游戏"/>
     </component>
-    <image id="n8_q3d5" name="n8" src="q3d5a" fileName="ui/十三水.png" xy="215,157">
+    <image id="n8_q3d5" name="n8" src="q3d5a" fileName="ui/十三水.png" xy="215,107">
       <relation target="" sidePair="center-center,middle-middle"/>
     </image>
-    <text id="n9_q3d5" name="n9" xy="531,470" size="144,28" fontSize="24" color="#ffffff" italic="true" text="正在加载中...">
+    <text id="n9_q3d5" name="n9" xy="531,470" size="144,28" hideByEditor="true" fontSize="24" color="#ffffff" italic="true" text="正在加载中...">
       <relation target="n0_kyt8" sidePair="center-center,top-top"/>
     </text>
-    <image id="n10_q3d5" name="img" src="rqsr3" fileName="ui/3d76c201475708d001c11b470b4d2e1c8cfc5d31363fc-yySbPT.png" pkg="0rnt8u4y" xy="280,477">
+    <image id="n10_q3d5" name="img" src="rqsr3" fileName="ui/3d76c201475708d001c11b470b4d2e1c8cfc5d31363fc-yySbPT.png" pkg="0rnt8u4y" xy="280,477" hideByEditor="true">
       <relation target="n0_kyt8" sidePair="left-left,top-top"/>
     </image>
+    <text id="n11_o1zk" name="n11" xy="128,577" size="950,163" fontSize="20" color="#ffffff" align="center" vAlign="middle" leading="4" autoSize="none" text="著  作  权  人：咸宁方片互动网络有限公司 &#xA;鄂  文  网  文：[2017]3934-076号        软 著 登 记 号：2017SR390143&#xA;ICP：鄂B2-20170199       批文号：新广出审[2017]8670号        版号：ISBN 978-7-498-01637-9&#xA;抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。&#xA;适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。&#xA;">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </text>
   </displayList>
 </component>

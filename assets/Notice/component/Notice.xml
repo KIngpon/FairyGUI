@@ -25,5 +25,8 @@
     <text id="n17_f3x2" name="n17" xy="391,271" size="141,38" fontSize="34" color="#a46148" text="敬请期待">
       <gearDisplay controller="c1" pages="1"/>
     </text>
+    <text id="n19_fl0p" name="n19" xy="255,509" size="413,38" fontSize="34" color="#009900" text="本游戏仅供娱乐，严禁赌博">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
   </displayList>
 </component>
