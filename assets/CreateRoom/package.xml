@@ -38,6 +38,13 @@
     <image id="99mf14" name="game_0004_大小王十三水.png" path="/imgs/"/>
     <image id="99mf15" name="game_0005_加一色十三水.png" path="/imgs/"/>
     <image id="99mf16" name="game_0006_十三水-拷贝.png" path="/imgs/"/>
+    <image id="mdwm17" name="shuoming.png" path="/imgs/"/>
+    <component id="mdwm18" name="ButtonShuoming.xml" path="/component/"/>
+    <component id="mdwm19" name="GameShuoMing.xml" path="/component/" exported="true"/>
+    <image id="mdwm1a" name="模式说明.png" path="/imgs/" exported="true"/>
+    <image id="mdwm1b" name="摆十三张.png" path="/imgs/"/>
+    <image id="mdwm1c" name="摆十三张1.png" path="/imgs/"/>
+    <component id="mdwm1d" name="ButtonType7.xml" path="/component/"/>
   </resources>
   <publish name="CreateRoom" genCode="true"/>
 </packageDescription>

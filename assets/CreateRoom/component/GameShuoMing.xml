@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="924,581">
+  <displayList>
+    <component id="n0_mdwm" name="panelBg" src="nl0p9" fileName="component/PopModuleBg.xml" pkg="i36kne80" xy="-2,0"/>
+    <text id="n1_mdwm" name="txt_content" xy="29,83" size="863,452" fontSize="24" color="#990000" leading="6" autoSize="none" text=""/>
+  </displayList>
+</component>

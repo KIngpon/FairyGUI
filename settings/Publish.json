@@ -8,8 +8,8 @@
 		"memberNamePrefix":"m_",
 		"packageName":"UI"
 	},
-	"compressDesc":true,
-	"fileExtension":"zip",
+	"compressDesc":false,
+	"fileExtension":"",
 	"packageCount":2,
 	"path":"/Users/WT/walt/egret/work/13/ThirteenPoker/resource/assets/ui"
 }

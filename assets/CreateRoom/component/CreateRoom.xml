@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="924,581">
-  <controller name="typeCtrl" pages="0,,1,,2,,3,,4,,5," selected="1"/>
+  <controller name="typeCtrl" pages="0,,1,,2,,3,,4,,5," selected="5"/>
   <controller name="payCtrl" pages="0,,1," selected="1"/>
   <controller name="JuShuCtrl" pages="0,,1,,2," selected="2"/>
-  <controller name="NumCtrl" pages="0,,1,,2,,3," selected="1"/>
+  <controller name="NumCtrl" pages="0,,1,,2,,3," selected="3"/>
   <controller name="NumCtrl1" pages="0,,1,,2," selected="2"/>
+  <controller name="tonghuaType" pages="0,,1," selected="0"/>
   <displayList>
     <component id="n0_sej4" name="panelBg" src="nl0p9" fileName="component/PopModuleBg.xml" pkg="i36kne80" xy="0,0"/>
     <image id="n1_sej4" name="n1" src="sej43" fileName="imgs/创建房间底框@3x.png" xy="18,59"/>
@@ -14,7 +15,10 @@
       <Button controller="typeCtrl" page="0"/>
     </component>
     <component id="n7_h5w5" name="btn_type1" src="h5w5o" fileName="component/ButtonType2.xml" xy="21,153">
-      <Button checked="true" controller="typeCtrl" page="1"/>
+      <Button controller="typeCtrl" page="1"/>
+    </component>
+    <component id="n60_q7wd" name="btn_type5" src="mdwm1d" fileName="component/ButtonType7.xml" xy="22,487" alpha="0.97">
+      <Button checked="true" controller="typeCtrl" page="5"/>
     </component>
     <component id="n8_h5w5" name="btn_type2" src="h5w5p" fileName="component/ButtonType3.xml" xy="21,237">
       <Button controller="typeCtrl" page="2"/>
@@ -25,9 +29,6 @@
     <component id="n10_h5w5" name="btn_type4" src="h5w5s" fileName="component/ButtonType5.xml" xy="21,405">
       <Button controller="typeCtrl" page="4"/>
     </component>
-    <image id="n5_h5w5" name="n5" src="sej46" fileName="imgs/创建选中三角形@3x.png" xy="235,175">
-      <gearXY controller="typeCtrl" pages="0,1,2,3,4" values="235,89|235,175|235,258|235,342|235,423" default="235,175"/>
-    </image>
     <component id="n11_h5w5" name="btn_paytype0" src="h5w5t" fileName="component/ButtonRadio.xml" xy="432,83">
       <Button controller="payCtrl" page="0"/>
     </component>
@@ -50,7 +51,7 @@
     <component id="n17_h5w5" name="check_3" src="h5w5u" fileName="component/ButtonCheckBox.xml" xy="572,260">
       <gearDisplay controller="NumCtrl1" pages="0,1"/>
       <gearXY controller="NumCtrl1" pages="1" values="547,258" default="572,260"/>
-      <Button checked="true" controller="NumCtrl" page="1"/>
+      <Button controller="NumCtrl" page="1"/>
     </component>
     <component id="n18_h5w5" name="check_4" src="h5w5u" fileName="component/ButtonCheckBox.xml" xy="714,260">
       <gearDisplay controller="NumCtrl1" pages="0,1"/>
@@ -85,7 +86,7 @@
     <component id="n41_lli0" name="check_5" src="h5w5u" fileName="component/ButtonCheckBox.xml" xy="827,258">
       <gearDisplay controller="NumCtrl1" pages="1"/>
       <gearXY controller="NumCtrl1" pages="1" values="781,258" default="827,258"/>
-      <Button controller="NumCtrl" page="3"/>
+      <Button checked="true" controller="NumCtrl" page="3"/>
     </component>
     <text id="n42_lli0" name="num4" xy="884,264" size="42,28" fontSize="24" color="#a92519" text="5人">
       <gearDisplay controller="NumCtrl1" pages="1"/>
@@ -109,5 +110,21 @@
     <component id="n57_ijgv" name="checkbox_jiayise" src="ct6qx" fileName="component/ButtonCheckBoxMuti.xml" xy="715,342" group="n59_ijgv"/>
     <text id="n58_ijgv" name="n58" xy="768,347" size="77,28" group="n59_ijgv" fontSize="24" color="#a92519" text="加一色"/>
     <group id="n59_ijgv" name="jiayise" xy="715,342" size="130,46" advanced="true"/>
+    <component id="n62_mdwm" name="btn_shuoming" src="mdwm18" fileName="component/ButtonShuoming.xml" xy="63,21"/>
+    <component id="n63_mdwm" name="btn_tonghuatype0" src="h5w5t" fileName="component/ButtonRadio.xml" xy="432,413" group="n67_mdwm">
+      <Button checked="true" controller="tonghuaType" page="0"/>
+    </component>
+    <component id="n64_mdwm" name="btn_tonghuatype1" src="h5w5t" fileName="component/ButtonRadio.xml" xy="674,414" group="n67_mdwm">
+      <Button controller="tonghuaType" page="1"/>
+    </component>
+    <text id="n65_mdwm" name="n65" xy="498,415" size="149,28" group="n67_mdwm" fontSize="24" color="#a92519" text="同花先比大小"/>
+    <text id="n66_mdwm" name="n66" xy="738,415" size="149,28" group="n67_mdwm" fontSize="24" color="#a92519" text="同花先比花色"/>
+    <group id="n67_mdwm" name="n67" xy="432,413" size="455,42" advanced="true">
+      <gearDisplay controller="typeCtrl" pages="5"/>
+      <relation target="" sidePair=""/>
+    </group>
+    <image id="n5_h5w5" name="n5" src="sej46" fileName="imgs/创建选中三角形@3x.png" xy="235,507">
+      <gearXY controller="typeCtrl" pages="0,1,2,3,4,5" values="235,89|235,175|235,258|235,342|235,423|235,507"/>
+    </image>
   </displayList>
 </component>
